@@ -1,0 +1,10 @@
+# 1.1
+a) false.
+b) X = pat.
+c) X = bob.
+d) X = bob, Y = pat.
+
+#1.2
+a) ?-parent(X, pat).
+b) ?-parent(liz, X).
+c) ?-parent(Y, pat), parent(X, Y).

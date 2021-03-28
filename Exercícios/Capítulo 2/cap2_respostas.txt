@@ -1,0 +1,76 @@
+# 2.1
+a) Variável
+b) Átomo
+c) Átomo
+d) Variável
+e) Átomo
+f) Estrutura
+g) Número
+h) Sintaticamente incorreto
+i) Estrutura
+j) Estrutura
+
+# 2.2
+- Retângulo:
+R = retangulo(ponto(A, B), ponto(A, C), ponto(D, B), ponto (D, C)).
+
+Exemplo: 
+R = retangulo(ponto(0, 1), ponto(0, 2), ponto(3, 1), ponto(3, 2)).
+
+- Quadrado:
+Q = retangulo(ponto(A, B), ponto(A, C), ponto(D, B), ponto (D, C)),
+	distancia(ponto(A, B), ponto(A, C), X),
+	distancia(ponto(A, B), ponto(D, B), X).
+
+Exemplo:
+Q = retangulo(ponto(0, 0), ponto(0, 1), ponto(1, 0), ponto(1, 1)),
+	distancia(ponto(0, 0), ponto(0, 1), 1),
+	distancia(ponto(0, 0), ponto(1, 0), 1).
+
+- Círculo:
+C = circulo(ponto(A, B), ponto(X, Y)),
+	distancia(ponto(A, B), ponto(X, Y), Raio).
+
+Exemplo:
+C = circulo(ponto(0, 0), ponto(0, 1)),
+	distancia(ponto(0, 0), ponto(0, 1), 1).
+
+# 2.3
+a) A = 1, B = 2.
+b) false.
+c) false.
+d) D = E, E = 2.
+e) P2 = point(1, 0), P3 = point(0, Y), P1 = point(-1, 0). 
+Representa uma família de triângulos com 2 vértices no eixo X, nos pontos -1 e 1, e o terceiro ponto em qualquer lugar do eixo Y.
+
+# 2.4
+seg(point(5, Y), point(5, Y1)).
+
+# 2.5
+regular(retangulo(ponto(A, B), ponto(A, C), ponto(D, B), ponto (D, C))).
+
+# 2.6
+a) A = two.
+b) false.
+c) C = one.
+d) D = s(s(1)) ;
+   D = s(s(s(s(s(1))))) ;
+   D = s(s(s(s(s(s(s(s(1)))))))) ;
+   D = s(s(s(s(s(s(s(s(s(s(...)))))))))).
+
+# 2.7
+relatives(X, Y) :-
+	predecessor(X, Y);
+	predecessor(Y, X);
+	predecessor(Z, X);
+	predecessor(Z, Y);
+	predecessor(X, Z);
+	predecessor(Y, Z).
+
+# 2.8
+translate(1, one).
+translate(2, two).
+translate(3, three).
+
+
+
