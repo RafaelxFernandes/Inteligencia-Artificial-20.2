@@ -1,0 +1,71 @@
+# 3.1
+a) conc(L1, [_, _, _], L).
+b) conc([_, _, _], L1, L),
+   conc(L2, [_, _, _], L1).
+
+# 3.2
+a) last(Item, List):- conc(_, [Item], List).
+b) // Perguntar
+
+# 3.3
+evenlength([]).
+evenlength([X|Y]):- oddlength(Y).
+
+oddlength([_]).
+oddlength([X|Y]): evenlength(Y).
+
+# 3.4
+reverse([], []).
+reverse([First|Rest], ReversedList):-
+	append(ReversedRest, [First], ReversedList),
+	reverse(Rest, ReversedRest).
+
+# 3.5
+palindrome(List):- reverse(List, List).
+
+# 3.6
+shift([Head|Tail], Shifted):- append(Tail, [Head], Shifted).
+
+# 3.7
+translate([Head1|Tail1], [Head2|Tail2]):-
+	means(Head1, Head2),
+	translate(Tail1, Tail2).
+
+# 3.8
+// Perguntar
+
+# 3.9 // Acho que lógica está correta mas não consigo testar. Perguntar
+dividelist([], [], []).
+dividelist([X], [X], []).
+dividelist(List, List1, List2):- dividelist([X, Y| List], [X|List1], [Y|List2]).
+
+# 3.11
+// Perguntar
+
+# 3.16
+max(X, Y, X):- X >= Y.
+max(X, Y, Y):- X < Y.
+
+# 3.17
+// Perguntar
+
+# 3.18
+sumlist([], 0).
+sumlist([Head|Tail], Sum):-
+	sumlist(Tail, Rest),
+	Sum is Head + Rest.
+
+# 3.19
+ordered([X, Y|Tail]):-
+	X =< Y,
+	ordered(Y|Tail).
+
+# 3.20
+// Perguntar
+
+# 3.21
+between(N1, N2, N1):- N1 =< N2.
+between(N1, N2, X):-
+	N1 < N2,
+	Between is N1 + 1,
+	between(Between, N2, X).
