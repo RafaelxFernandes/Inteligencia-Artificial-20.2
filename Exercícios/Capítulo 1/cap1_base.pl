@@ -31,7 +31,7 @@ sister(X,Y):-
 	female(X).
 
 
-predecessor(X,Y):- predecessor(X,Y).
+predecessor(X,Y):- parent(X,Y).
 predecessor(X,Y):- predecessor(X,Z), predecessor(Z,Y).
 
 ancestral2(X,Y):- parent(X,Z), ancestral2(Z,Y).
