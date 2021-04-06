@@ -10,7 +10,7 @@ h) Sintaticamente incorreto, pois número não pode ser functor
 i) Estrutura
 j) Sintaticamente incorreto, por causa do Black(Cats), o B deveria ser minúsculo
 
-# 2.2 // Não é a resposta aprovada pelo professor
+# 2.2
 - Retângulo:
 R = retangulo(ponto(A, B), ponto(A, C), ponto(D, B), ponto (D, C)).
 
