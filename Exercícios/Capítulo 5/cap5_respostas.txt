@@ -1,0 +1,26 @@
+# 5.1
+a) X = 1 ; 
+   X = 2.
+b) X = Y, Y = 1 ;
+   X = 1,
+   Y = 2 ;
+   X = 2,
+   Y = 1 ;
+   X = Y, Y = 2.
+c) X = Y, Y = 1 ;
+   X = 1,
+   Y = 2.
+
+# 5.2
+class(Number, positive):- Number > 0, !.
+class(0, zero):- !.
+class(Number, negative).
+
+# 5.3
+// Perguntar
+
+# 5.4
+member(Item, Candidate), not(member(Item, RuledOut)).
+
+# 5.5
+// Perguntar
