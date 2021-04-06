@@ -32,7 +32,7 @@ sister(X,Y):-
 
 
 predecessor(X,Y):- parent(X,Y).
-predecessor(X,Y):- predecessor(X,Z), predecessor(Z,Y).
+predecessor(X,Y):- parent(X,Z), predecessor(Z,Y).
 
 ancestral2(X,Y):- parent(X,Z), ancestral2(Z,Y).
 ancestral2(X,Y):- parent(X,Y).
