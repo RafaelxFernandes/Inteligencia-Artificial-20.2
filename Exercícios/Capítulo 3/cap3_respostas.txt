@@ -1,10 +1,10 @@
 # 3.1
-a) conc(L1, [_, _, _], L).
-b) conc([_, _, _], L1, L),
-   conc(L2, [_, _, _], L1).
+a) append(L1, [_, _, _], L).
+b) append([_, _, _], L1, L),
+   append(L2, [_, _, _], L1).
 
 # 3.2
-a) last(Item, List):- conc(_, [Item], List).
+a) last(Item, List):- append(_, [Item], List).
 b) // Perguntar
 
 # 3.3
