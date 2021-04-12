@@ -34,10 +34,10 @@ translate([Head1|Tail1], [Head2|Tail2]):-
 # 3.8
 // Perguntar
 
-# 3.9 // Acho que lógica está correta mas não consigo testar. Perguntar
+# 3.9
 dividelist([], [], []).
 dividelist([X], [X], []).
-dividelist(List, List1, List2):- dividelist([X, Y| List], [X|List1], [Y|List2]).
+dividelist([X, Y| List], [X|List1], [Y|List2]):- dividelist(List, List1, List2).
 
 # 3.11
 // Perguntar
