@@ -34,7 +34,6 @@ permutation2(L, [X|P]):-
 	del(X, L, L1),
 	permutation2(L1, P).
 
-
 reverse([], []).
 reverse([First|Rest], ReversedList):-
 	append(ReversedRest, [First], ReversedList),
@@ -44,7 +43,7 @@ shift([Head|Tail], Shifted):- append(Tail, [Head], Shifted).
 
 dividelist([], [], []).
 dividelist([X], [X], []).
-dividelist(List, List1, List2):- dividelist([X, Y| List], [X|List1], [Y|List2]).
+dividelist([X, Y| List], [X|List1], [Y|List2]):- dividelist(List, List1, List2).
 
 gcd(X, X, X).
 gcd(X, Y, D):-
