@@ -32,7 +32,9 @@ translate([Head1|Tail1], [Head2|Tail2]):-
 	translate(Tail1, Tail2).
 
 # 3.8
-// Perguntar
+subset([], []).
+subset([X|L], [X|L1]):- subset(L, L1).
+subset([X|L], L1):- subset(L, L1).
 
 # 3.9
 dividelist([], [], []).
