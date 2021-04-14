@@ -17,7 +17,12 @@ class(0, zero):- !.
 class(Number, negative).
 
 # 5.3
-// Perguntar
+split([], []).
+split([Number | NumbersList], [Number | Positives], Negatives):-
+	X >= 0, !,
+	split(NumbersList, Positives, Negatives).
+split([Number | NumbersList], Positives, [Number | Negatives]):-
+	split(NumbersList, Positives, Negatives).
 
 # 5.4
 member(Item, Candidate), not(member(Item, RuledOut)).

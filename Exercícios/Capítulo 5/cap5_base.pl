@@ -34,12 +34,12 @@ class(Number, positive):- Number > 0, !.
 class(0, zero):- !.
 class(Number, negative).
 
-% Incorreto
 split([], [], []).
-split([X|L], L1, L2):-
-	X >= 0,
-	add(X, L, [X|L1]),
-	split(L, L1, L2).
+split([Number | NumbersList], [Number | Positives], Negatives):-
+	Number >= 0, !,
+	split(NumbersList, Positives, Negatives).
+split([Number | NumbersList], Positives, [Number | Negatives]):-
+	split(NumbersList, Positives, Negatives).
 
 % Incorreto
 difference([], _, []).
