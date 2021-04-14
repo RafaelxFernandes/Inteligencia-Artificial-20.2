@@ -71,3 +71,19 @@ between(N1, N2, X):-
 	N1 < N2,
 	Between is N1 + 1,
 	between(Between, N2, X).
+
+% Perguntar
+flatten([], []).
+flatten(X, [X]).
+flatten([Head | Tail], FlatList):-
+	flatten(Head, [FlatHead]),
+	flatten(Tail, [FlatTail]),
+	append(FlatHead, FlatTail, Flatlist).
+
+max(X, Y, X):- X >= Y.
+max(X, Y, Y):- X < Y.
+
+maxlist([X], X).
+maxlist([X, Y | Tail], Max):-
+	maxlist([Y | Tail], MaxTail),
+	max(X, MaxTail, Max).

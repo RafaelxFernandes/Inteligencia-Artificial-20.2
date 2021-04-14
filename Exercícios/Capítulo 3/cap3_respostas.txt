@@ -5,7 +5,8 @@ b) append([_, _, _], L1, L),
 
 # 3.2
 a) last(Item, List):- append(_, [Item], List).
-b) // Perguntar
+b) last(Item, [Item]).
+   last(Item, [Head | Tail]):- last(Item, Tail).
 
 # 3.3
 evenlength([]).
@@ -41,15 +42,23 @@ dividelist([], [], []).
 dividelist([X], [X], []).
 dividelist([X, Y| List], [X|List1], [Y|List2]):- dividelist(List, List1, List2).
 
-# 3.11
-// Perguntar
+# 3.11 // Perguntar
+flatten([], []).
+flatten(X, [X]).
+flatten([Head | Tail], FlatList):-
+	flatten(Head, [FlatHead]),
+	flatten(Tail, [FlatTail]),
+	append(FlatHead, FlatTail, Flatlist).
 
 # 3.16
 max(X, Y, X):- X >= Y.
 max(X, Y, Y):- X < Y.
 
 # 3.17
-// Perguntar
+maxlist([X], X).
+maxlist([X, Y | Tail], Max):-
+	maxlist([Y | Tail], MaxTail),
+	max(X, MaxTail, Max).
 
 # 3.18
 sumlist([], 0).
