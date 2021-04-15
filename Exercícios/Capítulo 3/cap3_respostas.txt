@@ -42,13 +42,23 @@ dividelist([], [], []).
 dividelist([X], [X], []).
 dividelist([X, Y| List], [X|List1], [Y|List2]):- dividelist(List, List1, List2).
 
-# 3.11 // Perguntar
+# 3.11
+% Sem o cut => produz ruído
+flatten([Head | Tail], FlatList):-
+	flatten(Head, FlatHead),
+	flatten(Tail, FlatTail),
+	append(FlatHead, FlatTail, FlatList).
 flatten([], []).
 flatten(X, [X]).
+
+% Com o cut => retorna apenas a primeira resposta, que é a correta
+flatten([], []).
 flatten([Head | Tail], FlatList):-
-	flatten(Head, [FlatHead]),
-	flatten(Tail, [FlatTail]),
-	append(FlatHead, FlatTail, Flatlist).
+	flatten(Head, FlatHead),
+	flatten(Tail, FlatTail), !,
+	append(FlatHead, FlatTail, FlatList).
+flatten([], []).
+flatten(X, [X]).
 
 # 3.16
 max(X, Y, X):- X >= Y.
@@ -72,7 +82,17 @@ ordered([X, Y|Tail]):-
 	ordered(Y|Tail).
 
 # 3.20
-// Perguntar
+soma([], 0, []).
+
+% Elemento X está na sublista
+soma([X | L], N, [X | L1]):-
+	N1 is (N - X),
+	N1 >= 0,
+	soma(L, N1, L1).
+
+% Elemento X não está na sublista
+soma([X | L], N, L):-
+	soma(L, N, L1).
 
 # 3.21
 between(N1, N2, N1):- N1 =< N2.

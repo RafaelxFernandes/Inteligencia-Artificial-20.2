@@ -72,13 +72,22 @@ between(N1, N2, X):-
 	Between is N1 + 1,
 	between(Between, N2, X).
 
-% Perguntar
+% Sem o cut => produz ruído
+flatten([Head | Tail], FlatList):-
+	flatten(Head, FlatHead),
+	flatten(Tail, FlatTail),
+	append(FlatHead, FlatTail, FlatList).
 flatten([], []).
 flatten(X, [X]).
+
+% Com o cut => retorna apenas a primeira resposta, que é a correta
+flatten([], []).
 flatten([Head | Tail], FlatList):-
-	flatten(Head, [FlatHead]),
-	flatten(Tail, [FlatTail]),
-	append(FlatHead, FlatTail, Flatlist).
+	flatten(Head, FlatHead),
+	flatten(Tail, FlatTail), !,
+	append(FlatHead, FlatTail, FlatList).
+flatten([], []).
+flatten(X, [X]).
 
 max(X, Y, X):- X >= Y.
 max(X, Y, Y):- X < Y.
@@ -87,3 +96,15 @@ maxlist([X], X).
 maxlist([X, Y | Tail], Max):-
 	maxlist([Y | Tail], MaxTail),
 	max(X, MaxTail, Max).
+
+soma([], 0, []).
+
+% Elemento X está na sublista
+soma([X | L], N, [X | L1]):-
+	N1 is (N - X),
+	N1 >= 0,
+	soma(L, N1, L1).
+
+% Elemento X não está na sublista
+soma([X | L], N, L):-
+	soma(L, N, L1).
