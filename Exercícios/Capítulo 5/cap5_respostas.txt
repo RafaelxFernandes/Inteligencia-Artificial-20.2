@@ -17,9 +17,9 @@ class(0, zero):- !.
 class(Number, negative).
 
 # 5.3
-split([], []).
+split([], [], []).
 split([Number | NumbersList], [Number | Positives], Negatives):-
-	X >= 0, !,
+	Number >= 0, !,
 	split(NumbersList, Positives, Negatives).
 split([Number | NumbersList], Positives, [Number | Negatives]):-
 	split(NumbersList, Positives, Negatives).
@@ -28,4 +28,13 @@ split([Number | NumbersList], Positives, [Number | Negatives]):-
 member(Item, Candidate), not(member(Item, RuledOut)).
 
 # 5.5
-// Perguntar
+dif([], L, []).
+
+% Primeiro caso: elemento de L1 está em L2
+dif([X | L1], L2, L3):-
+	member(X, L2), !,
+	dif(L1, L2, L3).
+
+% Segundo caso: elemento de L1 não está em L2
+dif([X | L1], L2, [X | L3]):-
+	dif(L1, L2, L3).

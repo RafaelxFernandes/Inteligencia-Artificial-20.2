@@ -41,8 +41,13 @@ split([Number | NumbersList], [Number | Positives], Negatives):-
 split([Number | NumbersList], Positives, [Number | Negatives]):-
 	split(NumbersList, Positives, Negatives).
 
-% Incorreto
-difference([], _, []).
-difference([X|Set1], Set2, SetDifference):-
-	not(member(X, Set2)),
-	difference(Set1, Set2, SetDifference).
+dif([], L, []).
+
+% Primeiro caso: elemento de L1 está em L2
+dif([X | L1], L2, L3):-
+	member(X, L2), !,
+	dif(L1, L2, L3).
+
+% Segundo caso: elemento de L1 não está em L2
+dif([X | L1], L2, [X | L3]):-
+	dif(L1, L2, L3).
