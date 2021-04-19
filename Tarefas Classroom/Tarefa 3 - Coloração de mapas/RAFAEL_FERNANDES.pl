@@ -43,7 +43,7 @@ map(A, B, C, D, E, F):-
 
 
 % A imagem do mapa em questão encontra-se nesse link:
-%			> ==  Inserir link github do mapa  == <
+% https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Tarefas%20Classroom/Tarefa%203%20-%20Colora%C3%A7%C3%A3o%20de%20mapas/mapa.png
 
 
 % Fontes:
