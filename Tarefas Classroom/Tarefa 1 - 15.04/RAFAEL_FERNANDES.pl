@@ -23,22 +23,3 @@ prog2(X, L):-
 	Mod > 0,
 	Resultado is (X - Mod),
 	prog2(Resultado, L).
-
-
-
-
-
-%%%%%%%%% Jojo
-multiplos(0, [0]).
-multiplos(X, [H|T]):-
-	X >= 4,
-	0 is (X mod 4),
-	X1 is X - 4,
-	H = X,
-	multiplos(X1, T).
-multiplos(X, R):-
-	X >= 4,
-	Y is (X mod 4),
-	Y > 0,
-	X1 is X - Y,
-	multiplos(X1, R).
