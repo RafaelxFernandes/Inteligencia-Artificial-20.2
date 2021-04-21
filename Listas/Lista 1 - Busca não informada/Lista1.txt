@@ -1,0 +1,167 @@
+# 1
+Espaço de estados:
+	- 1: jarra 1 cheia
+	- 2: jarra 1 vazia
+	- 3: jarra 2 cheia
+	- 4: jarra 2 vazia
+	- 5: jarra 1 com 2 litros
+
+Estado inicial: Ambas as jarras vazias = {1, 3}
+
+Estado final: Jarra 1 com 2 litros e jarra 2 vazia = {4, 5}
+
+Regras:
+	- R1: encher jarra 1
+	- R2: encher jarra 2
+	- R3: esvaziar jarra 1
+	- R4: esvaziar jarra 2
+	- R5: transferir conteúdo da jarra 1 para a jarra 2
+	- R6: transferir conteúdo da jarra 2 para a jarra 1
+
+Custo: 1 para cada ação
+Custo total: 7
+Solução: R1 (4, 0) -> R5 (1, 3) -> R4 (1, 0) -> R5 (0, 1) -> R1 (4, 1) -> R5 (2, 3) -> R4 (2, 0)
+
+
+# 2
+a)
+Espaço de estados:
+	- 1: margem de origem contendo couve, cabra e lobo
+ 	- 2: margem de origem contendo couve e lobo
+	- 3: margem de origem contendo couve
+	- 4: margem de origem contendo cabra
+	- 5: margem de origem contendo lobo
+	- 6: margem de origem vazia
+	- 7: margem oposta contendo couve, cabra e lobo
+ 	- 8: margem oposta contendo couve e lobo
+	- 9: margem oposta contendo couve
+	- 10: margem oposta contendo cabra
+	- 11: margem oposta contendo lobo
+	- 12: margem oposta vazia
+	- 13: pessoa sozinha no barco
+	- 14: pessoa e couve no barco
+	- 15: pessoa e cabra no barco
+	- 16: pessoa e lobo no barco
+
+Estado inicial: {1, 12}
+
+Estado final: {6, 7}
+
+Regras:
+	- R1: levar couve de uma margem para outra
+	- R2: levar cabra de uma margem para outra
+	- R3: levar lobo de uma margem para outra
+	- R4: pessoa atravessa o rio sozinho
+
+Custo: 1 para cada ação
+
+b) R2 -> R4 -> R3 -> R2 -> R1 -> R4 -> R2
+
+c) // Perguntar => como fazer árvore de busca para uma solução única (letra B)?
+
+d) (Depende da letra C)
+
+
+# 3
+a)
+Objetivo: regiões adjacentes possuem cores diferentes
+
+Estado inicial: mapa totalmente descolorido
+
+Estados: // Perguntar => cada região seriam 4 estados pois poderia ser pintada por qualquer uma das 4 cores?
+
+Operadores:
+	- colorir região
+	- conferir se região adjacente possui mesma cor
+
+Custo: // Perguntar => 1 para cada operador?
+
+b) // Perguntar => não vi muita diferença entre profundidade e largura nesse caso
+Possíveis árvores:
+
+P(1) -> Sp(2) -> 	F(3) 
+       	   	 /   /   |   \    \
+             H(4) B(5)  L(6) Sw(7) I(8)
+
+
+Largura
+	           F(1)	 
+    /     /    /    |    \    \
+  Sp(2) H(3) B(4)  L(5) Sw(6) I(7)
+   |
+   P(8)
+
+Profundidade
+                   F(1)	 
+    /     /    /    |    \    \
+  Sp(2) H(4) B(5)  L(6) Sw(7) I(8)
+   |
+   P(3)
+
+
+# 4
+// Perguntar => não entendi o enunciado
+
+
+# 5
+a)
+// Perguntar => cada vez que o robô bate em um polígono ou muda sua direção == 1 ponto?
+
+b) (Depende da letra A)
+
+
+# 6
+a) Algoritmo de busca em profundidade, pois o algoritmo sorteia randomicamente uma célula vizinha que ainda não foi visitada, remove a “parede” entre estas duas células, e adiciona a nova célula a uma pilha, repetindo esse processo com a célula escolhida no último passo. Fazendo a árvore de derivação, percebemos que a árvore crescerá com base na última célula escolhida aleatoriamente.
+
+				o
+			/    /     \    \
+		       o    o       o    o
+			  / | \
+			 o  o  o
+		       / | \
+		      o  o  o
+		          / | \
+			  .....	
+
+b) // Não consegui
+
+
+# 7
+O número máximo de nós que serão gerados antes que uma solução seja encontrada: 
+b + b^2 + b^3 + ... + b^d = O(b^d)
+// Perguntar => é possível obter a solução sem que todos os n sejam gerados? Acredito que sim, mas SEMPRE?
+
+
+# 8
+// Perguntar => dificuldade em montar as árvores. Qualquer nó serve?
+Para limite = 1, preciso construir uma árvore para CADA nó?
+
+
+# 9
+- Largura
+Considerado completo para um grafo finito
+Não é necessariamente ótimo
+Tempo e memória (profundidade da meta = d) = O(b^d)
+
+- Profundidade
+Não é completo para árvores, mas é completo para grafos com espaço finito
+Não é ótimo em ambos os casos
+Complexidade temporal:
+	- árvore = O(b^m), m profundidade máxima de um nó
+	- grafo = limitada pelo tamanho espaço de estado
+Complexidade espacial:
+	- árvore = b*m
+	- grafo = limitada pelo tamanho espaço de estado
+
+- Profundidade com limite
+Não é completo se l < d (d: profundidade nó meta mais raso)
+Não é ótimo se l > d
+Complexidade temporal e espacial: O(b^l)
+
+- Custo uniforme
+Completo
+Ótimo em geral
+Tempo e memória = O(b^d)
+
+- Bidirecional
+// Não encontrei
