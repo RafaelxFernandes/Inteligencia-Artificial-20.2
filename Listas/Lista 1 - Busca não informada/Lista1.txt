@@ -1,3 +1,5 @@
+Link para fazer árvores de derivação: https://app.mindmup.com
+
 # 1
 Espaço de estados:
 	- 1: jarra 1 cheia
@@ -6,7 +8,7 @@ Espaço de estados:
 	- 4: jarra 2 vazia
 	- 5: jarra 1 com 2 litros
 
-Estado inicial: Ambas as jarras vazias = {1, 3}
+Estado inicial: Ambas as jarras vazias = {2, 4}
 
 Estado final: Jarra 1 com 2 litros e jarra 2 vazia = {4, 5}
 
@@ -20,121 +22,165 @@ Regras:
 
 Custo: 1 para cada ação
 Custo total: 7
-Solução: R1 (4, 0) -> R5 (1, 3) -> R4 (1, 0) -> R5 (0, 1) -> R1 (4, 1) -> R5 (2, 3) -> R4 (2, 0)
+Solução: R1 {4, 0} -> R5 {1, 3} -> R4 {1, 0} -> R5 {0, 1} -> R1 {4, 1} -> R5 {2, 3} -> R4 {2, 0}
 
 
 # 2
 a)
 Espaço de estados:
-	- 1: margem de origem contendo couve, cabra e lobo
- 	- 2: margem de origem contendo couve e lobo
-	- 3: margem de origem contendo couve
-	- 4: margem de origem contendo cabra
-	- 5: margem de origem contendo lobo
-	- 6: margem de origem vazia
-	- 7: margem oposta contendo couve, cabra e lobo
- 	- 8: margem oposta contendo couve e lobo
-	- 9: margem oposta contendo couve
-	- 10: margem oposta contendo cabra
-	- 11: margem oposta contendo lobo
-	- 12: margem oposta vazia
-	- 13: pessoa sozinha no barco
-	- 14: pessoa e couve no barco
-	- 15: pessoa e cabra no barco
-	- 16: pessoa e lobo no barco
 
-Estado inicial: {1, 12}
+ * Margem de origem
+	- 1:  margem de origem contendo pessoa, couve, cabra e lobo
+	- 2:  margem de origem contendo couve, cabra e lobo
+	- 3:  margem de origem contendo pessoa, couve e cabra
+	- 4:  margem de origem contendo pessoa, cabra e lobo
+	- 5:  margem de origem contendo pessoa, couve e lobo
+	- 6:  margem de origem contendo pessoa e couve
+	- 7:  margem de origem contendo pessoa e cabra
+	- 8:  margem de origem contendo pessoa e lobo
+	- 9:  margem de origem contendo couve e lobo
+	- 10: margem de origem contendo pessoa
+	- 11: margem de origem contendo couve
+	- 12: margem de origem contendo cabra
+	- 13: margem de origem contendo lobo
+	- 14: margem de origem vazia
 
-Estado final: {6, 7}
+ * Margem oposta	
+	- 15: margem oposta contendo pessoa, couve, cabra e lobo
+	- 16: margem oposta contendo couve, cabra e lobo
+	- 17: margem oposta contendo pessoa, couve e cabra
+	- 18: margem oposta contendo pessoa, cabra e lobo
+	- 19: margem oposta contendo pessoa, couve e lobo
+	- 20: margem oposta contendo pessoa e couve
+	- 21: margem oposta contendo pessoa e cabra
+	- 22: margem oposta contendo pessoa e lobo
+	- 23: margem oposta contendo couve e lobo
+	- 24: margem oposta contendo pessoa
+	- 25: margem oposta contendo couve
+	- 26: margem oposta contendo cabra
+	- 27: margem oposta contendo lobo
+	- 28: margem oposta vazia
+
+Estado inicial: {1, 28}
+
+Estado final: {14, 15}
 
 Regras:
-	- R1: levar couve de uma margem para outra
-	- R2: levar cabra de uma margem para outra
-	- R3: levar lobo de uma margem para outra
-	- R4: pessoa atravessa o rio sozinho
+	- R1: pessoa leva couve de uma margem para outra
+	- R2: pessoa leva cabra de uma margem para outra
+	- R3: pessoa leva lobo de uma margem para outra
+	- R4: pessoa atravessa o rio sozinha
 
 Custo: 1 para cada ação
 
-b) R2 -> R4 -> R3 -> R2 -> R1 -> R4 -> R2
+b) A estratégia escolhida foi busca em profundidade.
 
-c) // Perguntar => como fazer árvore de busca para uma solução única (letra B)?
+c) 	==> acrescentar link para inked-questao2 <==
 
-d) (Depende da letra C)
+d) {1, 28} -> R2 {9, 21} -> R4 {5, 26} -> R1 {13, 17} -> R2 {4, 25} -> R3 {12, 19} -> R4 {7, 23} -> R2 {14, 15}
 
 
 # 3
 a)
 Objetivo: regiões adjacentes possuem cores diferentes
 
-Estado inicial: mapa totalmente descolorido
+Estados: Tupla com 8 posições, cada posição representando um país, e um valor numérico de 0 à 4 representando as cores, sendo 0 a região descolorida
 
-Estados: // Perguntar => cada região seriam 4 estados pois poderia ser pintada por qualquer uma das 4 cores?
+Estado inicial: (0, 0, 0, 0, 0, 0, 0, 0)
 
 Operadores:
 	- colorir região
 	- conferir se região adjacente possui mesma cor
 
-Custo: // Perguntar => 1 para cada operador?
+Custo: 1 para colorir uma região e 1 para conferir se a região adjancente possui mesma cor
 
-b) // Perguntar => não vi muita diferença entre profundidade e largura nesse caso
-Possíveis árvores:
+b) Acredito que a busca em largura foi mais eficiente, pois podemos colorir todo o nível imediatamente abaixo da região "França" com uma mesma cor, e seus filhos com outra. Enquanto na busca por profundindade, precisamos conferir a cada passo qual é a cor do ancestral, para colorirmos de outra cor.
 
-P(1) -> Sp(2) -> 	F(3) 
-       	   	 /   /   |   \    \
-             H(4) B(5)  L(6) Sw(7) I(8)
-
-
-Largura
-	           F(1)	 
-    /     /    /    |    \    \
-  Sp(2) H(3) B(4)  L(5) Sw(6) I(7)
-   |
-   P(8)
-
-Profundidade
-                   F(1)	 
-    /     /    /    |    \    \
-  Sp(2) H(4) B(5)  L(6) Sw(7) I(8)
-   |
-   P(3)
+==> acrescentar links para inked-questao2-largura e inked-questao2-profundidade <==
 
 
 # 4
-// Perguntar => não entendi o enunciado
+Todas as buscas retornaram os mesmos resultados.
+A busca em profundidade retornou o valor da soma da coluna antes de iniciar a soma da coluna adjacente.
+Link imagem:
+
+A busca em largura retornou o valor da soma de cada coluna ao gerar o último nó das mesmas.
+Link imagem:
+
+A busca com custo-uniforme somou e retornou os valores da soma de cada coluna na ordem da coluna com o último nó de menor valor para a de maior.
+Link imagem:
+
+==> acrescentar links questao4-profundaide, questao4-largura, questao4-custouniforme
 
 
 # 5
-a)
-// Perguntar => cada vez que o robô bate em um polígono ou muda sua direção == 1 ponto?
+Link imagem:
 
-b) (Depende da letra A)
+a) O conjunto mínimo de pontos que deve ser considerado na busca do menor caminho entre um ponto de partida e um objetivo qualquer é {1, 2, 4, 6, 15, 16, 17, 18, 20, 21}. Os pontos {1, 2, 4, 6} são os pontos que o robô consegue enxergar do seu ponto de partida. Enquanto os pontos {15, 16, 17, 18, 20, 21} são os pontos a partir dos quais o robô consegue enxergar seu objetivo.
+
+b) O método que usaremos será de enumerar os vértices dos polígonos, e então dizer para qual vértice o robô irá se locomover.
+Consideremos que o robô vai do ponto de partida para o ponto 1. Dele, ele pode se locomover para 2 ou 3.
+Os sucessores para o ponto S são os pontos 1, 2, 4 e 6.	
 
 
 # 6
 a) Algoritmo de busca em profundidade, pois o algoritmo sorteia randomicamente uma célula vizinha que ainda não foi visitada, remove a “parede” entre estas duas células, e adiciona a nova célula a uma pilha, repetindo esse processo com a célula escolhida no último passo. Fazendo a árvore de derivação, percebemos que a árvore crescerá com base na última célula escolhida aleatoriamente.
 
-				o
-			/    /     \    \
-		       o    o       o    o
-			  / | \
-			 o  o  o
-		       / | \
-		      o  o  o
-		          / | \
-			  .....	
+		                        o (1/1)
+					|
+			    /  		|          \
+		           o (2/)       o (3/2)     o (10/)
+			        	|   
+				/       |      \
+			        o (4/3) o (8/)  o (9/)
+		        	| 
+			/       |       \
+		       o (5/)   o (6/4)  o(7/)
+		              / | \
+			      .....	
 
-b) // Não consegui
+b) 
+1 - Escolha a célula inicial, marque-a como visitada e empurre-a para a pilha 
+2 - Enquanto a pilha não está vazia Retirar uma célula da pilha e torná-la uma célula atual 
+	2.1 - Se a célula atual tiver algum vizinho que não tenha sido visitado 
+		2.1.1 - Empurre a célula atual para a pilha 
+		2.1.2 - Escolha um dos vizinhos não visitados 
+		2.1.3 - Remova a parede entre a célula atual e a célula escolhida 
+		2.1.4 - Marque a célula escolhida como visitada e coloque-a na pilha
 
 
 # 7
 O número máximo de nós que serão gerados antes que uma solução seja encontrada: 
 b + b^2 + b^3 + ... + b^d = O(b^d)
-// Perguntar => é possível obter a solução sem que todos os n sejam gerados? Acredito que sim, mas SEMPRE?
+
+Sim, é possível obter a solução sem que todos os n vértices sejam encontrados.
+Consideremos a seguinte árvore de nível 1.
+
+		1
+	/	|	\
+	2	3	 4
+
+Caso tenhamos como objetivo o ponto "4", é possível obtê-lo sem gerar os pontos "2" e "3" se iniciarmos a nossa busca da direita para a esquerda.
+
 
 
 # 8
-// Perguntar => dificuldade em montar as árvores. Qualquer nó serve?
-Para limite = 1, preciso construir uma árvore para CADA nó?
+Para evitar loops, pontos repetidos não foram considerados.
+
+- Largura:
+
+
+- Profundidade:
+
+
+- Profundidade com limite igual a 1:
+
+
+- Custo uniforme:
+
+
+- Bidirecional:
+
 
 
 # 9
@@ -164,4 +210,6 @@ Completo
 Tempo e memória = O(b^d)
 
 - Bidirecional
-// Não encontrei
+Completo
+Ótimo para passos de custo uniforme
+Complexidade temporal e espacial: O(b^d)
