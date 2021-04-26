@@ -1,0 +1,31 @@
+# 1
+A busca gulosa está simulando uma busca de custo uniforme.
+
+
+# 2
+a) G (h = 8)
+b) E (f = g + h = 3 + 10 = 13)
+c) E ( 3 + 10 < D = 5 + 13)
+
+
+# 3
+a) Soma da quantidade de passos que faltam para cada dígito se tornar o dígito desejado.
+Por exemplo: 100 => 999
+9 - 1 = 8
+9 - 0 = 9
+9 - 0 = 9
+__________
+h = 26
+
+Essa heurística é admissível pois o caso real sempre necessitará de mais passados, pois temos as restrições do conjunto bad e o fato de que não podemos mudar o mesmo dígito duas vezes seguidas.
+
+b) 567 => 777, bad = {666, 667}
+7 - 5 = 2
+7 - 6 = 1
+7 - 7 = 0
+_________
+h = 3
+
+// Dificuldade para montar árvore
+Muitos casos => preciso escrever todos?
+Não deveria ser o que tiver o MENOR valor de g?
