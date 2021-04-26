@@ -1,5 +1,3 @@
-Link para fazer árvores de derivação: https://app.mindmup.com
-
 # 1
 Espaço de estados:
 	- 1: jarra 1 cheia
@@ -75,7 +73,7 @@ Custo: 1 para cada ação
 
 b) A estratégia escolhida foi busca em profundidade.
 
-c) 	==> acrescentar link para inked-questao2 <==
+c) https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/Inked-questao2.jpg
 
 d) {1, 28} -> R2 {9, 21} -> R4 {5, 26} -> R1 {13, 17} -> R2 {4, 25} -> R3 {12, 19} -> R4 {7, 23} -> R2 {14, 15}
 
@@ -96,25 +94,27 @@ Custo: 1 para colorir uma região e 1 para conferir se a região adjancente poss
 
 b) Acredito que a busca em largura foi mais eficiente, pois podemos colorir todo o nível imediatamente abaixo da região "França" com uma mesma cor, e seus filhos com outra. Enquanto na busca por profundindade, precisamos conferir a cada passo qual é a cor do ancestral, para colorirmos de outra cor.
 
-==> acrescentar links para inked-questao2-largura e inked-questao2-profundidade <==
+- Largura:
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/Inked-questao3-largura.jpg
+
+Profundidade:
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/Inkedquestao3-profundidade.jpg
 
 
 # 4
 Todas as buscas retornaram os mesmos resultados.
 A busca em profundidade retornou o valor da soma da coluna antes de iniciar a soma da coluna adjacente.
-Link imagem:
+Link imagem: https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao4-profundidade.png
 
 A busca em largura retornou o valor da soma de cada coluna ao gerar o último nó das mesmas.
-Link imagem:
+Link imagem: https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao4-largura.png
 
 A busca com custo-uniforme somou e retornou os valores da soma de cada coluna na ordem da coluna com o último nó de menor valor para a de maior.
-Link imagem:
-
-==> acrescentar links questao4-profundaide, questao4-largura, questao4-custouniforme
+Link imagem: https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao4-custo-uniforme.png
 
 
 # 5
-Link imagem:
+Link imagem: https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao5.png
 
 a) O conjunto mínimo de pontos que deve ser considerado na busca do menor caminho entre um ponto de partida e um objetivo qualquer é {1, 2, 4, 6, 15, 16, 17, 18, 20, 21}. Os pontos {1, 2, 4, 6} são os pontos que o robô consegue enxergar do seu ponto de partida. Enquanto os pontos {15, 16, 17, 18, 20, 21} são os pontos a partir dos quais o robô consegue enxergar seu objetivo.
 
@@ -163,24 +163,23 @@ Consideremos a seguinte árvore de nível 1.
 Caso tenhamos como objetivo o ponto "4", é possível obtê-lo sem gerar os pontos "2" e "3" se iniciarmos a nossa busca da direita para a esquerda.
 
 
-
 # 8
 Para evitar loops, pontos repetidos não foram considerados.
 
 - Largura:
-
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao8-largura.png
 
 - Profundidade:
-
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao8-profundidade.png
 
 - Profundidade com limite igual a 1:
-
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao8-profundidade-limite1.png
 
 - Custo uniforme:
-
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao8-custo-uniforme.png
 
 - Bidirecional:
-
+https://github.com/RafaelxFernandes/Inteligencia-Artificial-20.2/blob/main/Listas/Lista%201%20-%20Busca%20n%C3%A3o%20informada/questao8-bidirecional.png
 
 
 # 9
