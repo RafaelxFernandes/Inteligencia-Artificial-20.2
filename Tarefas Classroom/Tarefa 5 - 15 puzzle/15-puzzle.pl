@@ -85,14 +85,15 @@ numeroPecasForaLugar([_|T1], [_|T2], N) :- numeroPecasForaLugar(T1, T2, N). % n�
 % Necessário trocar a configuração inicial no código
 % Consulta:
 % ?-h1(D).
-h1(Dist):- objetivo(Objetivo), numeroPecasForaLugar([15, 2, 1, 12, 8, 5, 6, 11, 4, 9, 10, 7, 3, 14, 13, *], Objetivo, Dist).
+h1(Dist):- objetivo(Objetivo), numeroPecasForaLugar([3, 9, 1, 15, 14, 11, 4, 6, 13, *, 4, 10, 12, 2, 7, 8, 5], 
+                                                    Objetivo, Dist).
 
 % - Distância Manhattan
 % Necessário trocar a configuração inicial na linha 96
 % Consulta:
 % ?-h2(D).
 h2(DistManhattan):-
-    [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P] = [15, 2, 1, 12, 8, 5, 6, 11, 4, 9, 10, 7, 3, 14, 13, *],
+    [A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P] = [3, 9, 1, 15, 14, 11, 4, 6, 13, *, 4, 10, 12, 2, 7, 8, 5],
 	a(A, Da), b(B, Db), c(C, Dc), d(D, Dd),
     e(E, De), f(F, Df), g(G, Dg), h(H, Dh),
     i(I, Di), j(J, Dj), k(K, Dk), l(L, Dl),
@@ -123,7 +124,7 @@ p(*, 0). p(1, 6). p(2, 5). p(3, 4). p(4, 3). p(5, 5). p(6, 4). p(7, 3). p(8, 2).
 % Caso haja, retorna true
 % Caso não, retorna false
 % 
-% Consultas:
+% Consulta:
 % ?-solucionavel.
 % Necessário trocar as configurações iniciais nas linhas 131 e 140
 
