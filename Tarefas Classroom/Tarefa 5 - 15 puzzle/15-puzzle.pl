@@ -218,7 +218,7 @@ aEstrela([node(Objetivo, Caminho, _)|_], _, Caminho) :- objetivo(Objetivo).
 aEstrela([node(Estado, Caminho, Custo)|Fila], Visitado, Solucao) :-
     findall(Vizinhos, movimento(Estado, Vizinhos, _, 1), EstadoVizinhos), % encontra estados vizinhos
     expandeFilhos(node(Estado, Caminho, Custo), EstadoVizinhos, Visitado, Filhos), % expande filhos
-    addLista(Filhos, Fila, FilaOrdenados), % add children to queue
+    addLista(Filhos, Fila, FilaOrdenados), % adiciona filho à lista
     aEstrela(FilaOrdenados, [Estado|Visitado], Solucao).
 
 % Expande filhos do nodo
