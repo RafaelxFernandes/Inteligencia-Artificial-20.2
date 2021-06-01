@@ -1,0 +1,1047 @@
+pclass,survived,name,sex,age,Faixa Etária,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+Primeira Classe,1,"Allen, Miss. Elisabeth Walton",female,29,Adulto,Não,Não,24160,"211,3375",B5,S,2,,"St Louis, MO"
+Primeira Classe,1,"Allison, Master. Hudson Trevor",male,"0,9167",Criança,Sim,Sim,113781,"151,55",C22 C26,S,11,,"Montreal, PQ / Chesterville, ON"
+Primeira Classe,0,"Allison, Miss. Helen Loraine",female,2,Criança,Sim,Sim,113781,"151,55",C22 C26,S,,,"Montreal, PQ / Chesterville, ON"
+Primeira Classe,0,"Allison, Mr. Hudson Joshua Creighton",male,30,Adulto,Sim,Sim,113781,"151,55",C22 C26,S,,135,"Montreal, PQ / Chesterville, ON"
+Primeira Classe,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,Adulto,Sim,Sim,113781,"151,55",C22 C26,S,,,"Montreal, PQ / Chesterville, ON"
+Primeira Classe,1,"Anderson, Mr. Harry",male,48,Adulto,Não,Não,19952,"26,55",E12,S,3,,"New York, NY"
+Primeira Classe,1,"Andrews, Miss. Kornelia Theodosia",female,63,Adulto,Sim,Não,13502,"77,9583",D7,S,10,,"Hudson, NY"
+Primeira Classe,0,"Andrews, Mr. Thomas Jr",male,39,Adulto,Não,Não,112050,0,A36,S,,,"Belfast, NI"
+Primeira Classe,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,Adulto,Sim,Não,11769,"51,4792",C101,S,D,,"Bayside, Queens, NY"
+Primeira Classe,0,"Artagaveytia, Mr. Ramon",male,71,Idoso,Não,Não,PC 17609,"49,5042",,C,,22,"Montevideo, Uruguay"
+Primeira Classe,0,"Astor, Col. John Jacob",male,47,Adulto,Sim,Não,PC 17757,"227,525",C62 C64,C,,124,"New York, NY"
+Primeira Classe,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,Adolescente,Sim,Não,PC 17757,"227,525",C62 C64,C,4,,"New York, NY"
+Primeira Classe,1,"Aubart, Mme. Leontine Pauline",female,24,Adulto,Não,Não,PC 17477,"69,3",B35,C,9,,"Paris, France"
+Primeira Classe,1,"Barber, Miss. Ellen ""Nellie""",female,26,Adulto,Não,Não,19877,"78,85",,S,6,,
+Primeira Classe,1,"Barkworth, Mr. Algernon Henry Wilson",male,80,Idoso,Não,Não,27042,30,A23,S,B,,"Hessle, Yorks"
+Primeira Classe,0,"Baxter, Mr. Quigg Edmond",male,24,Adulto,Não,Sim,PC 17558,"247,5208",B58 B60,C,,,"Montreal, PQ"
+Primeira Classe,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,Adulto,Não,Sim,PC 17558,"247,5208",B58 B60,C,6,,"Montreal, PQ"
+Primeira Classe,1,"Bazzani, Miss. Albina",female,32,Adulto,Não,Não,11813,"76,2917",D15,C,8,,
+Primeira Classe,0,"Beattie, Mr. Thomson",male,36,Adulto,Não,Não,13050,"75,2417",C6,C,A,,"Winnipeg, MN"
+Primeira Classe,1,"Beckwith, Mr. Richard Leonard",male,37,Adulto,Sim,Sim,11751,"52,5542",D35,S,5,,"New York, NY"
+Primeira Classe,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,Adulto,Sim,Sim,11751,"52,5542",D35,S,5,,"New York, NY"
+Primeira Classe,1,"Behr, Mr. Karl Howell",male,26,Adulto,Não,Não,111369,30,C148,C,5,,"New York, NY"
+Primeira Classe,1,"Bidois, Miss. Rosalie",female,42,Adulto,Não,Não,PC 17757,"227,525",,C,4,,
+Primeira Classe,1,"Bird, Miss. Ellen",female,29,Adulto,Não,Não,PC 17483,"221,7792",C97,S,8,,
+Primeira Classe,0,"Birnbaum, Mr. Jakob",male,25,Adulto,Não,Não,13905,26,,C,,148,"San Francisco, CA"
+Primeira Classe,1,"Bishop, Mr. Dickinson H",male,25,Adulto,Sim,Não,11967,"91,0792",B49,C,7,,"Dowagiac, MI"
+Primeira Classe,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,Adolescente,Sim,Não,11967,"91,0792",B49,C,7,,"Dowagiac, MI"
+Primeira Classe,1,"Bissette, Miss. Amelia",female,35,Adulto,Não,Não,PC 17760,"135,6333",C99,S,8,,
+Primeira Classe,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,Adulto,Não,Não,110564,"26,55",C52,S,D,,"Stockholm, Sweden / Washington, DC"
+Primeira Classe,0,"Blackwell, Mr. Stephen Weart",male,45,Adulto,Não,Não,113784,"35,5",T,S,,,"Trenton, NJ"
+Primeira Classe,1,"Blank, Mr. Henry",male,40,Adulto,Não,Não,112277,31,A31,C,7,,"Glen Ridge, NJ"
+Primeira Classe,1,"Bonnell, Miss. Caroline",female,30,Adulto,Não,Não,36928,"164,8667",C7,S,8,,"Youngstown, OH"
+Primeira Classe,1,"Bonnell, Miss. Elizabeth",female,58,Adulto,Não,Não,113783,"26,55",C103,S,8,,"Birkdale, England Cleveland, Ohio"
+Primeira Classe,0,"Borebank, Mr. John James",male,42,Adulto,Não,Não,110489,"26,55",D22,S,,,"London / Winnipeg, MB"
+Primeira Classe,1,"Bowen, Miss. Grace Scott",female,45,Adulto,Não,Não,PC 17608,"262,375",,C,4,,"Cooperstown, NY"
+Primeira Classe,1,"Bowerman, Miss. Elsie Edith",female,22,Adulto,Não,Sim,113505,55,E33,S,6,,"St Leonards-on-Sea, England Ohio"
+Primeira Classe,0,"Brady, Mr. John Bertram",male,41,Adulto,Não,Não,113054,"30,5",A21,S,,,"Pomeroy, WA"
+Primeira Classe,0,"Brandeis, Mr. Emil",male,48,Adulto,Não,Não,PC 17591,"50,4958",B10,C,,208,"Omaha, NE"
+Primeira Classe,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,Adulto,Não,Não,PC 17610,"27,7208",B4,C,6,,"Denver, CO"
+Primeira Classe,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,Adulto,Sim,Não,11769,"51,4792",C101,S,D,,"Belmont, MA"
+Primeira Classe,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,Adulto,Não,Não,11813,"76,2917",D15,C,8,,"Philadelphia, PA"
+Primeira Classe,1,"Burns, Miss. Elizabeth Margaret",female,41,Adulto,Não,Não,16966,"134,5",E40,C,3,,
+Primeira Classe,0,"Butt, Major. Archibald Willingham",male,45,Adulto,Não,Não,113050,"26,55",B38,S,,,"Washington, DC"
+Primeira Classe,1,"Calderhead, Mr. Edward Pennington",male,42,Adulto,Não,Não,PC 17476,"26,2875",E24,S,5,,"New York, NY"
+Primeira Classe,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,Adulto,Não,Não,PC 17606,"27,4458",,C,6,,"Washington, DC"
+Primeira Classe,1,"Cardeza, Mr. Thomas Drake Martinez",male,36,Adulto,Não,Sim,PC 17755,"512,3292",B51 B53 B55,C,3,,"Austria-Hungary / Germantown, Philadelphia, PA"
+Primeira Classe,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,Adulto,Não,Sim,PC 17755,"512,3292",B51 B53 B55,C,3,,"Germantown, Philadelphia, PA"
+Primeira Classe,0,"Carlsson, Mr. Frans Olof",male,33,Adulto,Não,Não,695,5,B51 B53 B55,S,,,"New York, NY"
+Primeira Classe,0,"Carrau, Mr. Francisco M",male,28,Adulto,Não,Não,113059,"47,1",,S,,,"Montevideo, Uruguay"
+Primeira Classe,0,"Carrau, Mr. Jose Pedro",male,17,Adolescente,Não,Não,113059,"47,1",,S,,,"Montevideo, Uruguay"
+Primeira Classe,1,"Carter, Master. William Thornton II",male,11,Criança,Sim,Sim,113760,120,B96 B98,S,4,,"Bryn Mawr, PA"
+Primeira Classe,1,"Carter, Miss. Lucile Polk",female,14,Adolescente,Sim,Sim,113760,120,B96 B98,S,4,,"Bryn Mawr, PA"
+Primeira Classe,1,"Carter, Mr. William Ernest",male,36,Adulto,Sim,Sim,113760,120,B96 B98,S,C,,"Bryn Mawr, PA"
+Primeira Classe,1,"Carter, Mrs. William Ernest (Lucile Polk)",female,36,Adulto,Sim,Sim,113760,120,B96 B98,S,4,,"Bryn Mawr, PA"
+Primeira Classe,0,"Case, Mr. Howard Brown",male,49,Adulto,Não,Não,19924,26,,S,,,"Ascot, Berkshire / Rochester, NY"
+Primeira Classe,0,"Cavendish, Mr. Tyrell William",male,36,Adulto,Sim,Não,19877,"78,85",C46,S,,172,"Little Onn Hall, Staffs"
+Primeira Classe,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,Idoso,Sim,Não,19877,"78,85",C46,S,6,,"Little Onn Hall, Staffs"
+Primeira Classe,0,"Chaffee, Mr. Herbert Fuller",male,46,Adulto,Sim,Não,W.E.P. 5734,"61,175",E31,S,,,"Amenia, ND"
+Primeira Classe,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,Adulto,Sim,Não,W.E.P. 5734,"61,175",E31,S,4,,"Amenia, ND"
+Primeira Classe,1,"Chambers, Mr. Norman Campbell",male,27,Adulto,Sim,Não,113806,"53,1",E8,S,5,,"New York, NY / Ithaca, NY"
+Primeira Classe,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,Adulto,Sim,Não,113806,"53,1",E8,S,5,,"New York, NY / Ithaca, NY"
+Primeira Classe,1,"Chaudanson, Miss. Victorine",female,36,Adulto,Não,Não,PC 17608,"262,375",B61,C,4,,
+Primeira Classe,1,"Cherry, Miss. Gladys",female,30,Adulto,Não,Não,110152,"86,5",B77,S,8,,"London, England"
+Primeira Classe,1,"Chevre, Mr. Paul Romaine",male,45,Adulto,Não,Não,PC 17594,"29,7",A9,C,7,,"Paris, France"
+Primeira Classe,0,"Clark, Mr. Walter Miller",male,27,Adulto,Sim,Não,13508,"136,7792",C89,C,,,"Los Angeles, CA"
+Primeira Classe,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,Adulto,Sim,Não,13508,"136,7792",C89,C,4,,"Los Angeles, CA"
+Primeira Classe,1,"Cleaver, Miss. Alice",female,22,Adulto,Não,Não,113781,"151,55",,S,11,,
+Primeira Classe,0,"Colley, Mr. Edward Pomeroy",male,47,Adulto,Não,Não,5727,"25,5875",E58,S,,,"Victoria, BC"
+Primeira Classe,1,"Compton, Miss. Sara Rebecca",female,39,Adulto,Sim,Sim,PC 17756,"83,1583",E49,C,14,,"Lakewood, NJ"
+Primeira Classe,0,"Compton, Mr. Alexander Taylor Jr",male,37,Adulto,Sim,Sim,PC 17756,"83,1583",E52,C,,,"Lakewood, NJ"
+Primeira Classe,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,Adulto,Não,Sim,PC 17756,"83,1583",E45,C,14,,"Lakewood, NJ"
+Primeira Classe,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,Adulto,Sim,Não,11770,"25,7",C101,S,2,,"New York, NY"
+Primeira Classe,0,"Crosby, Capt. Edward Gifford",male,70,Idoso,Sim,Sim,WE/P 5735,71,B22,S,,269,"Milwaukee, WI"
+Primeira Classe,1,"Crosby, Miss. Harriet R",female,36,Adulto,Não,Sim,WE/P 5735,71,B22,S,7,,"Milwaukee, WI"
+Primeira Classe,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,Adulto,Sim,Sim,112901,"26,55",B26,S,7,,"Milwaukee, WI"
+Primeira Classe,0,"Cumings, Mr. John Bradley",male,39,Adulto,Sim,Não,PC 17599,"71,2833",C85,C,,,"New York, NY"
+Primeira Classe,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,Adulto,Sim,Não,PC 17599,"71,2833",C85,C,4,,"New York, NY"
+Primeira Classe,1,"Daly, Mr. Peter Denis ",male,51,Adulto,Não,Não,113055,"26,55",E17,S,5 9,,"Lima, Peru"
+Primeira Classe,1,"Daniel, Mr. Robert Williams",male,27,Adulto,Não,Não,113804,"30,5",,S,3,,"Philadelphia, PA"
+Primeira Classe,1,"Daniels, Miss. Sarah",female,33,Adulto,Não,Não,113781,"151,55",,S,8,,
+Primeira Classe,0,"Davidson, Mr. Thornton",male,31,Adulto,Sim,Não,F.C. 12750,52,B71,S,,,"Montreal, PQ"
+Primeira Classe,1,"Davidson, Mrs. Thornton (Orian Hays)",female,27,Adulto,Sim,Sim,F.C. 12750,52,B71,S,3,,"Montreal, PQ"
+Primeira Classe,1,"Dick, Mr. Albert Adrian",male,31,Adulto,Sim,Não,17474,57,B20,S,3,,"Calgary, AB"
+Primeira Classe,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,Adolescente,Sim,Não,17474,57,B20,S,3,,"Calgary, AB"
+Primeira Classe,1,"Dodge, Dr. Washington",male,53,Adulto,Sim,Sim,33638,"81,8583",A34,S,13,,"San Francisco, CA"
+Primeira Classe,1,"Dodge, Master. Washington",male,4,Criança,Não,Sim,33638,"81,8583",A34,S,5,,"San Francisco, CA"
+Primeira Classe,1,"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,Adulto,Sim,Sim,33638,"81,8583",A34,S,5,,"San Francisco, CA"
+Primeira Classe,0,"Douglas, Mr. Walter Donald",male,50,Adulto,Sim,Não,PC 17761,"106,425",C86,C,,62,"Deephaven, MN / Cedar Rapids, IA"
+Primeira Classe,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,Adulto,Sim,Sim,PC 17558,"247,5208",B58 B60,C,6,,"Montreal, PQ"
+Primeira Classe,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,Adulto,Sim,Não,PC 17761,"106,425",C86,C,2,,"Deephaven, MN / Cedar Rapids, IA"
+Primeira Classe,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,Adulto,Sim,Não,11755,"39,6",A16,C,1,,London / Paris
+Primeira Classe,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,Adulto,Sim,Não,PC 17485,"56,9292",A20,C,1,,London / Paris
+Primeira Classe,0,"Dulles, Mr. William Crothers",male,39,Adulto,Não,Não,PC 17580,"29,7",A18,C,,133,"Philadelphia, PA"
+Primeira Classe,1,"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,Adulto,Não,Sim,11767,"83,1583",C54,C,7,,"Mt Airy, Philadelphia, PA"
+Primeira Classe,1,"Endres, Miss. Caroline Louise",female,38,Adulto,Não,Não,PC 17757,"227,525",C45,C,4,,"New York, NY"
+Primeira Classe,1,"Eustis, Miss. Elizabeth Mussey",female,54,Adulto,Sim,Não,36947,"78,2667",D20,C,4,,"Brookline, MA"
+Primeira Classe,0,"Evans, Miss. Edith Corse",female,36,Adulto,Não,Não,PC 17531,"31,6792",A29,C,,,"New York, NY"
+Primeira Classe,1,"Flynn, Mr. John Irwin (""Irving"")",male,36,Adulto,Não,Não,PC 17474,"26,3875",E25,S,5,,"Brooklyn, NY"
+Primeira Classe,0,"Foreman, Mr. Benjamin Laventall",male,30,Adulto,Não,Não,113051,"27,75",C111,C,,,"New York, NY"
+Primeira Classe,1,"Fortune, Miss. Alice Elizabeth",female,24,Adulto,Sim,Sim,19950,263,C23 C25 C27,S,10,,"Winnipeg, MB"
+Primeira Classe,1,"Fortune, Miss. Ethel Flora",female,28,Adulto,Sim,Sim,19950,263,C23 C25 C27,S,10,,"Winnipeg, MB"
+Primeira Classe,1,"Fortune, Miss. Mabel Helen",female,23,Adulto,Sim,Sim,19950,263,C23 C25 C27,S,10,,"Winnipeg, MB"
+Primeira Classe,0,"Fortune, Mr. Charles Alexander",male,19,Adolescente,Sim,Sim,19950,263,C23 C25 C27,S,,,"Winnipeg, MB"
+Primeira Classe,0,"Fortune, Mr. Mark",male,64,Adulto,Sim,Sim,19950,263,C23 C25 C27,S,,,"Winnipeg, MB"
+Primeira Classe,1,"Fortune, Mrs. Mark (Mary McDougald)",female,60,Adulto,Sim,Sim,19950,263,C23 C25 C27,S,10,,"Winnipeg, MB"
+Primeira Classe,1,"Francatelli, Miss. Laura Mabel",female,30,Adulto,Não,Não,PC 17485,"56,9292",E36,C,1,,
+Primeira Classe,1,"Frauenthal, Dr. Henry William",male,50,Adulto,Sim,Não,PC 17611,"133,65",,S,5,,"New York, NY"
+Primeira Classe,1,"Frauenthal, Mr. Isaac Gerald",male,43,Adulto,Sim,Não,17765,"27,7208",D40,C,5,,"New York, NY"
+Primeira Classe,1,"Frolicher, Miss. Hedwig Margaritha",female,22,Adulto,Não,Sim,13568,"49,5",B39,C,5,,"Zurich, Switzerland"
+Primeira Classe,1,"Frolicher-Stehli, Mr. Maxmillian",male,60,Adulto,Sim,Sim,13567,"79,2",B41,C,5,,"Zurich, Switzerland"
+Primeira Classe,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,Adulto,Sim,Sim,13567,"79,2",B41,C,5,,"Zurich, Switzerland"
+Primeira Classe,0,"Futrelle, Mr. Jacques Heath",male,37,Adulto,Sim,Não,113803,"53,1",C123,S,,,"Scituate, MA"
+Primeira Classe,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,Adulto,Sim,Não,113803,"53,1",C123,S,D,,"Scituate, MA"
+Primeira Classe,0,"Gee, Mr. Arthur H",male,47,Adulto,Não,Não,111320,"38,5",E63,S,,275,"St Anne's-on-Sea, Lancashire"
+Primeira Classe,1,"Geiger, Miss. Amalie",female,35,Adulto,Não,Não,113503,"211,5",C130,C,4,,
+Primeira Classe,1,"Gibson, Miss. Dorothy Winifred",female,22,Adulto,Não,Sim,112378,"59,4",,C,7,,"New York, NY"
+Primeira Classe,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,Adulto,Não,Sim,112378,"59,4",,C,7,,"New York, NY"
+Primeira Classe,0,"Giglio, Mr. Victor",male,24,Adulto,Não,Não,PC 17593,"79,2",B86,C,,,
+Primeira Classe,1,"Goldenberg, Mr. Samuel L",male,49,Adulto,Sim,Não,17453,"89,1042",C92,C,5,,"Paris, France / New York, NY"
+Primeira Classe,0,"Goldschmidt, Mr. George B",male,71,Idoso,Não,Não,PC 17754,"34,6542",A5,C,,,"New York, NY"
+Primeira Classe,1,"Gracie, Col. Archibald IV",male,53,Adulto,Não,Não,113780,"28,5",C51,C,B,,"Washington, DC"
+Primeira Classe,1,"Graham, Miss. Margaret Edith",female,19,Adolescente,Não,Não,112053,30,B42,S,3,,"Greenwich, CT"
+Primeira Classe,0,"Graham, Mr. George Edward",male,38,Adulto,Não,Sim,PC 17582,"153,4625",C91,S,,147,"Winnipeg, MB"
+Primeira Classe,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58,Adulto,Não,Sim,PC 17582,"153,4625",C125,S,3,,"Greenwich, CT"
+Primeira Classe,1,"Greenfield, Mr. William Bertram",male,23,Adulto,Não,Sim,PC 17759,"63,3583",D10 D12,C,7,,"New York, NY"
+Primeira Classe,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,Adulto,Não,Sim,PC 17759,"63,3583",D10 D12,C,7,,"New York, NY"
+Primeira Classe,0,"Guggenheim, Mr. Benjamin",male,46,Adulto,Não,Não,PC 17593,"79,2",B82 B84,C,,,"New York, NY"
+Primeira Classe,1,"Harder, Mr. George Achilles",male,25,Adulto,Sim,Não,11765,"55,4417",E50,C,5,,"Brooklyn, NY"
+Primeira Classe,1,"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,Adulto,Sim,Não,11765,"55,4417",E50,C,5,,"Brooklyn, NY"
+Primeira Classe,1,"Harper, Mr. Henry Sleeper",male,48,Adulto,Sim,Não,PC 17572,"76,7292",D33,C,3,,"New York, NY"
+Primeira Classe,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,Adulto,Sim,Não,PC 17572,"76,7292",D33,C,3,,"New York, NY"
+Primeira Classe,0,"Harris, Mr. Henry Birkhardt",male,45,Adulto,Sim,Não,36973,"83,475",C83,S,,,"New York, NY"
+Primeira Classe,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,Adulto,Sim,Não,36973,"83,475",C83,S,D,,"New York, NY"
+Primeira Classe,0,"Harrison, Mr. William",male,40,Adulto,Não,Não,112059,0,B94,S,,110,
+Primeira Classe,1,"Hassab, Mr. Hammad",male,27,Adulto,Não,Não,PC 17572,"76,7292",D49,C,3,,
+Primeira Classe,1,"Hays, Miss. Margaret Bechstein",female,24,Adulto,Não,Não,11767,"83,1583",C54,C,7,,"New York, NY"
+Primeira Classe,0,"Hays, Mr. Charles Melville",male,55,Adulto,Sim,Sim,12749,"93,5",B69,S,,307,"Montreal, PQ"
+Primeira Classe,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,Adulto,Sim,Sim,12749,"93,5",B69,S,3,,"Montreal, PQ"
+Primeira Classe,0,"Head, Mr. Christopher",male,42,Adulto,Não,Não,113038,"42,5",B11,S,,,London / Middlesex
+Primeira Classe,0,"Hipkins, Mr. William Edward",male,55,Adulto,Não,Não,680,50,C39,S,,,London / Birmingham
+Primeira Classe,1,"Hippach, Miss. Jean Gertrude",female,16,Adolescente,Não,Sim,111361,"57,9792",B18,C,4,,"Chicago, IL"
+Primeira Classe,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,Adulto,Não,Sim,111361,"57,9792",B18,C,4,,"Chicago, IL"
+Primeira Classe,1,"Hogeboom, Mrs. John C (Anna Andrews)",female,51,Adulto,Sim,Não,13502,"77,9583",D11,S,10,,"Hudson, NY"
+Primeira Classe,0,"Holverson, Mr. Alexander Oskar",male,42,Adulto,Sim,Não,113789,52,,S,,38,"New York, NY"
+Primeira Classe,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,Adulto,Sim,Não,113789,52,,S,8,,"New York, NY"
+Primeira Classe,1,"Homer, Mr. Harry (""Mr E Haven"")",male,35,Adulto,Não,Não,111426,"26,55",,C,15,,"Indianapolis, IN"
+Primeira Classe,1,"Hoyt, Mr. Frederick Maxfield",male,38,Adulto,Sim,Não,19943,90,C93,S,D,,"New York, NY /  Stamford CT"
+Primeira Classe,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,Adulto,Sim,Não,19943,90,C93,S,D,,"New York, NY /  Stamford CT"
+Primeira Classe,1,"Icard, Miss. Amelie",female,38,Adulto,Não,Não,113572,80,B28,,6,,
+Primeira Classe,0,"Isham, Miss. Ann Elizabeth",female,50,Adulto,Não,Não,PC 17595,"28,7125",C49,C,,,"Paris, France New York, NY"
+Primeira Classe,1,"Ismay, Mr. Joseph Bruce",male,49,Adulto,Não,Não,112058,0,B52 B54 B56,S,C,,Liverpool
+Primeira Classe,0,"Jones, Mr. Charles Cresson",male,46,Adulto,Não,Não,694,26,,S,,80,"Bennington, VT"
+Primeira Classe,0,"Julian, Mr. Henry Forbes",male,50,Adulto,Não,Não,113044,26,E60,S,,,London
+Primeira Classe,0,"Keeping, Mr. Edwin",male,"32,5",Adulto,Não,Não,113503,"211,5",C132,C,,45,
+Primeira Classe,0,"Kent, Mr. Edward Austin",male,58,Adulto,Não,Não,11771,"29,7",B37,C,,258,"Buffalo, NY"
+Primeira Classe,0,"Kenyon, Mr. Frederick R",male,41,Adulto,Sim,Não,17464,"51,8625",D21,S,,,"Southington / Noank, CT"
+Primeira Classe,1,"Kimball, Mr. Edwin Nelson Jr",male,42,Adulto,Sim,Não,11753,"52,5542",D19,S,5,,"Boston, MA"
+Primeira Classe,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,Adulto,Sim,Não,11753,"52,5542",D19,S,5,,"Boston, MA"
+Primeira Classe,1,"Kreuchen, Miss. Emilie",female,39,Adulto,Não,Não,24160,"211,3375",,S,2,,
+Primeira Classe,1,"Leader, Dr. Alice (Farnham)",female,49,Adulto,Não,Não,17465,"25,9292",D17,S,8,,"New York, NY"
+Primeira Classe,1,"LeRoy, Miss. Bertha",female,30,Adulto,Não,Não,PC 17761,"106,425",,C,2,,
+Primeira Classe,1,"Lesurer, Mr. Gustave J",male,35,Adulto,Não,Não,PC 17755,"512,3292",B101,C,3,,
+Primeira Classe,0,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42,Adulto,Não,Não,17475,"26,55",,S,,,"Stockholm, Sweden"
+Primeira Classe,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,Adulto,Não,Não,112377,"27,7208",,C,6,,"Stockholm, Sweden"
+Primeira Classe,1,"Lines, Miss. Mary Conover",female,16,Adolescente,Não,Sim,PC 17592,"39,4",D28,S,9,,"Paris, France"
+Primeira Classe,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,Adulto,Não,Sim,PC 17592,"39,4",D28,S,9,,"Paris, France"
+Primeira Classe,0,"Long, Mr. Milton Clyde",male,29,Adulto,Não,Não,113501,30,D6,S,,126,"Springfield, MA"
+Primeira Classe,1,"Longley, Miss. Gretchen Fiske",female,21,Adulto,Não,Não,13502,"77,9583",D9,S,10,,"Hudson, NY"
+Primeira Classe,0,"Loring, Mr. Joseph Holland",male,30,Adulto,Não,Não,113801,"45,5",,S,,,"London / New York, NY"
+Primeira Classe,1,"Lurette, Miss. Elise",female,58,Adulto,Não,Não,PC 17569,"146,5208",B80,C,,,
+Primeira Classe,1,"Madill, Miss. Georgette Alexandra",female,15,Adolescente,Não,Sim,24160,"211,3375",B5,S,2,,"St Louis, MO"
+Primeira Classe,0,"Maguire, Mr. John Edward",male,30,Adulto,Não,Não,110469,26,C106,S,,,"Brockton, MA"
+Primeira Classe,1,"Maioni, Miss. Roberta",female,16,Adolescente,Não,Não,110152,"86,5",B79,S,8,,
+Primeira Classe,0,"Marvin, Mr. Daniel Warner",male,19,Adolescente,Sim,Não,113773,"53,1",D30,S,,,"New York, NY"
+Primeira Classe,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,Adolescente,Sim,Não,113773,"53,1",D30,S,10,,"New York, NY"
+Primeira Classe,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,Adulto,Não,Não,PC 17482,"49,5042",C90,C,6,,"Belgium  Montreal, PQ"
+Primeira Classe,0,"McCaffry, Mr. Thomas Francis",male,46,Adulto,Não,Não,13050,"75,2417",C6,C,,292,"Vancouver, BC"
+Primeira Classe,0,"McCarthy, Mr. Timothy J",male,54,Adulto,Não,Não,17463,"51,8625",E46,S,,175,"Dorchester, MA"
+Primeira Classe,1,"McGough, Mr. James Robert",male,36,Adulto,Não,Não,PC 17473,"26,2875",E25,S,7,,"Philadelphia, PA"
+Primeira Classe,0,"Meyer, Mr. Edgar Joseph",male,28,Adulto,Sim,Não,PC 17604,"82,1708",,C,,,"New York, NY"
+Primeira Classe,0,"Millet, Mr. Francis Davis",male,65,Idoso,Não,Não,13509,"26,55",E38,S,,249,"East Bridgewater, MA"
+Primeira Classe,0,"Minahan, Dr. William Edward",male,44,Adulto,Sim,Não,19928,90,C78,Q,,230,"Fond du Lac, WI"
+Primeira Classe,1,"Minahan, Miss. Daisy E",female,33,Adulto,Sim,Não,19928,90,C78,Q,14,,"Green Bay, WI"
+Primeira Classe,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,Adulto,Sim,Não,19928,90,C78,Q,14,,"Fond du Lac, WI"
+Primeira Classe,1,"Mock, Mr. Philipp Edmund",male,30,Adulto,Sim,Não,13236,"57,75",C78,C,11,,"New York, NY"
+Primeira Classe,0,"Molson, Mr. Harry Markland",male,55,Adulto,Não,Não,113787,"30,5",C30,S,,,"Montreal, PQ"
+Primeira Classe,0,"Moore, Mr. Clarence Bloomfield",male,47,Adulto,Não,Não,113796,"42,4",,S,,,"Washington, DC"
+Primeira Classe,0,"Natsch, Mr. Charles H",male,37,Adulto,Não,Sim,PC 17596,"29,7",C118,C,,,"Brooklyn, NY"
+Primeira Classe,1,"Newell, Miss. Madeleine",female,31,Adulto,Sim,Não,35273,"113,275",D36,C,6,,"Lexington, MA"
+Primeira Classe,1,"Newell, Miss. Marjorie",female,23,Adulto,Sim,Não,35273,"113,275",D36,C,6,,"Lexington, MA"
+Primeira Classe,0,"Newell, Mr. Arthur Webster",male,58,Adulto,Não,Sim,35273,"113,275",D48,C,,122,"Lexington, MA"
+Primeira Classe,1,"Newsom, Miss. Helen Monypeny",female,19,Adolescente,Não,Sim,11752,"26,2833",D47,S,5,,"New York, NY"
+Primeira Classe,0,"Nicholson, Mr. Arthur Ernest",male,64,Adulto,Não,Não,693,26,,S,,263,"Isle of Wight, England"
+Primeira Classe,1,"Oliva y Ocana, Dona. Fermina",female,39,Adulto,Não,Não,PC 17758,"108,9",C105,C,8,,
+Primeira Classe,1,"Ostby, Miss. Helene Ragnhild",female,22,Adulto,Não,Sim,113509,"61,9792",B36,C,5,,"Providence, RI"
+Primeira Classe,0,"Ostby, Mr. Engelhart Cornelius",male,65,Idoso,Não,Sim,113509,"61,9792",B30,C,,234,"Providence, RI"
+Primeira Classe,0,"Ovies y Rodriguez, Mr. Servando",male,"28,5",Adulto,Não,Não,PC 17562,"27,7208",D43,C,,189,"?Havana, Cuba"
+Primeira Classe,0,"Partner, Mr. Austen",male,"45,5",Adulto,Não,Não,113043,"28,5",C124,S,,166,"Surbiton Hill, Surrey"
+Primeira Classe,0,"Payne, Mr. Vivian Ponsonby",male,23,Adulto,Não,Não,12749,"93,5",B24,S,,,"Montreal, PQ"
+Primeira Classe,0,"Pears, Mr. Thomas Clinton",male,29,Adulto,Sim,Não,113776,"66,6",C2,S,,,"Isleworth, England"
+Primeira Classe,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22,Adulto,Sim,Não,113776,"66,6",C2,S,8,,"Isleworth, England"
+Primeira Classe,0,"Penasco y Castellana, Mr. Victor de Satode",male,18,Adolescente,Sim,Não,PC 17758,"108,9",C65,C,,,"Madrid, Spain"
+Primeira Classe,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,Adolescente,Sim,Não,PC 17758,"108,9",C65,C,8,,"Madrid, Spain"
+Primeira Classe,1,"Perreault, Miss. Anne",female,30,Adulto,Não,Não,12749,"93,5",B73,S,3,,
+Primeira Classe,1,"Peuchen, Major. Arthur Godfrey",male,52,Adulto,Não,Não,113786,"30,5",C104,S,6,,"Toronto, ON"
+Primeira Classe,0,"Porter, Mr. Walter Chamberlain",male,47,Adulto,Não,Não,110465,52,C110,S,,207,"Worcester, MA"
+Primeira Classe,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,Adulto,Não,Sim,11767,"83,1583",C50,C,7,,"Mt Airy, Philadelphia, PA"
+Primeira Classe,0,"Reuchlin, Jonkheer. John George",male,38,Adulto,Não,Não,19972,0,,S,,,"Rotterdam, Netherlands"
+Primeira Classe,0,"Ringhini, Mr. Sante",male,22,Adulto,Não,Não,PC 17760,"135,6333",,C,,232,
+Primeira Classe,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,Adulto,Não,Sim,24160,"211,3375",B3,S,2,,"St Louis, MO"
+Primeira Classe,0,"Roebling, Mr. Washington Augustus II",male,31,Adulto,Não,Não,PC 17590,"50,4958",A24,S,,,"Trenton, NJ"
+Primeira Classe,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,Adulto,Não,Não,111428,"26,55",,S,9,,"New York, NY"
+Primeira Classe,1,"Rosenbaum, Miss. Edith Louise",female,33,Adulto,Não,Não,PC 17613,"27,7208",A11,C,11,,"Paris, France"
+Primeira Classe,0,"Rosenshine, Mr. George (""Mr George Thorne"")",male,46,Adulto,Não,Não,PC 17585,"79,2",,C,,16,"New York, NY"
+Primeira Classe,0,"Ross, Mr. John Hugo",male,36,Adulto,Não,Não,13049,"40,125",A10,C,,,"Winnipeg, MB"
+Primeira Classe,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,Adulto,Não,Não,110152,"86,5",B77,S,8,,"London  Vancouver, BC"
+Primeira Classe,0,"Rothschild, Mr. Martin",male,55,Adulto,Sim,Não,PC 17603,"59,4",,C,,,"New York, NY"
+Primeira Classe,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,Adulto,Sim,Não,PC 17603,"59,4",,C,6,,"New York, NY"
+Primeira Classe,0,"Rowe, Mr. Alfred G",male,33,Adulto,Não,Não,113790,"26,55",,S,,109,London
+Primeira Classe,1,"Ryerson, Master. John Borie",male,13,Adolescente,Sim,Sim,PC 17608,"262,375",B57 B59 B63 B66,C,4,,"Haverford, PA / Cooperstown, NY"
+Primeira Classe,1,"Ryerson, Miss. Emily Borie",female,18,Adolescente,Sim,Sim,PC 17608,"262,375",B57 B59 B63 B66,C,4,,"Haverford, PA / Cooperstown, NY"
+Primeira Classe,1,"Ryerson, Miss. Susan Parker ""Suzette""",female,21,Adulto,Sim,Sim,PC 17608,"262,375",B57 B59 B63 B66,C,4,,"Haverford, PA / Cooperstown, NY"
+Primeira Classe,0,"Ryerson, Mr. Arthur Larned",male,61,Adulto,Sim,Sim,PC 17608,"262,375",B57 B59 B63 B66,C,,,"Haverford, PA / Cooperstown, NY"
+Primeira Classe,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,Adulto,Sim,Sim,PC 17608,"262,375",B57 B59 B63 B66,C,4,,"Haverford, PA / Cooperstown, NY"
+Primeira Classe,1,"Sagesser, Mlle. Emma",female,24,Adulto,Não,Não,PC 17477,"69,3",B35,C,9,,
+Primeira Classe,1,"Schabert, Mrs. Paul (Emma Mock)",female,35,Adulto,Sim,Não,13236,"57,75",C28,C,11,,"New York, NY"
+Primeira Classe,1,"Serepeca, Miss. Augusta",female,30,Adulto,Não,Não,113798,31,,C,4,,
+Primeira Classe,1,"Seward, Mr. Frederic Kimber",male,34,Adulto,Não,Não,113794,"26,55",,S,7,,"New York, NY"
+Primeira Classe,1,"Shutes, Miss. Elizabeth W",female,40,Adulto,Não,Não,PC 17582,"153,4625",C125,S,3,,"New York, NY / Greenwich CT"
+Primeira Classe,1,"Silverthorne, Mr. Spencer Victor",male,35,Adulto,Não,Não,PC 17475,"26,2875",E24,S,5,,"St Louis, MO"
+Primeira Classe,0,"Silvey, Mr. William Baird",male,50,Adulto,Sim,Não,13507,"55,9",E44,S,,,"Duluth, MN"
+Primeira Classe,1,"Silvey, Mrs. William Baird (Alice Munger)",female,39,Adulto,Sim,Não,13507,"55,9",E44,S,11,,"Duluth, MN"
+Primeira Classe,1,"Simonius-Blumer, Col. Oberst Alfons",male,56,Adulto,Não,Não,13213,"35,5",A26,C,3,,"Basel, Switzerland"
+Primeira Classe,1,"Sloper, Mr. William Thompson",male,28,Adulto,Não,Não,113788,"35,5",A6,S,7,,"New Britain, CT"
+Primeira Classe,0,"Smart, Mr. John Montgomery",male,56,Adulto,Não,Não,113792,"26,55",,S,,,"New York, NY"
+Primeira Classe,0,"Smith, Mr. James Clinch",male,56,Adulto,Não,Não,17764,"30,6958",A7,C,,,"St James, Long Island, NY"
+Primeira Classe,0,"Smith, Mr. Lucien Philip",male,24,Adulto,Sim,Não,13695,60,C31,S,,,"Huntington, WV"
+Primeira Classe,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,Adolescente,Sim,Não,13695,60,C31,S,6,,"Huntington, WV"
+Primeira Classe,1,"Snyder, Mr. John Pillsbury",male,24,Adulto,Sim,Não,21228,"82,2667",B45,S,7,,"Minneapolis, MN"
+Primeira Classe,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,Adulto,Sim,Não,21228,"82,2667",B45,S,7,,"Minneapolis, MN"
+Primeira Classe,1,"Spedden, Master. Robert Douglas",male,6,Criança,Não,Sim,16966,"134,5",E34,C,3,,"Tuxedo Park, NY"
+Primeira Classe,1,"Spedden, Mr. Frederic Oakley",male,45,Adulto,Sim,Sim,16966,"134,5",E34,C,3,,"Tuxedo Park, NY"
+Primeira Classe,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,Adulto,Sim,Sim,16966,"134,5",E34,C,3,,"Tuxedo Park, NY"
+Primeira Classe,0,"Spencer, Mr. William Augustus",male,57,Adulto,Sim,Não,PC 17569,"146,5208",B78,C,,,"Paris, France"
+Primeira Classe,1,"Stahelin-Maeglin, Dr. Max",male,32,Adulto,Não,Não,13214,"30,5",B50,C,3,,"Basel, Switzerland"
+Primeira Classe,0,"Stead, Mr. William Thomas",male,62,Adulto,Não,Não,113514,"26,55",C87,S,,,"Wimbledon Park, London / Hayling Island, Hants"
+Primeira Classe,1,"Stengel, Mr. Charles Emil Henry",male,54,Adulto,Sim,Não,11778,"55,4417",C116,C,1,,"Newark, NJ"
+Primeira Classe,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,Adulto,Sim,Não,11778,"55,4417",C116,C,5,,"Newark, NJ"
+Primeira Classe,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,Adulto,Sim,Não,36947,"78,2667",D20,C,4,,"Haverford, PA"
+Primeira Classe,1,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,Adulto,Não,Não,113572,80,B28,,6,,"Cincinatti, OH"
+Primeira Classe,0,"Straus, Mr. Isidor",male,67,Idoso,Sim,Não,PC 17483,"221,7792",C55 C57,S,,96,"New York, NY"
+Primeira Classe,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,Adulto,Sim,Não,PC 17483,"221,7792",C55 C57,S,,,"New York, NY"
+Primeira Classe,0,"Sutton, Mr. Frederick",male,61,Adulto,Não,Não,36963,"32,3208",D50,S,,46,"Haddenfield, NJ"
+Primeira Classe,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,Adulto,Não,Não,17466,"25,9292",D17,S,8,,"Brooklyn, NY"
+Primeira Classe,1,"Taussig, Miss. Ruth",female,18,Adolescente,Não,Sim,110413,"79,65",E68,S,8,,"New York, NY"
+Primeira Classe,0,"Taussig, Mr. Emil",male,52,Adulto,Sim,Sim,110413,"79,65",E67,S,,,"New York, NY"
+Primeira Classe,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,Adulto,Sim,Sim,110413,"79,65",E67,S,8,,"New York, NY"
+Primeira Classe,1,"Taylor, Mr. Elmer Zebley",male,48,Adulto,Sim,Não,19996,52,C126,S,5 7,,"London /  East Orange, NJ"
+Primeira Classe,0,"Thayer, Mr. John Borland",male,49,Adulto,Sim,Sim,17421,"110,8833",C68,C,,,"Haverford, PA"
+Primeira Classe,1,"Thayer, Mr. John Borland Jr",male,17,Adolescente,Não,Sim,17421,"110,8833",C70,C,B,,"Haverford, PA"
+Primeira Classe,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,Adulto,Sim,Sim,17421,"110,8833",C68,C,4,,"Haverford, PA"
+Primeira Classe,1,"Tucker, Mr. Gilbert Milligan Jr",male,31,Adulto,Não,Não,2543,"28,5375",C53,C,7,,"Albany, NY"
+Primeira Classe,0,"Uruchurtu, Don. Manuel E",male,40,Adulto,Não,Não,PC 17601,"27,7208",,C,,,"Mexico City, Mexico"
+Primeira Classe,0,"Van der hoef, Mr. Wyckoff",male,61,Adulto,Não,Não,111240,"33,5",B19,S,,245,"Brooklyn, NY"
+Primeira Classe,0,"Walker, Mr. William Anderson",male,47,Adulto,Não,Não,36967,"34,0208",D46,S,,,"East Orange, NJ"
+Primeira Classe,1,"Ward, Miss. Anna",female,35,Adulto,Não,Não,PC 17755,"512,3292",,C,3,,
+Primeira Classe,0,"Warren, Mr. Frank Manley",male,64,Adulto,Sim,Não,110813,"75,25",D37,C,,,"Portland, OR"
+Primeira Classe,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,Adulto,Sim,Não,110813,"75,25",D37,C,5,,"Portland, OR"
+Primeira Classe,0,"Weir, Col. John",male,60,Adulto,Não,Não,113800,"26,55",,S,,,"England Salt Lake City, Utah"
+Primeira Classe,0,"White, Mr. Percival Wayland",male,54,Adulto,Não,Sim,35281,"77,2875",D26,S,,,"Brunswick, ME"
+Primeira Classe,0,"White, Mr. Richard Frasar",male,21,Adulto,Não,Sim,35281,"77,2875",D26,S,,169,"Brunswick, ME"
+Primeira Classe,1,"White, Mrs. John Stuart (Ella Holmes)",female,55,Adulto,Não,Não,PC 17760,"135,6333",C32,C,8,,"New York, NY / Briarcliff Manor NY"
+Primeira Classe,1,"Wick, Miss. Mary Natalie",female,31,Adulto,Não,Sim,36928,"164,8667",C7,S,8,,"Youngstown, OH"
+Primeira Classe,0,"Wick, Mr. George Dennick",male,57,Adulto,Sim,Sim,36928,"164,8667",,S,,,"Youngstown, OH"
+Primeira Classe,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,Adulto,Sim,Sim,36928,"164,8667",,S,8,,"Youngstown, OH"
+Primeira Classe,0,"Widener, Mr. George Dunton",male,50,Adulto,Sim,Sim,113503,"211,5",C80,C,,,"Elkins Park, PA"
+Primeira Classe,0,"Widener, Mr. Harry Elkins",male,27,Adulto,Não,Sim,113503,"211,5",C82,C,,,"Elkins Park, PA"
+Primeira Classe,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,Adulto,Sim,Sim,113503,"211,5",C80,C,4,,"Elkins Park, PA"
+Primeira Classe,1,"Willard, Miss. Constance",female,21,Adulto,Não,Não,113795,"26,55",,S,8 10,,"Duluth, MN"
+Primeira Classe,0,"Williams, Mr. Charles Duane",male,51,Adulto,Não,Sim,PC 17597,"61,3792",,C,,,"Geneva, Switzerland / Radnor, PA"
+Primeira Classe,1,"Williams, Mr. Richard Norris II",male,21,Adulto,Não,Sim,PC 17597,"61,3792",,C,A,,"Geneva, Switzerland / Radnor, PA"
+Primeira Classe,1,"Wilson, Miss. Helen Alice",female,31,Adulto,Não,Não,16966,"134,5",E39 E41,C,3,,
+Primeira Classe,0,"Wright, Mr. George",male,62,Adulto,Não,Não,113807,"26,55",,S,,,"Halifax, NS"
+Primeira Classe,1,"Young, Miss. Marie Grice",female,36,Adulto,Não,Não,PC 17760,"135,6333",C32,C,8,,"New York, NY / Washington, DC"
+Segunda Classe,0,"Abelson, Mr. Samuel",male,30,Adulto,Sim,Não,P/PP 3381,24,,C,,,"Russia New York, NY"
+Segunda Classe,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,Adulto,Sim,Não,P/PP 3381,24,,C,10,,"Russia New York, NY"
+Segunda Classe,0,"Aldworth, Mr. Charles Augustus",male,30,Adulto,Não,Não,248744,13,,S,,,"Bryn Mawr, PA, USA"
+Segunda Classe,0,"Andrew, Mr. Edgardo Samuel",male,18,Adolescente,Não,Não,231945,"11,5",,S,,,"Buenos Aires, Argentina / New Jersey, NJ"
+Segunda Classe,0,"Andrew, Mr. Frank Thomas",male,25,Adulto,Não,Não,C.A. 34050,"10,5",,S,,,"Cornwall, England Houghton, MI"
+Segunda Classe,0,"Angle, Mr. William A",male,34,Adulto,Sim,Não,226875,26,,S,,,"Warwick, England"
+Segunda Classe,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,Adulto,Sim,Não,226875,26,,S,11,,"Warwick, England"
+Segunda Classe,0,"Ashby, Mr. John",male,57,Adulto,Não,Não,244346,13,,S,,,"West Hoboken, NJ"
+Segunda Classe,0,"Bailey, Mr. Percy Andrew",male,18,Adolescente,Não,Não,29108,"11,5",,S,,,"Penzance, Cornwall / Akron, OH"
+Segunda Classe,0,"Baimbrigge, Mr. Charles Robert",male,23,Adulto,Não,Não,C.A. 31030,"10,5",,S,,,Guernsey
+Segunda Classe,1,"Ball, Mrs. (Ada E Hall)",female,36,Adulto,Não,Não,28551,13,D,S,10,,"Bristol, Avon / Jacksonville, FL"
+Segunda Classe,0,"Banfield, Mr. Frederick James",male,28,Adulto,Não,Não,C.A./SOTON 34068,"10,5",,S,,,"Plymouth, Dorset / Houghton, MI"
+Segunda Classe,0,"Bateman, Rev. Robert James",male,51,Adulto,Não,Não,S.O.P. 1166,"12,525",,S,,174,"Jacksonville, FL"
+Segunda Classe,1,"Beane, Mr. Edward",male,32,Adulto,Sim,Não,2908,26,,S,13,,"Norwich / New York, NY"
+Segunda Classe,1,"Beane, Mrs. Edward (Ethel Clarke)",female,19,Adolescente,Sim,Não,2908,26,,S,13,,"Norwich / New York, NY"
+Segunda Classe,0,"Beauchamp, Mr. Henry James",male,28,Adulto,Não,Não,244358,26,,S,,,England
+Segunda Classe,1,"Becker, Master. Richard F",male,1,Criança,Sim,Sim,230136,39,F4,S,11,,"Guntur, India / Benton Harbour, MI"
+Segunda Classe,1,"Becker, Miss. Marion Louise",female,4,Criança,Sim,Sim,230136,39,F4,S,11,,"Guntur, India / Benton Harbour, MI"
+Segunda Classe,1,"Becker, Miss. Ruth Elizabeth",female,12,Criança,Sim,Sim,230136,39,F4,S,13,,"Guntur, India / Benton Harbour, MI"
+Segunda Classe,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,Adulto,Não,Sim,230136,39,F4,S,11,,"Guntur, India / Benton Harbour, MI"
+Segunda Classe,1,"Beesley, Mr. Lawrence",male,34,Adulto,Não,Não,248698,13,D56,S,13,,London
+Segunda Classe,1,"Bentham, Miss. Lilian W",female,19,Adolescente,Não,Não,28404,13,,S,12,,"Rochester, NY"
+Segunda Classe,0,"Berriman, Mr. William John",male,23,Adulto,Não,Não,28425,13,,S,,,"St Ives, Cornwall / Calumet, MI"
+Segunda Classe,0,"Botsford, Mr. William Hull",male,26,Adulto,Não,Não,237670,13,,S,,,"Elmira, NY / Orange, NJ"
+Segunda Classe,0,"Bowenur, Mr. Solomon",male,42,Adulto,Não,Não,211535,13,,S,,,London
+Segunda Classe,0,"Bracken, Mr. James H",male,27,Adulto,Não,Não,220367,13,,S,,,"Lake Arthur, Chavez County, NM"
+Segunda Classe,1,"Brown, Miss. Amelia ""Mildred""",female,24,Adulto,Não,Não,248733,13,F33,S,11,,"London / Montreal, PQ"
+Segunda Classe,1,"Brown, Miss. Edith Eileen",female,15,Adolescente,Não,Sim,29750,39,,S,14,,"Cape Town, South Africa / Seattle, WA"
+Segunda Classe,0,"Brown, Mr. Thomas William Solomon",male,60,Adulto,Sim,Sim,29750,39,,S,,,"Cape Town, South Africa / Seattle, WA"
+Segunda Classe,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,Adulto,Sim,Sim,29750,39,,S,14,,"Cape Town, South Africa / Seattle, WA"
+Segunda Classe,1,"Bryhl, Miss. Dagmar Jenny Ingeborg ",female,20,Adulto,Sim,Não,236853,26,,S,12,,"Skara, Sweden / Rockford, IL"
+Segunda Classe,0,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,Adulto,Sim,Não,236853,26,,S,,,"Skara, Sweden / Rockford, IL"
+Segunda Classe,1,"Buss, Miss. Kate",female,36,Adulto,Não,Não,27849,13,,S,9,,"Sittingbourne, England / San Diego, CA"
+Segunda Classe,0,"Butler, Mr. Reginald Fenton",male,25,Adulto,Não,Não,234686,13,,S,,97,"Southsea, Hants"
+Segunda Classe,0,"Byles, Rev. Thomas Roussel Davids",male,42,Adulto,Não,Não,244310,13,,S,,,London
+Segunda Classe,1,"Bystrom, Mrs. (Karolina)",female,42,Adulto,Não,Não,236852,13,,S,,,"New York, NY"
+Segunda Classe,1,"Caldwell, Master. Alden Gates",male,"0,8333",Criança,Não,Sim,248738,29,,S,13,,"Bangkok, Thailand / Roseville, IL"
+Segunda Classe,1,"Caldwell, Mr. Albert Francis",male,26,Adulto,Sim,Sim,248738,29,,S,13,,"Bangkok, Thailand / Roseville, IL"
+Segunda Classe,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,Adulto,Sim,Sim,248738,29,,S,13,,"Bangkok, Thailand / Roseville, IL"
+Segunda Classe,1,"Cameron, Miss. Clear Annie",female,35,Adulto,Não,Não,F.C.C. 13528,21,,S,14,,"Mamaroneck, NY"
+Segunda Classe,0,"Carbines, Mr. William",male,19,Adolescente,Não,Não,28424,13,,S,,18,"St Ives, Cornwall / Calumet, MI"
+Segunda Classe,0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,Adulto,Sim,Não,244252,26,,S,,,London
+Segunda Classe,0,"Carter, Rev. Ernest Courtenay",male,54,Adulto,Sim,Não,244252,26,,S,,,London
+Segunda Classe,0,"Chapman, Mr. Charles Henry",male,52,Adulto,Não,Não,248731,"13,5",,S,,130,"Bronx, NY"
+Segunda Classe,0,"Chapman, Mr. John Henry",male,37,Adulto,Sim,Não,SC/AH 29037,26,,S,,17,"Cornwall / Spokane, WA"
+Segunda Classe,0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,Adulto,Sim,Não,SC/AH 29037,26,,S,,,"Cornwall / Spokane, WA"
+Segunda Classe,1,"Christy, Miss. Julie Rachel",female,25,Adulto,Sim,Sim,237789,30,,S,12,,London
+Segunda Classe,1,"Christy, Mrs. (Alice Frances)",female,45,Adulto,Não,Sim,237789,30,,S,12,,London
+Segunda Classe,0,"Clarke, Mr. Charles Valentine",male,29,Adulto,Sim,Não,2003,26,,S,,,"England / San Francisco, CA"
+Segunda Classe,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,Adulto,Sim,Não,2003,26,,S,14,,"England / San Francisco, CA"
+Segunda Classe,0,"Coleridge, Mr. Reginald Charles",male,29,Adulto,Não,Não,W./C. 14263,"10,5",,S,,,"Hartford, Huntingdonshire"
+Segunda Classe,0,"Collander, Mr. Erik Gustaf",male,28,Adulto,Não,Não,248740,13,,S,,,"Helsinki, Finland Ashtabula, Ohio"
+Segunda Classe,1,"Collett, Mr. Sidney C Stuart",male,24,Adulto,Não,Não,28034,"10,5",,S,9,,"London / Fort Byron, NY"
+Segunda Classe,1,"Collyer, Miss. Marjorie ""Lottie""",female,8,Criança,Não,Sim,C.A. 31921,"26,25",,S,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+Segunda Classe,0,"Collyer, Mr. Harvey",male,31,Adulto,Sim,Sim,C.A. 31921,"26,25",,S,,,"Bishopstoke, Hants / Fayette Valley, ID"
+Segunda Classe,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,Adulto,Sim,Sim,C.A. 31921,"26,25",,S,14,,"Bishopstoke, Hants / Fayette Valley, ID"
+Segunda Classe,1,"Cook, Mrs. (Selena Rogers)",female,22,Adulto,Não,Não,W./C. 14266,"10,5",F33,S,14,,Pennsylvania
+Segunda Classe,0,"Corbett, Mrs. Walter H (Irene Colvin)",female,30,Adulto,Não,Não,237249,13,,S,,,"Provo, UT"
+Segunda Classe,0,"Cotterill, Mr. Henry ""Harry""",male,21,Adulto,Não,Não,29107,"11,5",,S,,,"Penzance, Cornwall / Akron, OH"
+Segunda Classe,1,"Davies, Master. John Morgan Jr",male,8,Criança,Sim,Sim,C.A. 33112,"36,75",,S,14,,"St Ives, Cornwall / Hancock, MI"
+Segunda Classe,0,"Davies, Mr. Charles Henry",male,18,Adolescente,Não,Não,S.O.C. 14879,"73,5",,S,,,"Lyndhurst, England"
+Segunda Classe,1,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",female,48,Adulto,Não,Sim,C.A. 33112,"36,75",,S,14,,"St Ives, Cornwall / Hancock, MI"
+Segunda Classe,1,"Davis, Miss. Mary",female,28,Adulto,Não,Não,237668,13,,S,13,,"London / Staten Island, NY"
+Segunda Classe,0,"de Brito, Mr. Jose Joaquim",male,32,Adulto,Não,Não,244360,13,,S,,,"Portugal / Sau Paulo, Brazil"
+Segunda Classe,0,"Deacon, Mr. Percy William",male,17,Adolescente,Não,Não,S.O.C. 14879,"73,5",,S,,,
+Segunda Classe,0,"del Carlo, Mr. Sebastiano",male,29,Adulto,Sim,Não,SC/PARIS 2167,"27,7208",,C,,295,"Lucca, Italy / California"
+Segunda Classe,1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,Adulto,Sim,Não,SC/PARIS 2167,"27,7208",,C,12,,"Lucca, Italy / California"
+Segunda Classe,0,"Denbury, Mr. Herbert",male,25,Adulto,Não,Não,C.A. 31029,"31,5",,S,,,"Guernsey / Elizabeth, NJ"
+Segunda Classe,0,"Dibden, Mr. William",male,18,Adolescente,Não,Não,S.O.C. 14879,"73,5",,S,,,"New Forest, England"
+Segunda Classe,1,"Doling, Miss. Elsie",female,18,Adolescente,Não,Sim,231919,23,,S,,,Southampton
+Segunda Classe,1,"Doling, Mrs. John T (Ada Julia Bone)",female,34,Adulto,Não,Sim,231919,23,,S,,,Southampton
+Segunda Classe,0,"Downton, Mr. William James",male,54,Adulto,Não,Não,28403,26,,S,,,"Holley, NY"
+Segunda Classe,1,"Drew, Master. Marshall Brines",male,8,Criança,Não,Sim,28220,"32,5",,S,10,,"Greenport, NY"
+Segunda Classe,0,"Drew, Mr. James Vivian",male,42,Adulto,Sim,Sim,28220,"32,5",,S,,,"Greenport, NY"
+Segunda Classe,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,Adulto,Sim,Sim,28220,"32,5",,S,10,,"Greenport, NY"
+Segunda Classe,1,"Duran y More, Miss. Asuncion",female,27,Adulto,Sim,Não,SC/PARIS 2149,"13,8583",,C,12,,"Barcelona, Spain / Havana, Cuba"
+Segunda Classe,1,"Duran y More, Miss. Florentina",female,30,Adulto,Sim,Não,SC/PARIS 2148,"13,8583",,C,12,,"Barcelona, Spain / Havana, Cuba"
+Segunda Classe,0,"Eitemiller, Mr. George Floyd",male,23,Adulto,Não,Não,29751,13,,S,,,"England / Detroit, MI"
+Segunda Classe,0,"Enander, Mr. Ingvar",male,21,Adulto,Não,Não,236854,13,,S,,,"Goteborg, Sweden / Rockford, IL"
+Segunda Classe,0,"Fahlstrom, Mr. Arne Jonas",male,18,Adolescente,Não,Não,236171,13,,S,,,"Oslo, Norway Bayonne, NJ"
+Segunda Classe,0,"Faunthorpe, Mr. Harry",male,40,Adulto,Sim,Não,2926,26,,S,,286,"England / Philadelphia, PA"
+Segunda Classe,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,Adulto,Sim,Não,2926,26,,S,16,,
+Segunda Classe,0,"Fillbrook, Mr. Joseph Charles",male,18,Adolescente,Não,Não,C.A. 15185,"10,5",,S,,,"Cornwall / Houghton, MI"
+Segunda Classe,0,"Fox, Mr. Stanley Hubert",male,36,Adulto,Não,Não,229236,13,,S,,236,"Rochester, NY"
+Segunda Classe,0,"Funk, Miss. Annie Clemmer",female,38,Adulto,Não,Não,237671,13,,S,,,"Janjgir, India / Pennsylvania"
+Segunda Classe,0,"Fynney, Mr. Joseph J",male,35,Adulto,Não,Não,239865,26,,S,,322,"Liverpool / Montreal, PQ"
+Segunda Classe,0,"Gale, Mr. Harry",male,38,Adulto,Sim,Não,28664,21,,S,,,"Cornwall / Clear Creek, CO"
+Segunda Classe,0,"Gale, Mr. Shadrach",male,34,Adulto,Sim,Não,28664,21,,S,,,"Cornwall / Clear Creek, CO"
+Segunda Classe,1,"Garside, Miss. Ethel",female,34,Adulto,Não,Não,243880,13,,S,12,,"Brooklyn, NY"
+Segunda Classe,0,"Gaskell, Mr. Alfred",male,16,Adolescente,Não,Não,239865,26,,S,,,"Liverpool / Montreal, PQ"
+Segunda Classe,0,"Gavey, Mr. Lawrence",male,26,Adulto,Não,Não,31028,"10,5",,S,,,"Guernsey / Elizabeth, NJ"
+Segunda Classe,0,"Gilbert, Mr. William",male,47,Adulto,Não,Não,C.A. 30769,"10,5",,S,,,Cornwall
+Segunda Classe,0,"Giles, Mr. Edgar",male,21,Adulto,Sim,Não,28133,"11,5",,S,,,"Cornwall / Camden, NJ"
+Segunda Classe,0,"Giles, Mr. Frederick Edward",male,21,Adulto,Sim,Não,28134,"11,5",,S,,,"Cornwall / Camden, NJ"
+Segunda Classe,0,"Giles, Mr. Ralph",male,24,Adulto,Não,Não,248726,"13,5",,S,,297,"West Kensington, London"
+Segunda Classe,0,"Gill, Mr. John William",male,24,Adulto,Não,Não,233866,13,,S,,155,"Clevedon, England"
+Segunda Classe,0,"Gillespie, Mr. William Henry",male,34,Adulto,Não,Não,12233,13,,S,,,"Vancouver, BC"
+Segunda Classe,0,"Givard, Mr. Hans Kristensen",male,30,Adulto,Não,Não,250646,13,,S,,305,
+Segunda Classe,0,"Greenberg, Mr. Samuel",male,52,Adulto,Não,Não,250647,13,,S,,19,"Bronx, NY"
+Segunda Classe,0,"Hale, Mr. Reginald",male,30,Adulto,Não,Não,250653,13,,S,,75,"Auburn, NY"
+Segunda Classe,1,"Hamalainen, Master. Viljo",male,"0,6667",Criança,Sim,Sim,250649,"14,5",,S,4,,"Detroit, MI"
+Segunda Classe,1,"Hamalainen, Mrs. William (Anna)",female,24,Adulto,Não,Sim,250649,"14,5",,S,4,,"Detroit, MI"
+Segunda Classe,0,"Harbeck, Mr. William H",male,44,Adulto,Não,Não,248746,13,,S,,35,"Seattle, WA / Toledo, OH"
+Segunda Classe,1,"Harper, Miss. Annie Jessie ""Nina""",female,6,Criança,Não,Sim,248727,33,,S,11,,"Denmark Hill, Surrey / Chicago"
+Segunda Classe,0,"Harper, Rev. John",male,28,Adulto,Não,Sim,248727,33,,S,,,"Denmark Hill, Surrey / Chicago"
+Segunda Classe,1,"Harris, Mr. George",male,62,Adulto,Não,Não,S.W./PP 752,"10,5",,S,15,,London
+Segunda Classe,0,"Harris, Mr. Walter",male,30,Adulto,Não,Não,W/C 14208,"10,5",,S,,,"Walthamstow, England"
+Segunda Classe,1,"Hart, Miss. Eva Miriam",female,7,Criança,Não,Sim,F.C.C. 13529,"26,25",,S,14,,"Ilford, Essex / Winnipeg, MB"
+Segunda Classe,0,"Hart, Mr. Benjamin",male,43,Adulto,Sim,Sim,F.C.C. 13529,"26,25",,S,,,"Ilford, Essex / Winnipeg, MB"
+Segunda Classe,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,Adulto,Sim,Sim,F.C.C. 13529,"26,25",,S,14,,"Ilford, Essex / Winnipeg, MB"
+Segunda Classe,1,"Herman, Miss. Alice",female,24,Adulto,Sim,Sim,220845,65,,S,9,,"Somerset / Bernardsville, NJ"
+Segunda Classe,1,"Herman, Miss. Kate",female,24,Adulto,Sim,Sim,220845,65,,S,9,,"Somerset / Bernardsville, NJ"
+Segunda Classe,0,"Herman, Mr. Samuel",male,49,Adulto,Sim,Sim,220845,65,,S,,,"Somerset / Bernardsville, NJ"
+Segunda Classe,1,"Herman, Mrs. Samuel (Jane Laver)",female,48,Adulto,Sim,Sim,220845,65,,S,9,,"Somerset / Bernardsville, NJ"
+Segunda Classe,1,"Hewlett, Mrs. (Mary D Kingcome) ",female,55,Adulto,Não,Não,248706,16,,S,13,,"India / Rapid City, SD"
+Segunda Classe,0,"Hickman, Mr. Leonard Mark",male,24,Adulto,Sim,Não,S.O.C. 14879,"73,5",,S,,,"West Hampstead, London / Neepawa, MB"
+Segunda Classe,0,"Hickman, Mr. Lewis",male,32,Adulto,Sim,Não,S.O.C. 14879,"73,5",,S,,256,"West Hampstead, London / Neepawa, MB"
+Segunda Classe,0,"Hickman, Mr. Stanley George",male,21,Adulto,Sim,Não,S.O.C. 14879,"73,5",,S,,,"West Hampstead, London / Neepawa, MB"
+Segunda Classe,0,"Hiltunen, Miss. Marta",female,18,Adolescente,Sim,Sim,250650,13,,S,,,"Kontiolahti, Finland / Detroit, MI"
+Segunda Classe,1,"Hocking, Miss. Ellen ""Nellie""",female,20,Adulto,Sim,Sim,29105,23,,S,4,,"Cornwall / Akron, OH"
+Segunda Classe,0,"Hocking, Mr. Richard George",male,23,Adulto,Sim,Sim,29104,"11,5",,S,,,"Cornwall / Akron, OH"
+Segunda Classe,0,"Hocking, Mr. Samuel James Metcalfe",male,36,Adulto,Não,Não,242963,13,,S,,,"Devonport, England"
+Segunda Classe,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,Adulto,Sim,Sim,29105,23,,S,4,,"Cornwall / Akron, OH"
+Segunda Classe,0,"Hodges, Mr. Henry Price",male,50,Adulto,Não,Não,250643,13,,S,,149,Southampton
+Segunda Classe,0,"Hold, Mr. Stephen",male,44,Adulto,Sim,Não,26707,26,,S,,,"England / Sacramento, CA"
+Segunda Classe,1,"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,Adulto,Sim,Não,26707,26,,S,10,,"England / Sacramento, CA"
+Segunda Classe,0,"Hood, Mr. Ambrose Jr",male,21,Adulto,Não,Não,S.O.C. 14879,"73,5",,S,,,"New Forest, England"
+Segunda Classe,1,"Hosono, Mr. Masabumi",male,42,Adulto,Não,Não,237798,13,,S,10,,"Tokyo, Japan"
+Segunda Classe,0,"Howard, Mr. Benjamin",male,63,Adulto,Sim,Não,24065,26,,S,,,"Swindon, England"
+Segunda Classe,0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,Adulto,Sim,Não,24065,26,,S,,,"Swindon, England"
+Segunda Classe,0,"Hunt, Mr. George Henry",male,33,Adulto,Não,Não,SCO/W 1585,"12,275",,S,,,"Philadelphia, PA"
+Segunda Classe,1,"Ilett, Miss. Bertha",female,17,Adolescente,Não,Não,SO/C 14885,"10,5",,S,,,Guernsey
+Segunda Classe,0,"Jacobsohn, Mr. Sidney Samuel",male,42,Adulto,Sim,Não,243847,27,,S,,,London
+Segunda Classe,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,Adulto,Sim,Sim,243847,27,,S,12,,London
+Segunda Classe,0,"Jarvis, Mr. John Denzil",male,47,Adulto,Não,Não,237565,15,,S,,,"North Evington, England"
+Segunda Classe,0,"Jefferys, Mr. Clifford Thomas",male,24,Adulto,Sim,Não,C.A. 31029,"31,5",,S,,,"Guernsey / Elizabeth, NJ"
+Segunda Classe,0,"Jefferys, Mr. Ernest Wilfred",male,22,Adulto,Sim,Não,C.A. 31029,"31,5",,S,,,"Guernsey / Elizabeth, NJ"
+Segunda Classe,0,"Jenkin, Mr. Stephen Curnow",male,32,Adulto,Não,Não,C.A. 33111,"10,5",,S,,,"St Ives, Cornwall / Houghton, MI"
+Segunda Classe,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,Adulto,Não,Não,SC/AH Basle 541,"13,7917",D,C,11,,"New York, NY"
+Segunda Classe,0,"Kantor, Mr. Sinai",male,34,Adulto,Sim,Não,244367,26,,S,,283,"Moscow / Bronx, NY"
+Segunda Classe,1,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,Adulto,Sim,Não,244367,26,,S,12,,"Moscow / Bronx, NY"
+Segunda Classe,0,"Karnes, Mrs. J Frank (Claire Bennett)",female,22,Adulto,Não,Não,F.C.C. 13534,21,,S,,,"India / Pittsburgh, PA"
+Segunda Classe,0,"Keane, Mr. Daniel",male,35,Adulto,Não,Não,233734,"12,35",,Q,,,
+Segunda Classe,1,"Kelly, Mrs. Florence ""Fannie""",female,45,Adulto,Não,Não,223596,"13,5",,S,9,,"London / New York, NY"
+Segunda Classe,0,"Kirkland, Rev. Charles Leonard",male,57,Adulto,Não,Não,219533,"12,35",,Q,,,"Glasgow / Bangor, ME"
+Segunda Classe,0,"Kvillner, Mr. Johan Henrik Johannesson",male,31,Adulto,Não,Não,C.A. 18723,"10,5",,S,,165,"Sweden / Arlington, NJ"
+Segunda Classe,0,"Lahtinen, Mrs. William (Anna Sylfven)",female,26,Adulto,Sim,Sim,250651,26,,S,,,"Minneapolis, MN"
+Segunda Classe,0,"Lahtinen, Rev. William",male,30,Adulto,Sim,Sim,250651,26,,S,,,"Minneapolis, MN"
+Segunda Classe,1,"Laroche, Miss. Louise",female,1,Criança,Sim,Sim,SC/Paris 2123,"41,5792",,C,14,,Paris / Haiti
+Segunda Classe,1,"Laroche, Miss. Simonne Marie Anne Andree",female,3,Criança,Sim,Sim,SC/Paris 2123,"41,5792",,C,14,,Paris / Haiti
+Segunda Classe,0,"Laroche, Mr. Joseph Philippe Lemercier",male,25,Adulto,Sim,Sim,SC/Paris 2123,"41,5792",,C,,,Paris / Haiti
+Segunda Classe,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,Adulto,Sim,Sim,SC/Paris 2123,"41,5792",,C,14,,Paris / Haiti
+Segunda Classe,1,"Lehmann, Miss. Bertha",female,17,Adolescente,Não,Não,SC 1748,12,,C,12,,"Berne, Switzerland / Central City, IA"
+Segunda Classe,1,"Lemore, Mrs. (Amelia Milley)",female,34,Adulto,Não,Não,C.A. 34260,"10,5",F33,S,14,,"Chicago, IL"
+Segunda Classe,0,"Levy, Mr. Rene Jacques",male,36,Adulto,Não,Não,SC/Paris 2163,"12,875",D,C,,,"Montreal, PQ"
+Segunda Classe,0,"Leyson, Mr. Robert William Norman",male,24,Adulto,Não,Não,C.A. 29566,"10,5",,S,,108,
+Segunda Classe,0,"Lingane, Mr. John",male,61,Adulto,Não,Não,235509,"12,35",,Q,,,
+Segunda Classe,0,"Louch, Mr. Charles Alexander",male,50,Adulto,Sim,Não,SC/AH 3085,26,,S,,121,"Weston-Super-Mare, Somerset"
+Segunda Classe,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,Adulto,Sim,Não,SC/AH 3085,26,,S,,,"Weston-Super-Mare, Somerset"
+Segunda Classe,0,"Mack, Mrs. (Mary)",female,57,Adulto,Não,Não,S.O./P.P. 3,"10,5",E77,S,,52,"Southampton / New York, NY"
+Segunda Classe,1,"Mallet, Master. Andre",male,1,Criança,Não,Sim,S.C./PARIS 2079,"37,0042",,C,10,,"Paris / Montreal, PQ"
+Segunda Classe,0,"Mallet, Mr. Albert",male,31,Adulto,Sim,Sim,S.C./PARIS 2079,"37,0042",,C,,,"Paris / Montreal, PQ"
+Segunda Classe,1,"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,Adulto,Sim,Sim,S.C./PARIS 2079,"37,0042",,C,10,,"Paris / Montreal, PQ"
+Segunda Classe,0,"Matthews, Mr. William John",male,30,Adulto,Não,Não,28228,13,,S,,,"St Austall, Cornwall"
+Segunda Classe,0,"Maybery, Mr. Frank Hubert",male,40,Adulto,Não,Não,239059,16,,S,,,"Weston-Super-Mare / Moose Jaw, SK"
+Segunda Classe,0,"McCrae, Mr. Arthur Gordon",male,32,Adulto,Não,Não,237216,"13,5",,S,,209,"Sydney, Australia"
+Segunda Classe,0,"McCrie, Mr. James Matthew",male,30,Adulto,Não,Não,233478,13,,S,,,"Sarnia, ON"
+Segunda Classe,0,"McKane, Mr. Peter David",male,46,Adulto,Não,Não,28403,26,,S,,,"Rochester, NY"
+Segunda Classe,1,"Mellinger, Miss. Madeleine Violet",female,13,Adolescente,Não,Sim,250644,"19,5",,S,14,,"England / Bennington, VT"
+Segunda Classe,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,Adulto,Não,Sim,250644,"19,5",,S,14,,"England / Bennington, VT"
+Segunda Classe,1,"Mellors, Mr. William John",male,19,Adolescente,Não,Não,SW/PP 751,"10,5",,S,B,,"Chelsea, London"
+Segunda Classe,0,"Meyer, Mr. August",male,39,Adulto,Não,Não,248723,13,,S,,,"Harrow-on-the-Hill, Middlesex"
+Segunda Classe,0,"Milling, Mr. Jacob Christian",male,48,Adulto,Não,Não,234360,13,,S,,271,"Copenhagen, Denmark"
+Segunda Classe,0,"Mitchell, Mr. Henry Michael",male,70,Idoso,Não,Não,C.A. 24580,"10,5",,S,,,"Guernsey / Montclair, NJ and/or Toledo, Ohio"
+Segunda Classe,0,"Montvila, Rev. Juozas",male,27,Adulto,Não,Não,211536,13,,S,,,"Worcester, MA"
+Segunda Classe,0,"Moraweck, Dr. Ernest",male,54,Adulto,Não,Não,29011,14,,S,,,"Frankfort, KY"
+Segunda Classe,0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,Adulto,Não,Não,250655,26,,S,,,
+Segunda Classe,0,"Mudd, Mr. Thomas Charles",male,16,Adolescente,Não,Não,S.O./P.P. 3,"10,5",,S,,,"Halesworth, England"
+Segunda Classe,0,"Myles, Mr. Thomas Francis",male,62,Adulto,Não,Não,240276,"9,6875",,Q,,,"Cambridge, MA"
+Segunda Classe,0,"Nasser, Mr. Nicholas",male,"32,5",Adulto,Sim,Não,237736,"30,0708",,C,,43,"New York, NY"
+Segunda Classe,1,"Nasser, Mrs. Nicholas (Adele Achem)",female,14,Adolescente,Sim,Não,237736,"30,0708",,C,,,"New York, NY"
+Segunda Classe,1,"Navratil, Master. Edmond Roger",male,2,Criança,Sim,Sim,230080,26,F2,S,D,,"Nice, France"
+Segunda Classe,1,"Navratil, Master. Michel M",male,3,Criança,Sim,Sim,230080,26,F2,S,D,,"Nice, France"
+Segunda Classe,0,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,"36,5",Adulto,Não,Sim,230080,26,F2,S,,15,"Nice, France"
+Segunda Classe,0,"Nesson, Mr. Israel",male,26,Adulto,Não,Não,244368,13,F2,S,,,"Boston, MA"
+Segunda Classe,0,"Nicholls, Mr. Joseph Charles",male,19,Adolescente,Sim,Sim,C.A. 33112,"36,75",,S,,101,"Cornwall / Hancock, MI"
+Segunda Classe,0,"Norman, Mr. Robert Douglas",male,28,Adulto,Não,Não,218629,"13,5",,S,,287,Glasgow
+Segunda Classe,1,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20,Adulto,Não,Não,SC/PARIS 2166,"13,8625",D38,C,7,,"Cologne, Germany"
+Segunda Classe,1,"Nye, Mrs. (Elizabeth Ramell)",female,29,Adulto,Não,Não,C.A. 29395,"10,5",F33,S,11,,"Folkstone, Kent / New York, NY"
+Segunda Classe,0,"Otter, Mr. Richard",male,39,Adulto,Não,Não,28213,13,,S,,,"Middleburg Heights, OH"
+Segunda Classe,1,"Oxenham, Mr. Percy Thomas",male,22,Adulto,Não,Não,W./C. 14260,"10,5",,S,13,,"Pondersend, England / New Durham, NJ"
+Segunda Classe,0,"Pain, Dr. Alfred",male,23,Adulto,Não,Não,244278,"10,5",,S,,,"Hamilton, ON"
+Segunda Classe,1,"Pallas y Castello, Mr. Emilio",male,29,Adulto,Não,Não,SC/PARIS 2147,"13,8583",,C,9,,"Spain / Havana, Cuba"
+Segunda Classe,0,"Parker, Mr. Clifford Richard",male,28,Adulto,Não,Não,SC 14888,"10,5",,S,,,"St Andrews, Guernsey"
+Segunda Classe,1,"Parrish, Mrs. (Lutie Davis)",female,50,Adulto,Não,Sim,230433,26,,S,12,,"Woodford County, KY"
+Segunda Classe,0,"Pengelly, Mr. Frederick William",male,19,Adolescente,Não,Não,28665,"10,5",,S,,,"Gunnislake, England / Butte, MT"
+Segunda Classe,0,"Peruschitz, Rev. Joseph Maria",male,41,Adulto,Não,Não,237393,13,,S,,,
+Segunda Classe,1,"Phillips, Miss. Alice Frances Louisa",female,21,Adulto,Não,Sim,S.O./P.P. 2,21,,S,12,,"Ilfracombe, Devon"
+Segunda Classe,1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,Adolescente,Não,Não,250655,26,,S,11,,"Worcester, England"
+Segunda Classe,0,"Phillips, Mr. Escott Robert",male,43,Adulto,Não,Sim,S.O./P.P. 2,21,,S,,,"Ilfracombe, Devon"
+Segunda Classe,1,"Pinsky, Mrs. (Rosa)",female,32,Adulto,Não,Não,234604,13,,S,9,,Russia
+Segunda Classe,0,"Ponesell, Mr. Martin",male,34,Adulto,Não,Não,250647,13,,S,,,"Denmark / New York, NY"
+Segunda Classe,1,"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,Adulto,Não,Não,C.A. 34644,"12,7375",,C,14,,"Milford, NH"
+Segunda Classe,0,"Pulbaum, Mr. Franz",male,27,Adulto,Não,Não,SC/PARIS 2168,"15,0333",,C,,,Paris
+Segunda Classe,1,"Quick, Miss. Phyllis May",female,2,Criança,Sim,Sim,26360,26,,S,11,,"Plymouth, Devon / Detroit, MI"
+Segunda Classe,1,"Quick, Miss. Winifred Vera",female,8,Criança,Sim,Sim,26360,26,,S,11,,"Plymouth, Devon / Detroit, MI"
+Segunda Classe,1,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,Adulto,Não,Sim,26360,26,,S,11,,"Plymouth, Devon / Detroit, MI"
+Segunda Classe,0,"Reeves, Mr. David",male,36,Adulto,Não,Não,C.A. 17248,"10,5",,S,,,"Brighton, Sussex"
+Segunda Classe,0,"Renouf, Mr. Peter Henry",male,34,Adulto,Sim,Não,31027,21,,S,12,,"Elizabeth, NJ"
+Segunda Classe,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,Adulto,Sim,Não,31027,21,,S,,,"Elizabeth, NJ"
+Segunda Classe,1,"Reynaldo, Ms. Encarnacion",female,28,Adulto,Não,Não,230434,13,,S,9,,Spain
+Segunda Classe,0,"Richard, Mr. Emile",male,23,Adulto,Não,Não,SC/PARIS 2133,"15,0458",,C,,,"Paris / Montreal, PQ"
+Segunda Classe,1,"Richards, Master. George Sibley",male,"0,8333",Criança,Sim,Sim,29106,"18,75",,S,4,,"Cornwall / Akron, OH"
+Segunda Classe,1,"Richards, Master. William Rowe",male,3,Criança,Sim,Sim,29106,"18,75",,S,4,,"Cornwall / Akron, OH"
+Segunda Classe,1,"Richards, Mrs. Sidney (Emily Hocking)",female,24,Adulto,Sim,Sim,29106,"18,75",,S,4,,"Cornwall / Akron, OH"
+Segunda Classe,1,"Ridsdale, Miss. Lucy",female,50,Adulto,Não,Não,W./C. 14258,"10,5",,S,13,,"London, England / Marietta, Ohio and Milwaukee, WI"
+Segunda Classe,0,"Rogers, Mr. Reginald Harry",male,19,Adolescente,Não,Não,28004,"10,5",,S,,,
+Segunda Classe,1,"Rugg, Miss. Emily",female,21,Adulto,Não,Não,C.A. 31026,"10,5",,S,12,,"Guernsey / Wilmington, DE"
+Segunda Classe,0,"Schmidt, Mr. August",male,26,Adulto,Não,Não,248659,13,,S,,,"Newark, NJ"
+Segunda Classe,0,"Sedgwick, Mr. Charles Frederick Waddington",male,25,Adulto,Não,Não,244361,13,,S,,,Liverpool
+Segunda Classe,0,"Sharp, Mr. Percival James R",male,27,Adulto,Não,Não,244358,26,,S,,,"Hornsey, England"
+Segunda Classe,1,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,Adulto,Não,Sim,230433,26,,S,12,,"Deer Lodge, MT"
+Segunda Classe,1,"Silven, Miss. Lyyli Karoliina",female,18,Adolescente,Não,Sim,250652,13,,S,16,,"Finland / Minneapolis, MN"
+Segunda Classe,1,"Sincock, Miss. Maude",female,20,Adulto,Não,Não,C.A. 33112,"36,75",,S,11,,"Cornwall / Hancock, MI"
+Segunda Classe,1,"Sinkkonen, Miss. Anna",female,30,Adulto,Não,Não,250648,13,,S,10,,"Finland / Washington, DC"
+Segunda Classe,0,"Sjostedt, Mr. Ernst Adolf",male,59,Adulto,Não,Não,237442,"13,5",,S,,,"Sault St Marie, ON"
+Segunda Classe,1,"Slayter, Miss. Hilda Mary",female,30,Adulto,Não,Não,234818,"12,35",,Q,13,,"Halifax, NS"
+Segunda Classe,0,"Slemen, Mr. Richard James",male,35,Adulto,Não,Não,28206,"10,5",,S,,,Cornwall
+Segunda Classe,1,"Smith, Miss. Marion Elsie",female,40,Adulto,Não,Não,31418,13,,S,9,,
+Segunda Classe,0,"Sobey, Mr. Samuel James Hayden",male,25,Adulto,Não,Não,C.A. 29178,13,,S,,,"Cornwall / Houghton, MI"
+Segunda Classe,0,"Stanton, Mr. Samuel Ward",male,41,Adulto,Não,Não,237734,"15,0458",,C,,,"New York, NY"
+Segunda Classe,0,"Stokes, Mr. Philip Joseph",male,25,Adulto,Não,Não,F.C.C. 13540,"10,5",,S,,81,"Catford, Kent / Detroit, MI"
+Segunda Classe,0,"Swane, Mr. George",male,"18,5",Adolescente,Não,Não,248734,13,F,S,,294,
+Segunda Classe,0,"Sweet, Mr. George Frederick",male,14,Adolescente,Não,Não,220845,65,,S,,,"Somerset / Bernardsville, NJ"
+Segunda Classe,1,"Toomey, Miss. Ellen",female,50,Adulto,Não,Não,F.C.C. 13531,"10,5",,S,9,,"Indianapolis, IN"
+Segunda Classe,0,"Troupiansky, Mr. Moses Aaron",male,23,Adulto,Não,Não,233639,13,,S,,,
+Segunda Classe,1,"Trout, Mrs. William H (Jessie L)",female,28,Adulto,Não,Não,240929,"12,65",,S,,,"Columbus, OH"
+Segunda Classe,1,"Troutt, Miss. Edwina Celia ""Winnie""",female,27,Adulto,Não,Não,34218,"10,5",E101,S,16,,"Bath, England / Massachusetts"
+Segunda Classe,0,"Turpin, Mr. William John Robert",male,29,Adulto,Sim,Não,11668,21,,S,,,"Plymouth, England"
+Segunda Classe,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,Adulto,Sim,Não,11668,21,,S,,,"Plymouth, England"
+Segunda Classe,0,"Veal, Mr. James",male,40,Adulto,Não,Não,28221,13,,S,,,"Barre, Co Washington, VT"
+Segunda Classe,1,"Walcroft, Miss. Nellie",female,31,Adulto,Não,Não,F.C.C. 13528,21,,S,14,,"Mamaroneck, NY"
+Segunda Classe,0,"Ware, Mr. John James",male,30,Adulto,Sim,Não,CA 31352,21,,S,,,"Bristol, England / New Britain, CT"
+Segunda Classe,0,"Ware, Mr. William Jeffery",male,23,Adulto,Sim,Não,28666,"10,5",,S,,,
+Segunda Classe,1,"Ware, Mrs. John James (Florence Louise Long)",female,31,Adulto,Não,Não,CA 31352,21,,S,10,,"Bristol, England / New Britain, CT"
+Segunda Classe,1,"Watt, Miss. Bertha J",female,12,Criança,Não,Não,C.A. 33595,"15,75",,S,9,,"Aberdeen / Portland, OR"
+Segunda Classe,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,Adulto,Não,Não,C.A. 33595,"15,75",,S,9,,"Aberdeen / Portland, OR"
+Segunda Classe,1,"Webber, Miss. Susan",female,"32,5",Adulto,Não,Não,27267,13,E101,S,12,,"England / Hartford, CT"
+Segunda Classe,0,"Weisz, Mr. Leopold",male,27,Adulto,Sim,Não,228414,26,,S,,293,"Bromsgrove, England / Montreal, PQ"
+Segunda Classe,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,Adulto,Sim,Não,228414,26,,S,10,,"Bromsgrove, England / Montreal, PQ"
+Segunda Classe,1,"Wells, Master. Ralph Lester",male,2,Criança,Sim,Sim,29103,23,,S,14,,"Cornwall / Akron, OH"
+Segunda Classe,1,"Wells, Miss. Joan",female,4,Criança,Sim,Sim,29103,23,,S,14,,"Cornwall / Akron, OH"
+Segunda Classe,1,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29,Adulto,Não,Sim,29103,23,,S,14,,"Cornwall / Akron, OH"
+Segunda Classe,1,"West, Miss. Barbara J",female,"0,9167",Criança,Sim,Sim,C.A. 34651,"27,75",,S,10,,"Bournmouth, England"
+Segunda Classe,1,"West, Miss. Constance Mirium",female,5,Criança,Sim,Sim,C.A. 34651,"27,75",,S,10,,"Bournmouth, England"
+Segunda Classe,0,"West, Mr. Edwy Arthur",male,36,Adulto,Sim,Sim,C.A. 34651,"27,75",,S,,,"Bournmouth, England"
+Segunda Classe,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,Adulto,Sim,Sim,C.A. 34651,"27,75",,S,10,,"Bournmouth, England"
+Segunda Classe,0,"Wheadon, Mr. Edward H",male,66,Idoso,Não,Não,C.A. 24579,"10,5",,S,,,"Guernsey, England / Edgewood, RI"
+Segunda Classe,1,"Wilhelms, Mr. Charles",male,31,Adulto,Não,Não,244270,13,,S,9,,"London, England"
+Segunda Classe,1,"Wright, Miss. Marion",female,26,Adulto,Não,Não,220844,"13,5",,S,9,,"Yoevil, England / Cottage Grove, OR"
+Segunda Classe,0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,Adulto,Não,Não,248747,13,,S,,,Paris
+Terceira Classe,0,"Abbing, Mr. Anthony",male,42,Adulto,Não,Não,C.A. 5547,"7,55",,S,,,
+Terceira Classe,0,"Abbott, Master. Eugene Joseph",male,13,Adolescente,Não,Sim,C.A. 2673,"20,25",,S,,,"East Providence, RI"
+Terceira Classe,0,"Abbott, Mr. Rossmore Edward",male,16,Adolescente,Sim,Sim,C.A. 2673,"20,25",,S,,190,"East Providence, RI"
+Terceira Classe,1,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,Adulto,Sim,Sim,C.A. 2673,"20,25",,S,A,,"East Providence, RI"
+Terceira Classe,1,"Abelseth, Miss. Karen Marie",female,16,Adolescente,Não,Não,348125,"7,65",,S,16,,"Norway Los Angeles, CA"
+Terceira Classe,1,"Abelseth, Mr. Olaus Jorgensen",male,25,Adulto,Não,Não,348122,"7,65",F G63,S,A,,"Perkins County, SD"
+Terceira Classe,1,"Abrahamsson, Mr. Abraham August Johannes",male,20,Adulto,Não,Não,SOTON/O2 3101284,"7,925",,S,15,,"Taalintehdas, Finland Hoboken, NJ"
+Terceira Classe,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,Adolescente,Não,Não,2657,"7,2292",,C,C,,"Greensburg, PA"
+Terceira Classe,0,"Adahl, Mr. Mauritz Nils Martin",male,30,Adulto,Não,Não,C 7076,"7,25",,S,,72,"Asarum, Sweden Brooklyn, NY"
+Terceira Classe,0,"Adams, Mr. John",male,26,Adulto,Não,Não,341826,"8,05",,S,,103,"Bournemouth, England"
+Terceira Classe,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,Adulto,Sim,Não,7546,"9,475",,S,,,"Sweden Akeley, MN"
+Terceira Classe,1,"Aks, Master. Philip Frank",male,"0,8333",Criança,Não,Sim,392091,"9,35",,S,11,,"London, England Norfolk, VA"
+Terceira Classe,1,"Aks, Mrs. Sam (Leah Rosen)",female,18,Adolescente,Não,Sim,392091,"9,35",,S,13,,"London, England Norfolk, VA"
+Terceira Classe,1,"Albimona, Mr. Nassef Cassem",male,26,Adulto,Não,Não,2699,"18,7875",,C,15,,"Syria Fredericksburg, VA"
+Terceira Classe,0,"Alexander, Mr. William",male,26,Adulto,Não,Não,3474,"7,8875",,S,,,"England Albion, NY"
+Terceira Classe,0,"Alhomaki, Mr. Ilmari Rudolf",male,20,Adulto,Não,Não,SOTON/O2 3101287,"7,925",,S,,,"Salo, Finland Astoria, OR"
+Terceira Classe,0,"Ali, Mr. Ahmed",male,24,Adulto,Não,Não,SOTON/O.Q. 3101311,"7,05",,S,,,
+Terceira Classe,0,"Ali, Mr. William",male,25,Adulto,Não,Não,SOTON/O.Q. 3101312,"7,05",,S,,79,Argentina
+Terceira Classe,0,"Allen, Mr. William Henry",male,35,Adulto,Não,Não,373450,"8,05",,S,,,"Lower Clapton, Middlesex or Erdington, Birmingham"
+Terceira Classe,0,"Allum, Mr. Owen George",male,18,Adolescente,Não,Não,2223,"8,3",,S,,259,"Windsor, England New York, NY"
+Terceira Classe,0,"Andersen, Mr. Albert Karvin",male,32,Adulto,Não,Não,C 4001,"22,525",,S,,260,"Bergen, Norway"
+Terceira Classe,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,Adolescente,Sim,Não,350046,"7,8542",,S,16,,
+Terceira Classe,0,"Andersson, Master. Sigvard Harald Elias",male,4,Criança,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,0,"Andersson, Miss. Ebba Iris Alfrida",female,6,Criança,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,0,"Andersson, Miss. Ellis Anna Maria",female,2,Criança,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,1,"Andersson, Miss. Erna Alexandra",female,17,Adolescente,Sim,Sim,3101281,"7,925",,S,D,,"Ruotsinphyhtaa, Finland New York, NY"
+Terceira Classe,0,"Andersson, Miss. Ida Augusta Margareta",female,38,Adulto,Sim,Sim,347091,"7,775",,S,,,"Vadsbro, Sweden Ministee, MI"
+Terceira Classe,0,"Andersson, Miss. Ingeborg Constanzia",female,9,Criança,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,0,"Andersson, Miss. Sigrid Elisabeth",female,11,Criança,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,0,"Andersson, Mr. Anders Johan",male,39,Adulto,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,Adulto,Não,Não,350043,"7,7958",,S,A,,
+Terceira Classe,0,"Andersson, Mr. Johan Samuel",male,26,Adulto,Não,Não,347075,"7,775",,S,,,"Hartford, CT"
+Terceira Classe,0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,Adulto,Sim,Sim,347082,"31,275",,S,,,"Sweden Winnipeg, MN"
+Terceira Classe,0,"Andreasson, Mr. Paul Edvin",male,20,Adulto,Não,Não,347466,"7,8542",,S,,,"Sweden Chicago, IL"
+Terceira Classe,0,"Angheloff, Mr. Minko",male,26,Adulto,Não,Não,349202,"7,8958",,S,,,"Bulgaria Chicago, IL"
+Terceira Classe,0,"Arnold-Franchi, Mr. Josef",male,25,Adulto,Sim,Não,349237,"17,8",,S,,,"Altdorf, Switzerland"
+Terceira Classe,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,Adolescente,Sim,Não,349237,"17,8",,S,,,"Altdorf, Switzerland"
+Terceira Classe,0,"Aronsson, Mr. Ernst Axel Algot",male,24,Adulto,Não,Não,349911,"7,775",,S,,,"Sweden Joliet, IL"
+Terceira Classe,0,"Asim, Mr. Adola",male,35,Adulto,Não,Não,SOTON/O.Q. 3101310,"7,05",,S,,,
+Terceira Classe,0,"Asplund, Master. Carl Edgar",male,5,Criança,Sim,Sim,347077,"31,3875",,S,,,"Sweden  Worcester, MA"
+Terceira Classe,0,"Asplund, Master. Clarence Gustaf Hugo",male,9,Criança,Sim,Sim,347077,"31,3875",,S,,,"Sweden Worcester, MA"
+Terceira Classe,1,"Asplund, Master. Edvin Rojj Felix",male,3,Criança,Sim,Sim,347077,"31,3875",,S,15,,"Sweden Worcester, MA"
+Terceira Classe,0,"Asplund, Master. Filip Oscar",male,13,Adolescente,Sim,Sim,347077,"31,3875",,S,,,"Sweden Worcester, MA"
+Terceira Classe,1,"Asplund, Miss. Lillian Gertrud",female,5,Criança,Sim,Sim,347077,"31,3875",,S,15,,"Sweden Worcester, MA"
+Terceira Classe,0,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,Adulto,Sim,Sim,347077,"31,3875",,S,,142,"Sweden  Worcester, MA"
+Terceira Classe,1,"Asplund, Mr. Johan Charles",male,23,Adulto,Não,Não,350054,"7,7958",,S,13,,"Oskarshamn, Sweden Minneapolis, MN"
+Terceira Classe,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,Adulto,Sim,Sim,347077,"31,3875",,S,15,,"Sweden  Worcester, MA"
+Terceira Classe,1,"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45,Adulto,Não,Não,2696,"7,225",,C,C,,"Ottawa, ON"
+Terceira Classe,0,"Assaf, Mr. Gerios",male,21,Adulto,Não,Não,2692,"7,225",,C,,,"Ottawa, ON"
+Terceira Classe,0,"Assam, Mr. Ali",male,23,Adulto,Não,Não,SOTON/O.Q. 3101309,"7,05",,S,,,
+Terceira Classe,0,"Attalah, Miss. Malake",female,17,Adolescente,Não,Não,2627,"14,4583",,C,,,
+Terceira Classe,0,"Attalah, Mr. Sleiman",male,30,Adulto,Não,Não,2694,"7,225",,C,,,"Ottawa, ON"
+Terceira Classe,0,"Augustsson, Mr. Albert",male,23,Adulto,Não,Não,347468,"7,8542",,S,,,"Krakoryd, Sweden Bloomington, IL"
+Terceira Classe,1,"Ayoub, Miss. Banoura",female,13,Adolescente,Não,Não,2687,"7,2292",,C,C,,"Syria Youngstown, OH"
+Terceira Classe,0,"Baccos, Mr. Raffull",male,20,Adulto,Não,Não,2679,"7,225",,C,,,
+Terceira Classe,0,"Backstrom, Mr. Karl Alfred",male,32,Adulto,Sim,Não,3101278,"15,85",,S,D,,"Ruotsinphytaa, Finland New York, NY"
+Terceira Classe,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,Adulto,Sim,Não,3101278,"15,85",,S,,,"Ruotsinphytaa, Finland New York, NY"
+Terceira Classe,1,"Baclini, Miss. Eugenie",female,"0,75",Criança,Sim,Sim,2666,"19,2583",,C,C,,"Syria New York, NY"
+Terceira Classe,1,"Baclini, Miss. Helene Barbara",female,"0,75",Criança,Sim,Sim,2666,"19,2583",,C,C,,"Syria New York, NY"
+Terceira Classe,1,"Baclini, Miss. Marie Catherine",female,5,Criança,Sim,Sim,2666,"19,2583",,C,C,,"Syria New York, NY"
+Terceira Classe,1,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,Adulto,Não,Sim,2666,"19,2583",,C,C,,"Syria New York, NY"
+Terceira Classe,1,"Badman, Miss. Emily Louisa",female,18,Adolescente,Não,Não,A/4 31416,"8,05",,S,C,,"London Skanteales, NY"
+Terceira Classe,0,"Badt, Mr. Mohamed",male,40,Adulto,Não,Não,2623,"7,225",,C,,,
+Terceira Classe,0,"Balkic, Mr. Cerin",male,26,Adulto,Não,Não,349248,"7,8958",,S,,,
+Terceira Classe,1,"Barah, Mr. Hanna Assi",male,20,Adulto,Não,Não,2663,"7,2292",,C,15,,
+Terceira Classe,0,"Barbara, Miss. Saiide",female,18,Adolescente,Não,Sim,2691,"14,4542",,C,,,"Syria Ottawa, ON"
+Terceira Classe,0,"Barbara, Mrs. (Catherine David)",female,45,Adulto,Não,Sim,2691,"14,4542",,C,,,"Syria Ottawa, ON"
+Terceira Classe,0,"Barry, Miss. Julia",female,27,Adulto,Não,Não,330844,"7,8792",,Q,,,"New York, NY"
+Terceira Classe,0,"Barton, Mr. David John",male,22,Adulto,Não,Não,324669,"8,05",,S,,,"England New York, NY"
+Terceira Classe,0,"Beavan, Mr. William Thomas",male,19,Adolescente,Não,Não,323951,"8,05",,S,,,England
+Terceira Classe,0,"Bengtsson, Mr. John Viktor",male,26,Adulto,Não,Não,347068,"7,775",,S,,,"Krakudden, Sweden Moune, IL"
+Terceira Classe,0,"Berglund, Mr. Karl Ivar Sven",male,22,Adulto,Não,Não,PP 4348,"9,35",,S,,,"Tranvik, Finland New York"
+Terceira Classe,0,"Betros, Mr. Tannous",male,20,Adulto,Não,Não,2648,"4,0125",,C,,,Syria
+Terceira Classe,1,"Bing, Mr. Lee",male,32,Adulto,Não,Não,1601,"56,4958",,S,C,,"Hong Kong New York, NY"
+Terceira Classe,0,"Birkeland, Mr. Hans Martin Monsen",male,21,Adulto,Não,Não,312992,"7,775",,S,,,"Brennes, Norway New York"
+Terceira Classe,0,"Bjorklund, Mr. Ernst Herbert",male,18,Adolescente,Não,Não,347090,"7,75",,S,,,"Stockholm, Sweden New York"
+Terceira Classe,0,"Bostandyeff, Mr. Guentcho",male,26,Adulto,Não,Não,349224,"7,8958",,S,,,"Bulgaria Chicago, IL"
+Terceira Classe,0,"Boulos, Master. Akar",male,6,Criança,Sim,Sim,2678,"15,2458",,C,,,"Syria Kent, ON"
+Terceira Classe,0,"Boulos, Miss. Nourelain",female,9,Criança,Sim,Sim,2678,"15,2458",,C,,,"Syria Kent, ON"
+Terceira Classe,0,"Bourke, Mr. John",male,40,Adulto,Sim,Sim,364849,"15,5",,Q,,,"Ireland Chicago, IL"
+Terceira Classe,0,"Bourke, Mrs. John (Catherine)",female,32,Adulto,Sim,Sim,364849,"15,5",,Q,,,"Ireland Chicago, IL"
+Terceira Classe,0,"Bowen, Mr. David John ""Dai""",male,21,Adulto,Não,Não,54636,"16,1",,S,,,"Treherbert, Cardiff, Wales"
+Terceira Classe,1,"Bradley, Miss. Bridget Delia",female,22,Adulto,Não,Não,334914,"7,725",,Q,13,,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY"
+Terceira Classe,0,"Braf, Miss. Elin Ester Maria",female,20,Adulto,Não,Não,347471,"7,8542",,S,,,"Medeltorp, Sweden Chicago, IL"
+Terceira Classe,0,"Braund, Mr. Lewis Richard",male,29,Adulto,Sim,Não,3460,"7,0458",,S,,,"Bridgerule, Devon"
+Terceira Classe,0,"Braund, Mr. Owen Harris",male,22,Adulto,Sim,Não,A/5 21171,"7,25",,S,,,"Bridgerule, Devon"
+Terceira Classe,0,"Brobeck, Mr. Karl Rudolf",male,22,Adulto,Não,Não,350045,"7,7958",,S,,,"Sweden Worcester, MA"
+Terceira Classe,0,"Brocklebank, Mr. William Alfred",male,35,Adulto,Não,Não,364512,"8,05",,S,,,"Broomfield, Chelmsford, England"
+Terceira Classe,0,"Buckley, Miss. Katherine",female,"18,5",Adolescente,Não,Não,329944,"7,2833",,Q,,299,"Co Cork, Ireland Roxbury, MA"
+Terceira Classe,1,"Buckley, Mr. Daniel",male,21,Adulto,Não,Não,330920,"7,8208",,Q,13,,"Kingwilliamstown, Co Cork, Ireland New York, NY"
+Terceira Classe,0,"Burke, Mr. Jeremiah",male,19,Adolescente,Não,Não,365222,"6,75",,Q,,,"Co Cork, Ireland Charlestown, MA"
+Terceira Classe,0,"Burns, Miss. Mary Delia",female,18,Adolescente,Não,Não,330963,"7,8792",,Q,,,"Co Sligo, Ireland New York, NY"
+Terceira Classe,0,"Cacic, Miss. Manda",female,21,Adulto,Não,Não,315087,"8,6625",,S,,,
+Terceira Classe,0,"Cacic, Miss. Marija",female,30,Adulto,Não,Não,315084,"8,6625",,S,,,
+Terceira Classe,0,"Cacic, Mr. Jego Grga",male,18,Adolescente,Não,Não,315091,"8,6625",,S,,,
+Terceira Classe,0,"Cacic, Mr. Luka",male,38,Adulto,Não,Não,315089,"8,6625",,S,,,Croatia
+Terceira Classe,0,"Calic, Mr. Jovo",male,17,Adolescente,Não,Não,315093,"8,6625",,S,,,
+Terceira Classe,0,"Calic, Mr. Petar",male,17,Adolescente,Não,Não,315086,"8,6625",,S,,,
+Terceira Classe,0,"Canavan, Miss. Mary",female,21,Adulto,Não,Não,364846,"7,75",,Q,,,
+Terceira Classe,0,"Canavan, Mr. Patrick",male,21,Adulto,Não,Não,364858,"7,75",,Q,,,"Ireland Philadelphia, PA"
+Terceira Classe,0,"Cann, Mr. Ernest Charles",male,21,Adulto,Não,Não,A./5. 2152,"8,05",,S,,,
+Terceira Classe,0,"Carlsson, Mr. August Sigfrid",male,28,Adulto,Não,Não,350042,"7,7958",,S,,,"Dagsas, Sweden Fower, MN"
+Terceira Classe,0,"Carlsson, Mr. Carl Robert",male,24,Adulto,Não,Não,350409,"7,8542",,S,,,"Goteborg, Sweden Huntley, IL"
+Terceira Classe,1,"Carr, Miss. Helen ""Ellen""",female,16,Adolescente,Não,Não,367231,"7,75",,Q,16,,"Co Longford, Ireland New York, NY"
+Terceira Classe,0,"Carr, Miss. Jeannie",female,37,Adulto,Não,Não,368364,"7,75",,Q,,,"Co Sligo, Ireland Hartford, CT"
+Terceira Classe,0,"Carver, Mr. Alfred John",male,28,Adulto,Não,Não,392095,"7,25",,S,,,"St Denys, Southampton, Hants"
+Terceira Classe,0,"Celotti, Mr. Francesco",male,24,Adulto,Não,Não,343275,"8,05",,S,,,London
+Terceira Classe,0,"Charters, Mr. David",male,21,Adulto,Não,Não,A/5. 13032,"7,7333",,Q,,,"Ireland New York, NY"
+Terceira Classe,1,"Chip, Mr. Chang",male,32,Adulto,Não,Não,1601,"56,4958",,S,C,,"Hong Kong New York, NY"
+Terceira Classe,0,"Christmann, Mr. Emil",male,29,Adulto,Não,Não,343276,"8,05",,S,,,
+Terceira Classe,0,"Chronopoulos, Mr. Apostolos",male,26,Adulto,Sim,Não,2680,"14,4542",,C,,,Greece
+Terceira Classe,0,"Chronopoulos, Mr. Demetrios",male,18,Adolescente,Sim,Não,2680,"14,4542",,C,,,Greece
+Terceira Classe,0,"Coelho, Mr. Domingos Fernandeo",male,20,Adulto,Não,Não,SOTON/O.Q. 3101307,"7,05",,S,,,Portugal
+Terceira Classe,1,"Cohen, Mr. Gurshon ""Gus""",male,18,Adolescente,Não,Não,A/5 3540,"8,05",,S,12,,"London Brooklyn, NY"
+Terceira Classe,0,"Colbert, Mr. Patrick",male,24,Adulto,Não,Não,371109,"7,25",,Q,,,"Co Limerick, Ireland Sherbrooke, PQ"
+Terceira Classe,0,"Coleff, Mr. Peju",male,36,Adulto,Não,Não,349210,"7,4958",,S,,,"Bulgaria Chicago, IL"
+Terceira Classe,0,"Coleff, Mr. Satio",male,24,Adulto,Não,Não,349209,"7,4958",,S,,,
+Terceira Classe,0,"Conlon, Mr. Thomas Henry",male,31,Adulto,Não,Não,21332,"7,7333",,Q,,,"Philadelphia, PA"
+Terceira Classe,0,"Connaghton, Mr. Michael",male,31,Adulto,Não,Não,335097,"7,75",,Q,,,"Ireland Brooklyn, NY"
+Terceira Classe,1,"Connolly, Miss. Kate",female,22,Adulto,Não,Não,370373,"7,75",,Q,13,,Ireland
+Terceira Classe,0,"Connolly, Miss. Kate",female,30,Adulto,Não,Não,330972,"7,6292",,Q,,,Ireland
+Terceira Classe,0,"Connors, Mr. Patrick",male,"70,5",Idoso,Não,Não,370369,"7,75",,Q,,171,
+Terceira Classe,0,"Cook, Mr. Jacob",male,43,Adulto,Não,Não,A/5 3536,"8,05",,S,,,
+Terceira Classe,0,"Cor, Mr. Bartol",male,35,Adulto,Não,Não,349230,"7,8958",,S,,,Austria
+Terceira Classe,0,"Cor, Mr. Ivan",male,27,Adulto,Não,Não,349229,"7,8958",,S,,,Austria
+Terceira Classe,0,"Cor, Mr. Liudevit",male,19,Adolescente,Não,Não,349231,"7,8958",,S,,,Austria
+Terceira Classe,0,"Corn, Mr. Harry",male,30,Adulto,Não,Não,SOTON/OQ 392090,"8,05",,S,,,London
+Terceira Classe,1,"Coutts, Master. Eden Leslie ""Neville""",male,9,Criança,Sim,Sim,C.A. 37671,"15,9",,S,2,,"England Brooklyn, NY"
+Terceira Classe,1,"Coutts, Master. William Loch ""William""",male,3,Criança,Sim,Sim,C.A. 37671,"15,9",,S,2,,"England Brooklyn, NY"
+Terceira Classe,1,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36,Adulto,Não,Sim,C.A. 37671,"15,9",,S,2,,"England Brooklyn, NY"
+Terceira Classe,0,"Coxon, Mr. Daniel",male,59,Adulto,Não,Não,364500,"7,25",,S,,,"Merrill, WI"
+Terceira Classe,0,"Crease, Mr. Ernest James",male,19,Adolescente,Não,Não,S.P. 3464,"8,1583",,S,,,"Bristol, England Cleveland, OH"
+Terceira Classe,1,"Cribb, Miss. Laura Alice",female,17,Adolescente,Não,Sim,371362,"16,1",,S,12,,"Bournemouth, England Newark, NJ"
+Terceira Classe,0,"Cribb, Mr. John Hatfield",male,44,Adulto,Não,Sim,371362,"16,1",,S,,,"Bournemouth, England Newark, NJ"
+Terceira Classe,0,"Culumovic, Mr. Jeso",male,17,Adolescente,Não,Não,315090,"8,6625",,S,,,Austria-Hungary
+Terceira Classe,0,"Daher, Mr. Shedid",male,"22,5",Adulto,Não,Não,2698,"7,225",,C,,9,
+Terceira Classe,1,"Dahl, Mr. Karl Edwart",male,45,Adulto,Não,Não,7598,"8,05",,S,15,,"Australia Fingal, ND"
+Terceira Classe,0,"Dahlberg, Miss. Gerda Ulrika",female,22,Adulto,Não,Não,7552,"10,5167",,S,,,"Norrlot, Sweden Chicago, IL"
+Terceira Classe,0,"Dakic, Mr. Branko",male,19,Adolescente,Não,Não,349228,"10,1708",,S,,,Austria
+Terceira Classe,1,"Daly, Miss. Margaret Marcella ""Maggie""",female,30,Adulto,Não,Não,382650,"6,95",,Q,15,,"Co Athlone, Ireland New York, NY"
+Terceira Classe,1,"Daly, Mr. Eugene Patrick",male,29,Adulto,Não,Não,382651,"7,75",,Q,13 15 B,,"Co Athlone, Ireland New York, NY"
+Terceira Classe,0,"Danbom, Master. Gilbert Sigvard Emanuel",male,"0,3333",Criança,Não,Sim,347080,"14,4",,S,,,"Stanton, IA"
+Terceira Classe,0,"Danbom, Mr. Ernst Gilbert",male,34,Adulto,Sim,Sim,347080,"14,4",,S,,197,"Stanton, IA"
+Terceira Classe,0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,Adulto,Sim,Sim,347080,"14,4",,S,,,"Stanton, IA"
+Terceira Classe,0,"Danoff, Mr. Yoto",male,27,Adulto,Não,Não,349219,"7,8958",,S,,,"Bulgaria Chicago, IL"
+Terceira Classe,0,"Dantcheff, Mr. Ristiu",male,25,Adulto,Não,Não,349203,"7,8958",,S,,,"Bulgaria Chicago, IL"
+Terceira Classe,0,"Davies, Mr. Alfred J",male,24,Adulto,Sim,Não,A/4 48871,"24,15",,S,,,"West Bromwich, England Pontiac, MI"
+Terceira Classe,0,"Davies, Mr. Evan",male,22,Adulto,Não,Não,SC/A4 23568,"8,05",,S,,,
+Terceira Classe,0,"Davies, Mr. John Samuel",male,21,Adulto,Sim,Não,A/4 48871,"24,15",,S,,,"West Bromwich, England Pontiac, MI"
+Terceira Classe,0,"Davies, Mr. Joseph",male,17,Adolescente,Sim,Não,A/4 48873,"8,05",,S,,,"West Bromwich, England Pontiac, MI"
+Terceira Classe,1,"de Messemaeker, Mr. Guillaume Joseph",male,"36,5",Adulto,Sim,Não,345572,"17,4",,S,15,,"Tampico, MT"
+Terceira Classe,1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,Adulto,Sim,Não,345572,"17,4",,S,13,,"Tampico, MT"
+Terceira Classe,1,"de Mulder, Mr. Theodore",male,30,Adulto,Não,Não,345774,"9,5",,S,11,,"Belgium Detroit, MI"
+Terceira Classe,0,"de Pelsmaeker, Mr. Alfons",male,16,Adolescente,Não,Não,345778,"9,5",,S,,,
+Terceira Classe,1,"Dean, Master. Bertram Vere",male,1,Criança,Sim,Sim,C.A. 2315,"20,575",,S,10,,"Devon, England Wichita, KS"
+Terceira Classe,1,"Dean, Miss. Elizabeth Gladys ""Millvina""",female,"0,1667",Criança,Sim,Sim,C.A. 2315,"20,575",,S,10,,"Devon, England Wichita, KS"
+Terceira Classe,0,"Dean, Mr. Bertram Frank",male,26,Adulto,Sim,Sim,C.A. 2315,"20,575",,S,,,"Devon, England Wichita, KS"
+Terceira Classe,1,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,Adulto,Sim,Sim,C.A. 2315,"20,575",,S,10,,"Devon, England Wichita, KS"
+Terceira Classe,0,"Delalic, Mr. Redjo",male,25,Adulto,Não,Não,349250,"7,8958",,S,,,
+Terceira Classe,0,"Dennis, Mr. Samuel",male,22,Adulto,Não,Não,A/5 21172,"7,25",,S,,,
+Terceira Classe,0,"Dennis, Mr. William",male,36,Adulto,Não,Não,A/5 21175,"7,25",,S,,,
+Terceira Classe,1,"Devaney, Miss. Margaret Delia",female,19,Adolescente,Não,Não,330958,"7,8792",,Q,C,,"Kilmacowen, Co Sligo, Ireland New York, NY"
+Terceira Classe,0,"Dika, Mr. Mirko",male,17,Adolescente,Não,Não,349232,"7,8958",,S,,,
+Terceira Classe,0,"Dimic, Mr. Jovan",male,42,Adulto,Não,Não,315088,"8,6625",,S,,,
+Terceira Classe,0,"Dintcheff, Mr. Valtcho",male,43,Adulto,Não,Não,349226,"7,8958",,S,,,
+Terceira Classe,0,"Dooley, Mr. Patrick",male,32,Adulto,Não,Não,370376,"7,75",,Q,,,"Ireland New York, NY"
+Terceira Classe,1,"Dorking, Mr. Edward Arthur",male,19,Adolescente,Não,Não,A/5. 10482,"8,05",,S,B,,"England Oglesby, IL"
+Terceira Classe,1,"Dowdell, Miss. Elizabeth",female,30,Adulto,Não,Não,364516,"12,475",,S,13,,"Union Hill, NJ"
+Terceira Classe,0,"Doyle, Miss. Elizabeth",female,24,Adulto,Não,Não,368702,"7,75",,Q,,,"Ireland New York, NY"
+Terceira Classe,1,"Drapkin, Miss. Jennie",female,23,Adulto,Não,Não,SOTON/OQ 392083,"8,05",,S,,,"London New York, NY"
+Terceira Classe,0,"Drazenoic, Mr. Jozef",male,33,Adulto,Não,Não,349241,"7,8958",,C,,51,"Austria Niagara Falls, NY"
+Terceira Classe,0,"Duane, Mr. Frank",male,65,Idoso,Não,Não,336439,"7,75",,Q,,,
+Terceira Classe,1,"Duquemin, Mr. Joseph",male,24,Adulto,Não,Não,S.O./P.P. 752,"7,55",,S,D,,"England Albion, NY"
+Terceira Classe,0,"Dyker, Mr. Adolf Fredrik",male,23,Adulto,Sim,Não,347072,"13,9",,S,,,"West Haven, CT"
+Terceira Classe,1,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,Adulto,Sim,Não,347072,"13,9",,S,16,,"West Haven, CT"
+Terceira Classe,0,"Edvardsson, Mr. Gustaf Hjalmar",male,18,Adolescente,Não,Não,349912,"7,775",,S,,,"Tofta, Sweden Joliet, IL"
+Terceira Classe,0,"Eklund, Mr. Hans Linus",male,16,Adolescente,Não,Não,347074,"7,775",,S,,,"Karberg, Sweden Jerome Junction, AZ"
+Terceira Classe,0,"Ekstrom, Mr. Johan",male,45,Adulto,Não,Não,347061,"6,975",,S,,,"Effington Rut, SD"
+Terceira Classe,0,"Elias, Mr. Joseph",male,39,Adulto,Não,Sim,2675,"7,2292",,C,,,"Syria Ottawa, ON"
+Terceira Classe,0,"Elias, Mr. Joseph Jr",male,17,Adolescente,Sim,Sim,2690,"7,2292",,C,,,
+Terceira Classe,0,"Elias, Mr. Tannous",male,15,Adolescente,Sim,Sim,2695,"7,2292",,C,,,Syria
+Terceira Classe,0,"Elsbury, Mr. William James",male,47,Adulto,Não,Não,A/5 3902,"7,25",,S,,,"Illinois, USA"
+Terceira Classe,1,"Emanuel, Miss. Virginia Ethel",female,5,Criança,Não,Não,364516,"12,475",,S,13,,"New York, NY"
+Terceira Classe,0,"Everett, Mr. Thomas James",male,"40,5",Adulto,Não,Não,C.A. 6212,"15,1",,S,,187,
+Terceira Classe,0,"Farrell, Mr. James",male,"40,5",Adulto,Não,Não,367232,"7,75",,Q,,68,"Aughnacliff, Co Longford, Ireland New York, NY"
+Terceira Classe,0,"Fischer, Mr. Eberhard Thelander",male,18,Adolescente,Não,Não,350036,"7,7958",,S,,,
+Terceira Classe,0,"Foley, Mr. Joseph",male,26,Adulto,Não,Não,330910,"7,8792",,Q,,,"Ireland Chicago, IL"
+Terceira Classe,0,"Ford, Miss. Doolina Margaret ""Daisy""",female,21,Adulto,Sim,Sim,W./C. 6608,"34,375",,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+Terceira Classe,0,"Ford, Miss. Robina Maggie ""Ruby""",female,9,Criança,Sim,Sim,W./C. 6608,"34,375",,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+Terceira Classe,0,"Ford, Mr. Edward Watson",male,18,Adolescente,Sim,Sim,W./C. 6608,"34,375",,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+Terceira Classe,0,"Ford, Mr. William Neal",male,16,Adolescente,Sim,Sim,W./C. 6608,"34,375",,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+Terceira Classe,0,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,Adulto,Sim,Sim,W./C. 6608,"34,375",,S,,,"Rotherfield, Sussex, England Essex Co, MA"
+Terceira Classe,0,"Gallagher, Mr. Martin",male,25,Adulto,Não,Não,36864,"7,7417",,Q,,,"New York, NY"
+Terceira Classe,0,"Gilinski, Mr. Eliezer",male,22,Adulto,Não,Não,14973,"8,05",,S,,47,
+Terceira Classe,1,"Gilnagh, Miss. Katherine ""Katie""",female,16,Adolescente,Não,Não,35851,"7,7333",,Q,16,,"Co Longford, Ireland New York, NY"
+Terceira Classe,1,"Goldsmith, Master. Frank John William ""Frankie""",male,9,Criança,Não,Sim,363291,"20,525",,S,C D,,"Strood, Kent, England Detroit, MI"
+Terceira Classe,0,"Goldsmith, Mr. Frank John",male,33,Adulto,Sim,Sim,363291,"20,525",,S,,,"Strood, Kent, England Detroit, MI"
+Terceira Classe,0,"Goldsmith, Mr. Nathan",male,41,Adulto,Não,Não,SOTON/O.Q. 3101263,"7,85",,S,,,"Philadelphia, PA"
+Terceira Classe,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,Adulto,Sim,Sim,363291,"20,525",,S,C D,,"Strood, Kent, England Detroit, MI"
+Terceira Classe,0,"Goncalves, Mr. Manuel Estanslas",male,38,Adulto,Não,Não,SOTON/O.Q. 3101306,"7,05",,S,,,Portugal
+Terceira Classe,0,"Goodwin, Master. Harold Victor",male,9,Criança,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Master. Sidney Leonard",male,1,Criança,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Master. William Frederick",male,11,Criança,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Miss. Jessie Allis",female,10,Criança,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Miss. Lillian Amy",female,16,Adolescente,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Mr. Charles Edward",male,14,Adolescente,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Mr. Charles Frederick",male,40,Adulto,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,Adulto,Sim,Sim,CA 2144,"46,9",,S,,,"Wiltshire, England Niagara Falls, NY"
+Terceira Classe,0,"Green, Mr. George Henry",male,51,Adulto,Não,Não,21440,"8,05",,S,,,"Dorking, Surrey, England"
+Terceira Classe,0,"Gronnestad, Mr. Daniel Danielsen",male,32,Adulto,Não,Não,8471,"8,3625",,S,,,"Foresvik, Norway Portland, ND"
+Terceira Classe,0,"Gustafsson, Mr. Alfred Ossian",male,20,Adulto,Não,Não,7534,"9,8458",,S,,,"Waukegan, Chicago, IL"
+Terceira Classe,0,"Gustafsson, Mr. Anders Vilhelm",male,37,Adulto,Sim,Não,3101276,"7,925",,S,,98,"Ruotsinphytaa, Finland New York, NY"
+Terceira Classe,0,"Gustafsson, Mr. Johan Birger",male,28,Adulto,Sim,Não,3101277,"7,925",,S,,,"Ruotsinphytaa, Finland New York, NY"
+Terceira Classe,0,"Gustafsson, Mr. Karl Gideon",male,19,Adolescente,Não,Não,347069,"7,775",,S,,,"Myren, Sweden New York, NY"
+Terceira Classe,0,"Haas, Miss. Aloisia",female,24,Adulto,Não,Não,349236,"8,85",,S,,,
+Terceira Classe,0,"Hagardon, Miss. Kate",female,17,Adolescente,Não,Não,AQ/3. 30631,"7,7333",,Q,,,
+Terceira Classe,0,"Hakkarainen, Mr. Pekka Pietari",male,28,Adulto,Sim,Não,STON/O2. 3101279,"15,85",,S,,,
+Terceira Classe,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,Adulto,Sim,Não,STON/O2. 3101279,"15,85",,S,15,,
+Terceira Classe,0,"Hampe, Mr. Leon",male,20,Adulto,Não,Não,345769,"9,5",,S,,,
+Terceira Classe,0,"Hanna, Mr. Mansour",male,"23,5",Adulto,Não,Não,2693,"7,2292",,C,,188,
+Terceira Classe,0,"Hansen, Mr. Claus Peter",male,41,Adulto,Sim,Não,350026,"14,1083",,S,,,
+Terceira Classe,0,"Hansen, Mr. Henrik Juul",male,26,Adulto,Sim,Não,350025,"7,8542",,S,,,
+Terceira Classe,0,"Hansen, Mr. Henry Damsgaard",male,21,Adulto,Não,Não,350029,"7,8542",,S,,69,
+Terceira Classe,1,"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,Adulto,Sim,Não,350026,"14,1083",,S,11,,
+Terceira Classe,0,"Harmer, Mr. Abraham (David Lishin)",male,25,Adulto,Não,Não,374887,"7,25",,S,B,,
+Terceira Classe,0,"Hassan, Mr. Houssein G N",male,11,Criança,Não,Não,2699,"18,7875",,C,,,
+Terceira Classe,1,"Hedman, Mr. Oskar Arvid",male,27,Adulto,Não,Não,347089,"6,975",,S,15,,
+Terceira Classe,0,"Hegarty, Miss. Hanora ""Nora""",female,18,Adolescente,Não,Não,365226,"6,75",,Q,,,
+Terceira Classe,1,"Heikkinen, Miss. Laina",female,26,Adulto,Não,Não,STON/O2. 3101282,"7,925",,S,,,
+Terceira Classe,0,"Heininen, Miss. Wendla Maria",female,23,Adulto,Não,Não,STON/O2. 3101290,"7,925",,S,,,
+Terceira Classe,1,"Hellstrom, Miss. Hilda Maria",female,22,Adulto,Não,Não,7548,"8,9625",,S,C,,
+Terceira Classe,0,"Hendekovic, Mr. Ignjac",male,28,Adulto,Não,Não,349243,"7,8958",,S,,306,
+Terceira Classe,0,"Henriksson, Miss. Jenny Lovisa",female,28,Adulto,Não,Não,347086,"7,775",,S,,,
+Terceira Classe,1,"Hirvonen, Miss. Hildur E",female,2,Criança,Não,Sim,3101298,"12,2875",,S,15,,
+Terceira Classe,1,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,Adulto,Sim,Sim,3101298,"12,2875",,S,15,,
+Terceira Classe,0,"Holm, Mr. John Fredrik Alexander",male,43,Adulto,Não,Não,C 7075,"6,45",,S,,,
+Terceira Classe,0,"Holthen, Mr. Johan Martin",male,28,Adulto,Não,Não,C 4001,"22,525",,S,,,
+Terceira Classe,1,"Honkanen, Miss. Eliina",female,27,Adulto,Não,Não,STON/O2. 3101283,"7,925",,S,,,
+Terceira Classe,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,Adulto,Não,Não,348121,"7,65",F G63,S,,120,
+Terceira Classe,0,"Ibrahim Shawah, Mr. Yousseff",male,30,Adulto,Não,Não,2685,"7,2292",,C,,,
+Terceira Classe,0,"Ilmakangas, Miss. Ida Livija",female,27,Adulto,Sim,Não,STON/O2. 3101270,"7,925",,S,,,
+Terceira Classe,0,"Ilmakangas, Miss. Pieta Sofia",female,25,Adulto,Sim,Não,STON/O2. 3101271,"7,925",,S,,,
+Terceira Classe,1,"Jalsevac, Mr. Ivan",male,29,Adulto,Não,Não,349240,"7,8958",,C,15,,
+Terceira Classe,1,"Jansson, Mr. Carl Olof",male,21,Adulto,Não,Não,350034,"7,7958",,S,A,,
+Terceira Classe,0,"Jensen, Mr. Hans Peder",male,20,Adulto,Não,Não,350050,"7,8542",,S,,,
+Terceira Classe,0,"Jensen, Mr. Niels Peder",male,48,Adulto,Não,Não,350047,"7,8542",,S,,,
+Terceira Classe,0,"Jensen, Mr. Svend Lauritz",male,17,Adolescente,Sim,Não,350048,"7,0542",,S,,,
+Terceira Classe,0,"Johanson, Mr. Jakob Alfred",male,34,Adulto,Não,Não,3101264,"6,4958",,S,,143,
+Terceira Classe,1,"Johansson Palmquist, Mr. Oskar Leander",male,26,Adulto,Não,Não,347070,"7,775",,S,15,,
+Terceira Classe,0,"Johansson, Mr. Erik",male,22,Adulto,Não,Não,350052,"7,7958",,S,,156,
+Terceira Classe,0,"Johansson, Mr. Gustaf Joel",male,33,Adulto,Não,Não,7540,"8,6542",,S,,285,
+Terceira Classe,0,"Johansson, Mr. Karl Johan",male,31,Adulto,Não,Não,347063,"7,775",,S,,,
+Terceira Classe,0,"Johansson, Mr. Nils",male,29,Adulto,Não,Não,347467,"7,8542",,S,,,
+Terceira Classe,1,"Johnson, Master. Harold Theodor",male,4,Criança,Sim,Sim,347742,"11,1333",,S,15,,
+Terceira Classe,1,"Johnson, Miss. Eleanor Ileen",female,1,Criança,Sim,Sim,347742,"11,1333",,S,15,,
+Terceira Classe,0,"Johnson, Mr. Alfred",male,49,Adulto,Não,Não,LINE,0,,S,,,
+Terceira Classe,0,"Johnson, Mr. Malkolm Joackim",male,33,Adulto,Não,Não,347062,"7,775",,S,,37,
+Terceira Classe,0,"Johnson, Mr. William Cahoone Jr",male,19,Adolescente,Não,Não,LINE,0,,S,,,
+Terceira Classe,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,Adulto,Não,Sim,347742,"11,1333",,S,15,,
+Terceira Classe,0,"Jonkoff, Mr. Lalio",male,23,Adulto,Não,Não,349204,"7,8958",,S,,,
+Terceira Classe,1,"Jonsson, Mr. Carl",male,32,Adulto,Não,Não,350417,"7,8542",,S,15,,
+Terceira Classe,0,"Jonsson, Mr. Nils Hilding",male,27,Adulto,Não,Não,350408,"7,8542",,S,,,
+Terceira Classe,0,"Jussila, Miss. Katriina",female,20,Adulto,Sim,Não,4136,"9,825",,S,,,
+Terceira Classe,0,"Jussila, Miss. Mari Aina",female,21,Adulto,Sim,Não,4137,"9,825",,S,,,
+Terceira Classe,1,"Jussila, Mr. Eiriik",male,32,Adulto,Não,Não,STON/O 2. 3101286,"7,925",,S,15,,
+Terceira Classe,0,"Kallio, Mr. Nikolai Erland",male,17,Adolescente,Não,Não,STON/O 2. 3101274,"7,125",,S,,,
+Terceira Classe,0,"Kalvik, Mr. Johannes Halvorsen",male,21,Adulto,Não,Não,8475,"8,4333",,S,,,
+Terceira Classe,0,"Karaic, Mr. Milan",male,30,Adulto,Não,Não,349246,"7,8958",,S,,,
+Terceira Classe,1,"Karlsson, Mr. Einar Gervasius",male,21,Adulto,Não,Não,350053,"7,7958",,S,13,,
+Terceira Classe,0,"Karlsson, Mr. Julius Konrad Eugen",male,33,Adulto,Não,Não,347465,"7,8542",,S,,,
+Terceira Classe,0,"Karlsson, Mr. Nils August",male,22,Adulto,Não,Não,350060,"7,5208",,S,,,
+Terceira Classe,1,"Karun, Miss. Manca",female,4,Criança,Não,Sim,349256,"13,4167",,C,15,,
+Terceira Classe,1,"Karun, Mr. Franz",male,39,Adulto,Não,Sim,349256,"13,4167",,C,15,,
+Terceira Classe,0,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,"18,5",Adolescente,Não,Não,2682,"7,2292",,C,,58,
+Terceira Classe,0,"Kelly, Mr. James",male,"34,5",Adulto,Não,Não,330911,"7,8292",,Q,,70,
+Terceira Classe,0,"Kelly, Mr. James",male,44,Adulto,Não,Não,363592,"8,05",,S,,,
+Terceira Classe,0,"Kink, Miss. Maria",female,22,Adulto,Sim,Não,315152,"8,6625",,S,,,
+Terceira Classe,0,"Kink, Mr. Vincenz",male,26,Adulto,Sim,Não,315151,"8,6625",,S,,,
+Terceira Classe,1,"Kink-Heilmann, Miss. Luise Gretchen",female,4,Criança,Não,Sim,315153,"22,025",,S,2,,
+Terceira Classe,1,"Kink-Heilmann, Mr. Anton",male,29,Adulto,Sim,Sim,315153,"22,025",,S,2,,
+Terceira Classe,1,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,Adulto,Sim,Sim,315153,"22,025",,S,2,,
+Terceira Classe,0,"Klasen, Miss. Gertrud Emilia",female,1,Criança,Sim,Sim,350405,"12,1833",,S,,,
+Terceira Classe,0,"Klasen, Mr. Klas Albin",male,18,Adolescente,Sim,Sim,350404,"7,8542",,S,,,
+Terceira Classe,0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,Adulto,Não,Sim,350405,"12,1833",,S,,,
+Terceira Classe,1,"Krekorian, Mr. Neshan",male,25,Adulto,Não,Não,2654,"7,2292",F E57,C,10,,
+Terceira Classe,0,"Laitinen, Miss. Kristina Sofia",female,37,Adulto,Não,Não,4135,"9,5875",,S,,,
+Terceira Classe,1,"Landergren, Miss. Aurora Adelia",female,22,Adulto,Não,Não,C 7077,"7,25",,S,13,,
+Terceira Classe,1,"Lang, Mr. Fang",male,26,Adulto,Não,Não,1601,"56,4958",,S,14,,
+Terceira Classe,0,"Larsson, Mr. August Viktor",male,29,Adulto,Não,Não,7545,"9,4833",,S,,,
+Terceira Classe,0,"Larsson, Mr. Bengt Edvin",male,29,Adulto,Não,Não,347067,"7,775",,S,,,
+Terceira Classe,0,"Larsson-Rondberg, Mr. Edvard A",male,22,Adulto,Não,Não,347065,"7,775",,S,,,
+Terceira Classe,1,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,Adulto,Não,Não,2620,"7,225",,C,6,,
+Terceira Classe,0,"Leinonen, Mr. Antti Gustaf",male,32,Adulto,Não,Não,STON/O 2. 3101292,"7,925",,S,,,
+Terceira Classe,0,"Lemberopolous, Mr. Peter L",male,"34,5",Adulto,Não,Não,2683,"6,4375",,C,,196,
+Terceira Classe,0,"Leonard, Mr. Lionel",male,36,Adulto,Não,Não,LINE,0,,S,,,
+Terceira Classe,0,"Lester, Mr. James",male,39,Adulto,Não,Não,A/4 48871,"24,15",,S,,,
+Terceira Classe,0,"Lievens, Mr. Rene Aime",male,24,Adulto,Não,Não,345781,"9,5",,S,,,
+Terceira Classe,0,"Lindahl, Miss. Agda Thorilda Viktoria",female,25,Adulto,Não,Não,347071,"7,775",,S,,,
+Terceira Classe,0,"Lindblom, Miss. Augusta Charlotta",female,45,Adulto,Não,Não,347073,"7,75",,S,,,
+Terceira Classe,0,"Lindell, Mr. Edvard Bengtsson",male,36,Adulto,Sim,Não,349910,"15,55",,S,A,,
+Terceira Classe,0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,Adulto,Sim,Não,349910,"15,55",,S,A,,
+Terceira Classe,1,"Lindqvist, Mr. Eino William",male,20,Adulto,Sim,Não,STON/O 2. 3101285,"7,925",,S,15,,
+Terceira Classe,0,"Ling, Mr. Lee",male,28,Adulto,Não,Não,1601,"56,4958",,S,,,
+Terceira Classe,0,"Lobb, Mr. William Arthur",male,30,Adulto,Sim,Não,A/5. 3336,"16,1",,S,,,
+Terceira Classe,0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,Adulto,Sim,Não,A/5. 3336,"16,1",,S,,,
+Terceira Classe,0,"Lovell, Mr. John Hall (""Henry"")",male,"20,5",Adulto,Não,Não,A/5 21173,"7,25",,S,,,
+Terceira Classe,1,"Lulic, Mr. Nikola",male,27,Adulto,Não,Não,315098,"8,6625",,S,15,,
+Terceira Classe,0,"Lundahl, Mr. Johan Svensson",male,51,Adulto,Não,Não,347743,"7,0542",,S,,,
+Terceira Classe,1,"Lundin, Miss. Olga Elida",female,23,Adulto,Não,Não,347469,"7,8542",,S,10,,
+Terceira Classe,1,"Lundstrom, Mr. Thure Edvin",male,32,Adulto,Não,Não,350403,"7,5792",,S,15,,
+Terceira Classe,1,"Madsen, Mr. Fridtjof Arne",male,24,Adulto,Não,Não,C 17369,"7,1417",,S,13,,
+Terceira Classe,0,"Maenpaa, Mr. Matti Alexanteri",male,22,Adulto,Não,Não,STON/O 2. 3101275,"7,125",,S,,,
+Terceira Classe,0,"Makinen, Mr. Kalle Edvard",male,29,Adulto,Não,Não,STON/O 2. 3101268,"7,925",,S,,,
+Terceira Classe,0,"Mangan, Miss. Mary",female,"30,5",Adulto,Não,Não,364850,"7,75",,Q,,61,
+Terceira Classe,0,"Markoff, Mr. Marin",male,35,Adulto,Não,Não,349213,"7,8958",,C,,,
+Terceira Classe,0,"Markun, Mr. Johann",male,33,Adulto,Não,Não,349257,"7,8958",,S,,,
+Terceira Classe,1,"McGowan, Miss. Anna ""Annie""",female,15,Adolescente,Não,Não,330923,"8,0292",,Q,,,
+Terceira Classe,0,"McGowan, Miss. Katherine",female,35,Adulto,Não,Não,9232,"7,75",,Q,,,
+Terceira Classe,0,"McNamee, Mr. Neal",male,24,Adulto,Sim,Não,376566,"16,1",,S,,,
+Terceira Classe,0,"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,Adolescente,Sim,Não,376566,"16,1",,S,,53,
+Terceira Classe,0,"Meo, Mr. Alfonzo",male,"55,5",Adulto,Não,Não,A.5. 11206,"8,05",,S,,201,
+Terceira Classe,1,"Midtsjo, Mr. Karl Albert",male,21,Adulto,Não,Não,345501,"7,775",,S,15,,
+Terceira Classe,0,"Mineff, Mr. Ivan",male,24,Adulto,Não,Não,349233,"7,8958",,S,,,
+Terceira Classe,0,"Minkoff, Mr. Lazar",male,21,Adulto,Não,Não,349211,"7,8958",,S,,,
+Terceira Classe,0,"Mionoff, Mr. Stoytcho",male,28,Adulto,Não,Não,349207,"7,8958",,S,,,
+Terceira Classe,0,"Moen, Mr. Sigurd Hansen",male,25,Adulto,Não,Não,348123,"7,65",F G73,S,,309,
+Terceira Classe,1,"Moor, Master. Meier",male,6,Criança,Não,Sim,392096,"12,475",E121,S,14,,
+Terceira Classe,1,"Moor, Mrs. (Beila)",female,27,Adulto,Não,Sim,392096,"12,475",E121,S,14,,
+Terceira Classe,0,"Morley, Mr. William",male,34,Adulto,Não,Não,364506,"8,05",,S,,,
+Terceira Classe,1,"Mulvihill, Miss. Bertha E",female,24,Adulto,Não,Não,382653,"7,75",,Q,15,,
+Terceira Classe,0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,Adolescente,Não,Não,347078,"7,75",,S,,,
+Terceira Classe,0,"Naidenoff, Mr. Penko",male,22,Adulto,Não,Não,349206,"7,8958",,S,,,
+Terceira Classe,1,"Najib, Miss. Adele Kiamie ""Jane""",female,15,Adolescente,Não,Não,2667,"7,225",,C,C,,
+Terceira Classe,1,"Nakid, Miss. Maria (""Mary"")",female,1,Criança,Não,Sim,2653,"15,7417",,C,C,,
+Terceira Classe,1,"Nakid, Mr. Sahid",male,20,Adulto,Sim,Sim,2653,"15,7417",,C,C,,
+Terceira Classe,1,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19,Adolescente,Sim,Sim,2653,"15,7417",,C,C,,
+Terceira Classe,0,"Nancarrow, Mr. William Henry",male,33,Adulto,Não,Não,A./5. 3338,"8,05",,S,,,
+Terceira Classe,1,"Nicola-Yarred, Master. Elias",male,12,Criança,Sim,Não,2651,"11,2417",,C,C,,
+Terceira Classe,1,"Nicola-Yarred, Miss. Jamila",female,14,Adolescente,Sim,Não,2651,"11,2417",,C,C,,
+Terceira Classe,0,"Nieminen, Miss. Manta Josefina",female,29,Adulto,Não,Não,3101297,"7,925",,S,,,
+Terceira Classe,0,"Niklasson, Mr. Samuel",male,28,Adulto,Não,Não,363611,"8,05",,S,,,
+Terceira Classe,1,"Nilsson, Miss. Berta Olivia",female,18,Adolescente,Não,Não,347066,"7,775",,S,D,,
+Terceira Classe,1,"Nilsson, Miss. Helmina Josefina",female,26,Adulto,Não,Não,347470,"7,8542",,S,13,,
+Terceira Classe,0,"Nilsson, Mr. August Ferdinand",male,21,Adulto,Não,Não,350410,"7,8542",,S,,,
+Terceira Classe,0,"Nirva, Mr. Iisakki Antino Aijo",male,41,Adulto,Não,Não,SOTON/O2 3101272,"7,125",,S,,,"Finland Sudbury, ON"
+Terceira Classe,1,"Niskanen, Mr. Juha",male,39,Adulto,Não,Não,STON/O 2. 3101289,"7,925",,S,9,,
+Terceira Classe,0,"Nosworthy, Mr. Richard Cater",male,21,Adulto,Não,Não,A/4. 39886,"7,8",,S,,,
+Terceira Classe,0,"Novel, Mr. Mansouer",male,"28,5",Adulto,Não,Não,2697,"7,2292",,C,,181,
+Terceira Classe,1,"Nysten, Miss. Anna Sofia",female,22,Adulto,Não,Não,347081,"7,75",,S,13,,
+Terceira Classe,0,"Nysveen, Mr. Johan Hansen",male,61,Adulto,Não,Não,345364,"6,2375",,S,,,
+Terceira Classe,0,"Odahl, Mr. Nils Martin",male,23,Adulto,Não,Não,7267,"9,225",,S,,,
+Terceira Classe,1,"Ohman, Miss. Velin",female,22,Adulto,Não,Não,347085,"7,775",,S,C,,
+Terceira Classe,1,"Olsen, Master. Artur Karl",male,9,Criança,Não,Sim,C 17368,"3,1708",,S,13,,
+Terceira Classe,0,"Olsen, Mr. Henry Margido",male,28,Adulto,Não,Não,C 4001,"22,525",,S,,173,
+Terceira Classe,0,"Olsen, Mr. Karl Siegwart Andreas",male,42,Adulto,Não,Sim,4579,"8,4042",,S,,,
+Terceira Classe,0,"Olsson, Miss. Elina",female,31,Adulto,Não,Não,350407,"7,8542",,S,,,
+Terceira Classe,0,"Olsson, Mr. Nils Johan Goransson",male,28,Adulto,Não,Não,347464,"7,8542",,S,,,
+Terceira Classe,1,"Olsson, Mr. Oscar Wilhelm",male,32,Adulto,Não,Não,347079,"7,775",,S,A,,
+Terceira Classe,0,"Olsvigen, Mr. Thor Anderson",male,20,Adulto,Não,Não,6563,"9,225",,S,,89,"Oslo, Norway Cameron, WI"
+Terceira Classe,0,"Oreskovic, Miss. Jelka",female,23,Adulto,Não,Não,315085,"8,6625",,S,,,
+Terceira Classe,0,"Oreskovic, Miss. Marija",female,20,Adulto,Não,Não,315096,"8,6625",,S,,,
+Terceira Classe,0,"Oreskovic, Mr. Luka",male,20,Adulto,Não,Não,315094,"8,6625",,S,,,
+Terceira Classe,0,"Osen, Mr. Olaf Elon",male,16,Adolescente,Não,Não,7534,"9,2167",,S,,,
+Terceira Classe,1,"Osman, Mrs. Mara",female,31,Adulto,Não,Não,349244,"8,6833",,S,,,
+Terceira Classe,0,"Palsson, Master. Gosta Leonard",male,2,Criança,Sim,Sim,349909,"21,075",,S,,4,
+Terceira Classe,0,"Palsson, Master. Paul Folke",male,6,Criança,Sim,Sim,349909,"21,075",,S,,,
+Terceira Classe,0,"Palsson, Miss. Stina Viola",female,3,Criança,Sim,Sim,349909,"21,075",,S,,,
+Terceira Classe,0,"Palsson, Miss. Torborg Danira",female,8,Criança,Sim,Sim,349909,"21,075",,S,,,
+Terceira Classe,0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,Adulto,Não,Sim,349909,"21,075",,S,,206,
+Terceira Classe,0,"Panula, Master. Eino Viljami",male,1,Criança,Sim,Sim,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Panula, Master. Juha Niilo",male,7,Criança,Sim,Sim,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Panula, Master. Urho Abraham",male,2,Criança,Sim,Sim,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Panula, Mr. Ernesti Arvid",male,16,Adolescente,Sim,Sim,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Panula, Mr. Jaako Arnold",male,14,Adolescente,Sim,Sim,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,Adulto,Não,Sim,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Pasic, Mr. Jakob",male,21,Adulto,Não,Não,315097,"8,6625",,S,,,
+Terceira Classe,0,"Patchett, Mr. George",male,19,Adolescente,Não,Não,358585,"14,5",,S,,,
+Terceira Classe,0,"Pavlovic, Mr. Stefo",male,32,Adulto,Não,Não,349242,"7,8958",,S,,,
+Terceira Classe,0,"Peacock, Master. Alfred Edward",male,"0,75",Criança,Sim,Sim,SOTON/O.Q. 3101315,"13,775",,S,,,
+Terceira Classe,0,"Peacock, Miss. Treasteall",female,3,Criança,Sim,Sim,SOTON/O.Q. 3101315,"13,775",,S,,,
+Terceira Classe,0,"Peacock, Mrs. Benjamin (Edith Nile)",female,26,Adulto,Não,Sim,SOTON/O.Q. 3101315,"13,775",,S,,,
+Terceira Classe,0,"Pekoniemi, Mr. Edvard",male,21,Adulto,Não,Não,STON/O 2. 3101294,"7,925",,S,,,
+Terceira Classe,0,"Peltomaki, Mr. Nikolai Johannes",male,25,Adulto,Não,Não,STON/O 2. 3101291,"7,925",,S,,,
+Terceira Classe,0,"Perkin, Mr. John Henry",male,22,Adulto,Não,Não,A/5 21174,"7,25",,S,,,
+Terceira Classe,1,"Persson, Mr. Ernst Ulrik",male,25,Adulto,Sim,Não,347083,"7,775",,S,15,,
+Terceira Classe,0,"Petersen, Mr. Marius",male,24,Adulto,Não,Não,342441,"8,05",,S,,,
+Terceira Classe,0,"Petranec, Miss. Matilda",female,28,Adulto,Não,Não,349245,"7,8958",,S,,,
+Terceira Classe,0,"Petroff, Mr. Nedelio",male,19,Adolescente,Não,Não,349212,"7,8958",,S,,,
+Terceira Classe,0,"Petterson, Mr. Johan Emil",male,25,Adulto,Sim,Não,347076,"7,775",,S,,,
+Terceira Classe,0,"Pettersson, Miss. Ellen Natalia",female,18,Adolescente,Não,Não,347087,"7,775",,S,,,
+Terceira Classe,1,"Pickard, Mr. Berk (Berk Trembisky)",male,32,Adulto,Não,Não,SOTON/O.Q. 392078,"8,05",E10,S,9,,
+Terceira Classe,0,"Pokrnic, Mr. Mate",male,17,Adolescente,Não,Não,315095,"8,6625",,S,,,
+Terceira Classe,0,"Pokrnic, Mr. Tome",male,24,Adulto,Não,Não,315092,"8,6625",,S,,,
+Terceira Classe,0,"Rekic, Mr. Tido",male,38,Adulto,Não,Não,349249,"7,8958",,S,,,
+Terceira Classe,0,"Reynolds, Mr. Harold J",male,21,Adulto,Não,Não,342684,"8,05",,S,,,
+Terceira Classe,0,"Rice, Master. Albert",male,10,Criança,Sim,Sim,382652,"29,125",,Q,,,
+Terceira Classe,0,"Rice, Master. Arthur",male,4,Criança,Sim,Sim,382652,"29,125",,Q,,,
+Terceira Classe,0,"Rice, Master. Eric",male,7,Criança,Sim,Sim,382652,"29,125",,Q,,,
+Terceira Classe,0,"Rice, Master. Eugene",male,2,Criança,Sim,Sim,382652,"29,125",,Q,,,
+Terceira Classe,0,"Rice, Master. George Hugh",male,8,Criança,Sim,Sim,382652,"29,125",,Q,,,
+Terceira Classe,0,"Rice, Mrs. William (Margaret Norton)",female,39,Adulto,Não,Sim,382652,"29,125",,Q,,327,
+Terceira Classe,0,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22,Adulto,Não,Não,3101295,"39,6875",,S,,,
+Terceira Classe,0,"Rintamaki, Mr. Matti",male,35,Adulto,Não,Não,STON/O 2. 3101273,"7,125",,S,,,
+Terceira Classe,0,"Robins, Mr. Alexander A",male,50,Adulto,Sim,Não,A/5. 3337,"14,5",,S,,119,
+Terceira Classe,0,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,Adulto,Sim,Não,A/5. 3337,"14,5",,S,,7,
+Terceira Classe,0,"Rosblom, Miss. Salli Helena",female,2,Criança,Sim,Sim,370129,"20,2125",,S,,,
+Terceira Classe,0,"Rosblom, Mr. Viktor Richard",male,18,Adolescente,Sim,Sim,370129,"20,2125",,S,,,
+Terceira Classe,0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,Adulto,Não,Sim,370129,"20,2125",,S,,,
+Terceira Classe,0,"Rouse, Mr. Richard Henry",male,50,Adulto,Não,Não,A/5 3594,"8,05",,S,,,
+Terceira Classe,0,"Rush, Mr. Alfred George John",male,16,Adolescente,Não,Não,A/4. 20589,"8,05",,S,,,
+Terceira Classe,0,"Saad, Mr. Khalil",male,25,Adulto,Não,Não,2672,"7,225",,C,,,
+Terceira Classe,0,"Saether, Mr. Simon Sivertsen",male,"38,5",Adulto,Não,Não,SOTON/O.Q. 3101262,"7,25",,S,,32,
+Terceira Classe,0,"Sage, Master. William Henry",male,"14,5",Adolescente,Sim,Sim,CA. 2343,"69,55",,S,,67,
+Terceira Classe,0,"Salander, Mr. Karl Johan",male,24,Adulto,Não,Não,7266,"9,325",,S,,,
+Terceira Classe,1,"Salkjelsvik, Miss. Anna Kristine",female,21,Adulto,Não,Não,343120,"7,65",,S,C,,
+Terceira Classe,0,"Salonen, Mr. Johan Werner",male,39,Adulto,Não,Não,3101296,"7,925",,S,,,
+Terceira Classe,1,"Sandstrom, Miss. Beatrice Irene",female,1,Criança,Sim,Sim,PP 9549,"16,7",G6,S,13,,
+Terceira Classe,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,Adulto,Não,Sim,PP 9549,"16,7",G6,S,13,,
+Terceira Classe,1,"Sandstrom, Miss. Marguerite Rut",female,4,Criança,Sim,Sim,PP 9549,"16,7",G6,S,13,,
+Terceira Classe,1,"Sap, Mr. Julius",male,25,Adulto,Não,Não,345768,"9,5",,S,11,,
+Terceira Classe,0,"Saundercock, Mr. William Henry",male,20,Adulto,Não,Não,A/5. 2151,"8,05",,S,,,
+Terceira Classe,0,"Sawyer, Mr. Frederick Charles",male,"24,5",Adulto,Não,Não,342826,"8,05",,S,,284,
+Terceira Classe,1,"Sheerlinck, Mr. Jan Baptist",male,29,Adulto,Não,Não,345779,"9,5",,S,11,,
+Terceira Classe,0,"Sirayanian, Mr. Orsen",male,22,Adulto,Não,Não,2669,"7,2292",,C,,,
+Terceira Classe,0,"Sivic, Mr. Husein",male,40,Adulto,Não,Não,349251,"7,8958",,S,,,
+Terceira Classe,0,"Sivola, Mr. Antti Wilhelm",male,21,Adulto,Não,Não,STON/O 2. 3101280,"7,925",,S,,,
+Terceira Classe,1,"Sjoblom, Miss. Anna Sofia",female,18,Adolescente,Não,Não,3101265,"7,4958",,S,16,,
+Terceira Classe,0,"Skoog, Master. Harald",male,4,Criança,Sim,Sim,347088,"27,9",,S,,,
+Terceira Classe,0,"Skoog, Master. Karl Thorsten",male,10,Criança,Sim,Sim,347088,"27,9",,S,,,
+Terceira Classe,0,"Skoog, Miss. Mabel",female,9,Criança,Sim,Sim,347088,"27,9",,S,,,
+Terceira Classe,0,"Skoog, Miss. Margit Elizabeth",female,2,Criança,Sim,Sim,347088,"27,9",,S,,,
+Terceira Classe,0,"Skoog, Mr. Wilhelm",male,40,Adulto,Sim,Sim,347088,"27,9",,S,,,
+Terceira Classe,0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,Adulto,Sim,Sim,347088,"27,9",,S,,,
+Terceira Classe,0,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,Adolescente,Não,Não,348124,"7,65",F G73,S,,,
+Terceira Classe,0,"Somerton, Mr. Francis William",male,30,Adulto,Não,Não,A.5. 18509,"8,05",,S,,,
+Terceira Classe,0,"Spinner, Mr. Henry John",male,32,Adulto,Não,Não,STON/OQ. 369943,"8,05",,S,,,
+Terceira Classe,0,"Stankovic, Mr. Ivan",male,33,Adulto,Não,Não,349239,"8,6625",,C,,,
+Terceira Classe,1,"Stanley, Miss. Amy Zillah Elsie",female,23,Adulto,Não,Não,CA. 2314,"7,55",,S,C,,
+Terceira Classe,0,"Stanley, Mr. Edward Roland",male,21,Adulto,Não,Não,A/4 45380,"8,05",,S,,,
+Terceira Classe,0,"Storey, Mr. Thomas",male,"60,5",Adulto,Não,Não,3701,,,S,,261,
+Terceira Classe,0,"Stoytcheff, Mr. Ilia",male,19,Adolescente,Não,Não,349205,"7,8958",,S,,,
+Terceira Classe,0,"Strandberg, Miss. Ida Sofia",female,22,Adulto,Não,Não,7553,"9,8375",,S,,,
+Terceira Classe,1,"Stranden, Mr. Juho",male,31,Adulto,Não,Não,STON/O 2. 3101288,"7,925",,S,9,,
+Terceira Classe,0,"Strilic, Mr. Ivan",male,27,Adulto,Não,Não,315083,"8,6625",,S,,,
+Terceira Classe,0,"Strom, Miss. Telma Matilda",female,2,Criança,Não,Sim,347054,"10,4625",G6,S,,,
+Terceira Classe,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,Adulto,Sim,Sim,347054,"10,4625",G6,S,,,
+Terceira Classe,1,"Sunderland, Mr. Victor Francis",male,16,Adolescente,Não,Não,SOTON/OQ 392089,"8,05",,S,B,,
+Terceira Classe,1,"Sundman, Mr. Johan Julian",male,44,Adulto,Não,Não,STON/O 2. 3101269,"7,925",,S,15,,
+Terceira Classe,0,"Sutehall, Mr. Henry Jr",male,25,Adulto,Não,Não,SOTON/OQ 392076,"7,05",,S,,,
+Terceira Classe,0,"Svensson, Mr. Johan",male,74,Idoso,Não,Não,347060,"7,775",,S,,,
+Terceira Classe,1,"Svensson, Mr. Johan Cervin",male,14,Adolescente,Não,Não,7538,"9,225",,S,13,,
+Terceira Classe,0,"Svensson, Mr. Olof",male,24,Adulto,Não,Não,350035,"7,7958",,S,,,
+Terceira Classe,1,"Tenglin, Mr. Gunnar Isidor",male,25,Adulto,Não,Não,350033,"7,7958",,S,13 15,,
+Terceira Classe,0,"Theobald, Mr. Thomas Leonard",male,34,Adulto,Não,Não,363294,"8,05",,S,,176,
+Terceira Classe,1,"Thomas, Master. Assad Alexander",male,"0,4167",Criança,Não,Sim,2625,"8,5167",,C,16,,
+Terceira Classe,1,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16,Adolescente,Sim,Sim,2625,"8,5167",,C,14,,
+Terceira Classe,0,"Tikkanen, Mr. Juho",male,32,Adulto,Não,Não,STON/O 2. 3101293,"7,925",,S,,,
+Terceira Classe,0,"Tomlin, Mr. Ernest Portage",male,"30,5",Adulto,Não,Não,364499,"8,05",,S,,50,
+Terceira Classe,0,"Torber, Mr. Ernst William",male,44,Adulto,Não,Não,364511,"8,05",,S,,,
+Terceira Classe,1,"Tornquist, Mr. William Henry",male,25,Adulto,Não,Não,LINE,0,,S,15,,
+Terceira Classe,1,"Touma, Master. Georges Youssef",male,7,Criança,Sim,Sim,2650,"15,2458",,C,C,,
+Terceira Classe,1,"Touma, Miss. Maria Youssef",female,9,Criança,Sim,Sim,2650,"15,2458",,C,C,,
+Terceira Classe,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,Adulto,Não,Sim,2650,"15,2458",,C,C,,
+Terceira Classe,0,"Turcin, Mr. Stjepan",male,36,Adulto,Não,Não,349247,"7,8958",,S,,,
+Terceira Classe,1,"Turja, Miss. Anna Sofia",female,18,Adolescente,Não,Não,4138,"9,8417",,S,15,,
+Terceira Classe,1,"Turkula, Mrs. (Hedwig)",female,63,Adulto,Não,Não,4134,"9,5875",,S,15,,
+Terceira Classe,0,"van Billiard, Master. Walter John",male,"11,5",Criança,Sim,Sim,A/5. 851,"14,5",,S,,1,
+Terceira Classe,0,"van Billiard, Mr. Austin Blyler",male,"40,5",Adulto,Não,Sim,A/5. 851,"14,5",,S,,255,
+Terceira Classe,0,"Van Impe, Miss. Catharina",female,10,Criança,Não,Sim,345773,"24,15",,S,,,
+Terceira Classe,0,"Van Impe, Mr. Jean Baptiste",male,36,Adulto,Sim,Sim,345773,"24,15",,S,,,
+Terceira Classe,0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,Adulto,Sim,Sim,345773,"24,15",,S,,,
+Terceira Classe,0,"Vande Velde, Mr. Johannes Joseph",male,33,Adulto,Não,Não,345780,"9,5",,S,,,
+Terceira Classe,0,"Vande Walle, Mr. Nestor Cyriel",male,28,Adulto,Não,Não,345770,"9,5",,S,,,
+Terceira Classe,0,"Vanden Steen, Mr. Leo Peter",male,28,Adulto,Não,Não,345783,"9,5",,S,,,
+Terceira Classe,0,"Vander Cruyssen, Mr. Victor",male,47,Adulto,Não,Não,345765,9,,S,,,
+Terceira Classe,0,"Vander Planke, Miss. Augusta Maria",female,18,Adolescente,Sim,Não,345764,18,,S,,,
+Terceira Classe,0,"Vander Planke, Mr. Julius",male,31,Adulto,Sim,Não,345763,18,,S,,,
+Terceira Classe,0,"Vander Planke, Mr. Leo Edmondus",male,16,Adolescente,Sim,Não,345764,18,,S,,,
+Terceira Classe,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,Adulto,Sim,Não,345763,18,,S,,,
+Terceira Classe,1,"Vartanian, Mr. David",male,22,Adulto,Não,Não,2658,"7,225",,C,13 15,,
+Terceira Classe,0,"Vendel, Mr. Olof Edvin",male,20,Adulto,Não,Não,350416,"7,8542",,S,,,
+Terceira Classe,0,"Vestrom, Miss. Hulda Amanda Adolfina",female,14,Adolescente,Não,Não,350406,"7,8542",,S,,,
+Terceira Classe,0,"Vovk, Mr. Janko",male,22,Adulto,Não,Não,349252,"7,8958",,S,,,
+Terceira Classe,0,"Waelens, Mr. Achille",male,22,Adulto,Não,Não,345767,9,,S,,,"Antwerp, Belgium / Stanton, OH"
+Terceira Classe,0,"Wenzel, Mr. Linhart",male,"32,5",Adulto,Não,Não,345775,"9,5",,S,,298,
+Terceira Classe,1,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,Adulto,Não,Não,2688,"7,2292",,C,C,,
+Terceira Classe,0,"Widegren, Mr. Carl/Charles Peter",male,51,Adulto,Não,Não,347064,"7,75",,S,,,
+Terceira Classe,0,"Wiklund, Mr. Jakob Alfred",male,18,Adolescente,Sim,Não,3101267,"6,4958",,S,,314,
+Terceira Classe,0,"Wiklund, Mr. Karl Johan",male,21,Adulto,Sim,Não,3101266,"6,4958",,S,,,
+Terceira Classe,1,"Wilkes, Mrs. James (Ellen Needs)",female,47,Adulto,Sim,Não,363272,7,,S,,,
+Terceira Classe,0,"Williams, Mr. Leslie",male,"28,5",Adulto,Não,Não,54636,"16,1",,S,,14,
+Terceira Classe,0,"Windelov, Mr. Einar",male,21,Adulto,Não,Não,SOTON/OQ 3101317,"7,25",,S,,,
+Terceira Classe,0,"Wirz, Mr. Albert",male,27,Adulto,Não,Não,315154,"8,6625",,S,,131,
+Terceira Classe,0,"Wittevrongel, Mr. Camille",male,36,Adulto,Não,Não,345771,"9,5",,S,,,
+Terceira Classe,0,"Yasbeck, Mr. Antoni",male,27,Adulto,Sim,Não,2659,"14,4542",,C,C,,
+Terceira Classe,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,Adolescente,Sim,Não,2659,"14,4542",,C,,,
+Terceira Classe,0,"Youseff, Mr. Gerious",male,"45,5",Adulto,Não,Não,2628,"7,225",,C,,312,
+Terceira Classe,0,"Zabour, Miss. Hileni",female,"14,5",Adolescente,Sim,Não,2665,"14,4542",,C,,328,
+Terceira Classe,0,"Zakarian, Mr. Mapriededer",male,"26,5",Adulto,Não,Não,2656,"7,225",,C,,304,
+Terceira Classe,0,"Zakarian, Mr. Ortin",male,27,Adulto,Não,Não,2670,"7,225",,C,,,
+Terceira Classe,0,"Zimmerman, Mr. Leo",male,29,Adulto,Não,Não,315082,"7,875",,S,,,
